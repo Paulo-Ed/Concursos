@@ -1,2 +1,2 @@
 # Concursos
-Material de estudo para concursos.
+Anotações disciplinas para concursos.
