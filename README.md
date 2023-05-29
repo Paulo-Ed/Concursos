@@ -1,2 +1,2 @@
 # Concursos
-Anotações disciplinas para concursos.
+Anotações de estudo para concursos.
