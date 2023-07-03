@@ -1,4 +1,4 @@
-# MATEMÁTICA
+# ESTATÍSTICA
 
 ## 
 
