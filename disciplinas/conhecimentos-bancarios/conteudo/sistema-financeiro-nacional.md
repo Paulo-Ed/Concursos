@@ -4,8 +4,6 @@
 
 ## Sistema Financeiro Nacional
 
-> #### INTRODUÇÃO
-
 > #### ORGANIZAÇÃO DO SISTEMA FINANCEIRO NACIONAL
 
 ## Conselho Monetário Nacional
