@@ -44,4 +44,11 @@
 * Agentes com escassez de fundos.
 * Devedores financeiros.
 
-## ESTRUTURA DO SISTEMA FINANCEIRO NACIONAL
+## COMPOSIÇÃO
+* O sistema financeiro nacional é composto por dois subsistemas, o subsistema normativo e o subsistema operacional.
+* O Sistema financeiro nacional é definido no artigo 192 da constituição, sendo as instituições que o formam reguladas por meio de lei complementar.
+
+> ### Subsistema normativo
+
+
+> ### Subsistema operacional
