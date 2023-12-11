@@ -1,4 +1,4 @@
-# Organização e Estrutura do Sistema Financeiro Nacional
+# Sistema Financeiro Nacional
 
 ## INTRODUÇÃO
 
@@ -43,3 +43,5 @@
 * Agentes carentes de recursos ou fundos.
 * Agentes com escassez de fundos.
 * Devedores financeiros.
+
+## ESTRUTURA DO SISTEMA FINANCEIRO NACIONAL
