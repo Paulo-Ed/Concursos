@@ -16,10 +16,17 @@
 
 > ### Banco
 * Entre os agentes que formam o SFN, o banco é a entidade que possibilita a integração dos recursos dos poupadores, com os investidores que precisam de recursos. Dessa forma o banco atua como intermediador financeiro entre agentes com diferentes objetivos.
+* Ao poupador o banco beneficia com:
+  - Segurança ao recursos.
+  - Utilização dos recursos via meios de pagamento (débito, crédito, pix, saque, transferêncas, etc)
+  - Possibilidade de rendimento a prazo.
+* Ao tomador o banco beneficia com:
+  - Oferta de crédito.
+  - Possibilidade de investimento em novos negócios.
 
 #### Intermediação financeira
 * É a atividade de captação de recursos com agentes superavitários e disponibilização aos agentes deficitários, sendo o garantidor de proteção dos recursos do primeiro e fiador do investimento do segundo. 
-* A captação dos recursos ocorre a partir de uma garantia de lucro ao poupador dada pelo banco, que ao emprestar esse valor a um tomador, a uma determinada taxa de juros, obtém um lucro para si e ao mesmo tempo paga o poupador dos recursos originais.
+* A captação dos recursos ocorre a partir de uma garantia de lucro ao poupador dada pelo banco, que ao emprestar esse valor a um tomador, a uma determinada taxa de juros, obtém um lucro para si (como compensação por tomar o risco do crédito do poupador) e ao mesmo tempo paga o poupador dos recursos originais.
 * Esse lucro obtido a partir da diferença da taxa de juros que o banco paga a quem lhe empresta dinheiro (taxa de captação) e a taxa de juros que o banco cobra para quem ele empresta dinheiro (taxa de aplicação), chamado de ***spread bancário***.
 
 > ### Glossário
