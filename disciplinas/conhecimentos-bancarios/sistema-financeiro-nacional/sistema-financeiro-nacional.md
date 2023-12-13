@@ -4,7 +4,7 @@
 
 > ### Conceito
 * O sistema financeiro é o conjunto de instituições, mercados, instrumentos e mecanismos que possibilitam a circulação de dinheiro e a transferência de recursos entre agentes econômicos.
-* O SFN é o responsável por todas as atividades que envolvem a gestão, captação, alocação, transferência e proteção dos recursos financeiros. Dessa forma o SFN atua como mecanismo de dinamicidade das relações econômicas, produzindo aspectos que movimenta a produção.
+* O SFN é o responsável por todas as atividades que envolvem a gestão, captação, alocação, transferência e proteção dos recursos financeiros. Dessa forma o SFN atua como mecanismo de dinamicidade das relações econômicas, produzindo aspectos que movimentam a produção.
 * Aspectos que um SFN produz:
   - Criação de empregos diretos e indiretos.
   - Geração de renda.
@@ -44,9 +44,9 @@
 * Agentes com escassez de fundos.
 * Devedores financeiros.
 
-## COMPOSIÇÃO
+## OBJETIVO E COMPOSIÇÃO
+* O Sistema financeiro nacional tem como objetivo promover o desenvolvimento equilibrado do Brasil, servindo aos interesses da coletividade de acordo com o artigo 192 da constituição. Sendo todas as partes que o formam reguladas por meio de lei complementar.
 * O sistema financeiro nacional é composto por dois subsistemas, o subsistema normativo e o subsistema operacional.
-* O Sistema financeiro nacional é definido no artigo 192 da constituição, sendo as instituições que o formam reguladas por meio de lei complementar.
 
 > ### Subsistema normativo
 
