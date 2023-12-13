@@ -28,6 +28,8 @@
 * É a atividade de captação de recursos com agentes superavitários e disponibilização aos agentes deficitários, sendo o garantidor de proteção dos recursos do primeiro e fiador do investimento do segundo. 
 * A captação dos recursos ocorre a partir de uma garantia de lucro ao poupador dada pelo banco, que ao emprestar esse valor a um tomador, a uma determinada taxa de juros, obtém um lucro para si (como compensação por tomar o risco do crédito do poupador) e ao mesmo tempo paga o poupador dos recursos originais.
 * Esse lucro obtido a partir da diferença da taxa de juros que o banco paga a quem lhe empresta dinheiro (taxa de captação) e a taxa de juros que o banco cobra para quem ele empresta dinheiro (taxa de aplicação), chamado de ***spread bancário***.
+* Cálculo do spread bancário:
+  - taxa de captação + taxa de aplicação 
 
 > ### Glossário
 
