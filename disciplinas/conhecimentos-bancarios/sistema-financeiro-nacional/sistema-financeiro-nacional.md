@@ -93,3 +93,5 @@
   - Cooperativas de crédito.
   - Instituições de pagamento.
   - Demais instituições não bancárias.
+
+## ESTRUTURA DO SUBSISTEMA NORMATIVO
