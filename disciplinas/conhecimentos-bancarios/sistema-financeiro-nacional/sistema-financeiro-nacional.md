@@ -29,7 +29,7 @@
 * A captação dos recursos ocorre a partir de uma garantia de lucro ao poupador dada pelo banco, que ao emprestar esse valor a um tomador, a uma determinada taxa de juros, obtém um lucro para si (como compensação por tomar o risco do crédito do poupador) e ao mesmo tempo paga o poupador dos recursos originais.
 * Esse lucro obtido a partir da diferença da taxa de juros que o banco paga a quem lhe empresta dinheiro (taxa de captação) e a taxa de juros que o banco cobra para quem ele empresta dinheiro (taxa de aplicação), chamado de ***spread bancário***.
 * Cálculo do spread bancário:
-  - taxa de captação + taxa de aplicação 
+  - taxa de captação + taxa de aplicação = spread bancário
 
 > ### Glossário
 
@@ -54,7 +54,8 @@
 * Devedores financeiros.
 
 ## OBJETIVO E COMPOSIÇÃO
-* O Sistema financeiro nacional tem como objetivo promover o desenvolvimento equilibrado do Brasil, servindo aos interesses da coletividade de acordo com o artigo 192 da constituição. Sendo todas as partes que o formam reguladas por meio de lei complementar.
+* O Sistema financeiro nacional tem como objetivo promover o desenvolvimento equilibrado do Brasil, servindo aos interesses da coletividade de acordo com o artigo 192 da constituição. Sendo todas as partes que o formam, reguladas por meio de lei complementar. 
+* O artigo 192, expressa em si a inclusão da participação das cooperativas de crédito no sistema financeiro nacional.
 * O sistema financeiro nacional é composto por dois subsistemas, o subsistema normativo e o subsistema operacional.
 
 > ### Subsistema normativo
