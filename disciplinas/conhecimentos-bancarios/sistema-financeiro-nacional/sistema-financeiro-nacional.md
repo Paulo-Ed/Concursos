@@ -31,6 +31,10 @@
 * Cálculo do spread bancário:
   - taxa de captação + taxa de aplicação = spread bancário
 
+#### Instituições financeiras
+* São as pessoas jurídicas, públicas ou privadas que tenham entre suas atividades a coleta, intermediação ou a aplicação de recursos financeiros. Esses recursos podem ser próprios ou de terceiros e em moeda nacional ou estrangeira. Também podem atuar na custódia de valor de propriedade de terceiros.
+* Equiparam-se às instituições financeiras as pessoas físicas que atuem em qualquer uma dessas atividades de forma eventual ou permanente.
+
 > ### Glossário
 
 #### Agentes econômicos
@@ -115,3 +119,19 @@
 1. Aplicação da penalidade - PREVIC.
 2. Pedido de reconsideração da penalidade - PREVIC.
 3. Pedido de recurso em última instância - CRPC (Câmara de Recursos da Previdência Complementar).
+
+> ### Estrutura organizacional 
+* O principal objetivo da organização do subsistema normativo é estabelecer determinações por meio dos conselhos e fazer com que os operadores cumpram as determinações, tarefa realizada pelas das entidades supervisoras. 
+* O BACEN além disso tem a função de gerir a política monetária com autonomia.
+
+#### Orgãos normativos
+* Todos os conselhos (CMN, CNSP e CNPC) são orgãos subordinados aos seus respectivos ministérios.
+* O CMN e o CNSP são subordinados ao ministério da fazenda.
+* O CNPC é subordinado ao ministério do trabalho e previdência.
+
+#### Entidades supervisoras
+* São vinculadas aos seus respectivos ministérios, com exceção do BACEN que possui autonomia plena.
+* O BACEN no entando cumpre as determinações do CMN estabelecidas em lei.
+* A CVM possui autonomia, mas está vinculada ao ministério da fazenda.
+* A SUSEP é vinculada ao ministério da fazenda.
+* A PREVIC é vinculada ao ministério do trabalho e previdência.
