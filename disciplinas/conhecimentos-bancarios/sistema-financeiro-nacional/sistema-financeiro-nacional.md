@@ -32,7 +32,7 @@
   - taxa de captação + taxa de aplicação = spread bancário
 
 #### Instituições financeiras
-* São as pessoas jurídicas, públicas ou privadas que tenham entre suas atividades a coleta, intermediação ou a aplicação de recursos financeiros. Esses recursos podem ser próprios ou de terceiros e em moeda nacional ou estrangeira. Também podem atuar na custódia de valor de propriedade de terceiros.
+* São as pessoas jurídicas, públicas ou privadas que tenham como atividade principal ou acessória a coleta, intermediação ou a aplicação de recursos financeiros. Esses recursos podem ser próprios ou de terceiros e em moeda nacional ou estrangeira. Também podem atuar na custódia de valor de propriedade de terceiros.
 * Equiparam-se às instituições financeiras as pessoas físicas que atuem em qualquer uma dessas atividades de forma eventual ou permanente.
 
 > ### Glossário
@@ -130,7 +130,7 @@
 * O CNPC é subordinado ao ministério do trabalho e previdência.
 
 #### Entidades supervisoras
-* São vinculadas aos seus respectivos ministérios, com exceção do BACEN que possui autonomia plena.
+* São vinculadas aos seus respectivos ministérios, com exceção do BACEN que possui autonomia plena e não é vinculado ou subordinado a nenhum ministério.
 * O BACEN no entando cumpre as determinações do CMN estabelecidas em lei.
 * A CVM possui autonomia, mas está vinculada ao ministério da fazenda.
 * A SUSEP é vinculada ao ministério da fazenda.
