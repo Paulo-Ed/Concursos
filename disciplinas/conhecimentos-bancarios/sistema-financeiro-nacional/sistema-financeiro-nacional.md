@@ -6,7 +6,7 @@
 * O sistema financeiro é o conjunto de instituições, mercados, instrumentos e mecanismos que possibilitam a circulação de dinheiro e a transferência de recursos entre agentes econômicos.
 * O SFN é o responsável por todas as atividades que envolvem a gestão, captação, alocação, transferência e proteção dos recursos financeiros. Dessa forma o SFN atua como mecanismo de dinamicidade das relações econômicas, produzindo aspectos que movimentam a produção.
 * Aspectos que um SFN produz:
-  - Criação de empregos diretos e indiretos (via aumento de demanda).
+  - Criação de empregos diretos e indiretos (via aumento de demanda nas cadeias de produção).
   - Geração de renda.
   - Proteção dos poupadores.
   - Proteção das instituições que formam o SFN.
@@ -50,7 +50,7 @@
 * Agente com excedentes financeiros.
 
 #### Agente tomador de recursos
-* Investidores
+* Investidores.
 * Tomador de recursos.
 * Agentes deficitários.
 * Agentes carentes de recursos ou fundos.
@@ -103,7 +103,7 @@
 > ### Estrutura de penalidades administrativas
 * As entidades supervisoras, diante de irregularidades encontradas a partir da fiscalização das normas estabelecidas pelos orgãos normativos, podem aplicar penalidades aos operadores do SFN, essas penalidades possuem caráter administrativo.
 * Na estrutura de processamento das penalidades, as instituições podem recorrer das decisões as próprias entidades (1ª instância) e em último caso aos conselhos de recursos.
-* Na atuação de agente fiscalizador a entidade responsável por fiscalizar um operador, vai depender do segmento de atuação da instituição operadora. Dessa forma uma instituição pode por exemplo ser fiscalizada pelo BACEN ou pela CVM de acordos com as diferentes áreas de sua atuação.
+* Na atuação de agente fiscalizador a entidade responsável por fiscalizar um operador, vai depender do segmento de atuação da instituição operadora. Dessa forma uma instituição pode por exemplo ser fiscalizada pelo BACEN ou pela CVM de acordo com as diferentes áreas de sua atuação.
 
 #### Organograma BACEN e CVM:
 1. Aplicação da penalidade - BACEN/CVM.
@@ -121,17 +121,17 @@
 3. Pedido de recurso em última instância - CRPC (Câmara de Recursos da Previdência Complementar).
 
 > ### Estrutura organizacional 
-* O principal objetivo da organização do subsistema normativo é estabelecer determinações por meio dos conselhos e fazer com que os operadores cumpram as determinações, tarefa realizada pelas das entidades supervisoras. 
+* O principal objetivo da organização do subsistema normativo é estabelecer determinações por meio dos conselhos e fazer com que os operadores cumpram as determinações, tarefa realizada pelas entidades supervisoras. 
 * O BACEN além disso tem a função de gerir a política monetária com autonomia.
 
 #### Orgãos normativos
 * Todos os conselhos (CMN, CNSP e CNPC) são orgãos subordinados aos seus respectivos ministérios.
 * O CMN e o CNSP são subordinados ao ministério da fazenda.
-* O CNPC é subordinado ao ministério do trabalho e previdência.
+* O CNPC é subordinado ao ministério da previdência.
 
 #### Entidades supervisoras
 * São vinculadas aos seus respectivos ministérios, com exceção do BACEN que possui autonomia plena e não é vinculado ou subordinado a nenhum ministério.
 * O BACEN no entando cumpre as determinações do CMN estabelecidas em lei.
 * A CVM possui autonomia, mas está vinculada ao ministério da fazenda.
 * A SUSEP é vinculada ao ministério da fazenda.
-* A PREVIC é vinculada ao ministério do trabalho e previdência.
+* A PREVIC é vinculada ao ministério da previdência.
