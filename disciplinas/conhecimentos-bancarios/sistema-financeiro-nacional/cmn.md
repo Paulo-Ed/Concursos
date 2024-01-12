@@ -1,6 +1,6 @@
-# Sistema Financeiro Nacional
+# Conselho Monetário Nacional
 
-## CONSELHO MONETÁRIO NACIONAL
+## INTRODUÇÃO
 * O CMN é o principal orgão normativo do sistema financeiro nacional, atuando como conselho de política econômica.
 * Foi criado pela Lei nº 4595/1964 substituindo o conselho da SUMOC.
 * É de responsabilidade do CMN coordenar as políticas monetária, creditícia, orçamentária, fiscal e da dívida pública interna e externa. O CMN não realiza atividades executivas, apenas regulatórias.
@@ -39,7 +39,7 @@
   - Secretário do tesouro nacional do ministério da fazenda.
   - Secretário de política econômica do ministério da fazenda.
 
-> ### Objetivos do CMN
+## OBJETIVOS DO CMN
 * Os objetivos do CMN foram estabelecidos no artigo 2º da Lei 4595/1964 que define como principal objetivo o progresso econômico e social do País.
 * A partir desse objetivo central são definidos no artigo 3º os quatro objetivos específicos do CMN:
   - **Orientar** a aplicação dos recursos das instituições financeiras públicas ou privadas para propiciar condições favoráveis ao desenvolvimento harmônico da economia nacional.
