@@ -1,6 +1,6 @@
 # Hardware
 
-## INTRODUÇÃO
+## CONCEITO
 * Hardware é a parte física dos sistemas computacionais.
 
 > ### Tipos de hardware
