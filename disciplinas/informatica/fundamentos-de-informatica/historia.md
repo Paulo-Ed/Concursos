@@ -1,6 +1,8 @@
-# Fundamentos de informática
+# História da Computação
 
-## HISTÓRIA DA COMPUTAÇÃO
+## INTRODUÇÃO
+* A computação moderna tem início a partir do final da primeira metade do século 20. 
+* É comum a divisão dos avanços da computação em gerações de acordo com as tecnologias do período.
 
 > ### Primeira geração (1944 - 1959)
 * Os computadores eram formados por circuitos e válvulas eletrônicas.

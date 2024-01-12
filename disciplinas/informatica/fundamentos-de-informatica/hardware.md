@@ -1,6 +1,6 @@
-# Fundamentos da informática
+# Hardware
 
-## HARDWARE
+## INTRODUÇÃO
 * Hardware é a parte física dos sistemas computacionais.
 
 > ### Tipos de hardware
@@ -52,4 +52,4 @@
   - Modem.
   - Impressora multifuncional.
 
-> ### 
+## ORGANIÇÃO E ARQUITETURA DOS COMPUTADORES
