@@ -17,7 +17,7 @@
 
 #### Deliberações
 * As deliberações são feitas por meio de resoluções, conduzidas pelo presidente do CMN, sobre questões previamente estabelecidas e são aprovadas ou não por maioria absoluta de votos.
-* É possível em caso urgência e interesse relevante que o presidente do CMN, tome decisões sozinhos (ad referendum), sendo essas decisões obrigatoriamente submetidas ao restante do conselho na reunião subsequente para ser apreciada.
+* É possível em caso de urgência e interesse relevante que o presidente do CMN, tome decisões sozinhos (ad referendum), sendo essas decisões obrigatoriamente submetidas ao restante do conselho na reunião subsequente para ser apreciada.
 * É comum a participação nas reuniões, em caráter de observador, de representantes do setores econômicos do país. 
 
 #### Decisões
@@ -31,16 +31,16 @@
 
 #### COMOC
 * É a comissão técnica da moeda e do crédito, sendo de sua responsabilidade propor os temas a serem discutidos, se manifestar sobre eles e realizar outras atribuições definidas pelo CMN.
-* Composição do COMOC:
+* Composição da COMOC:
   - Presidente do BACEN (Coordenador da COMOC).
   - Quatro diretores do BACEN.
   - Presidente da CVM.
   - Secretário executivo do ministério da fazenda.
-  - Secretário do tesouro naciona do ministério da fazenda.
+  - Secretário do tesouro nacional do ministério da fazenda.
   - Secretário de política econômica do ministério da fazenda.
 
 > ### Objetivos do CMN
-* Os objetivos do CMN foram estabelecidos do artigo 2º da Lei 4595/1964 que define como principal objetivo o progresso econômico e social do País.
+* Os objetivos do CMN foram estabelecidos no artigo 2º da Lei 4595/1964 que define como principal objetivo o progresso econômico e social do País.
 * A partir desse objetivo central são definidos no artigo 3º os quatro objetivos específicos do CMN:
   - **Orientar** a aplicação dos recursos das instituições financeiras públicas ou privadas para propiciar condições favoráveis ao desenvolvimento harmônico da economia nacional.
   - **Propiciar** o aperfeiçoamento das instituições e dos instrumentos financeiros, com vistas à maior eficiência do sistema de pagamentos e de mobilização de recursos.
