@@ -1,4 +1,4 @@
-# Fundamentos de Informática
+# Fundamentos de informática
 
 ## HISTÓRIA DA COMPUTAÇÃO
 
