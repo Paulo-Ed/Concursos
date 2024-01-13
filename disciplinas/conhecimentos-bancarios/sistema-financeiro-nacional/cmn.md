@@ -1,6 +1,6 @@
 # Conselho Monetário Nacional
 
-## INTRODUÇÃO
+## DEFINIÇÃO
 * O CMN é o principal orgão normativo do sistema financeiro nacional, atuando como conselho de política econômica.
 * Foi criado pela Lei nº 4595/1964 substituindo o conselho da SUMOC.
 * É de responsabilidade do CMN coordenar as políticas monetária, creditícia, orçamentária, fiscal e da dívida pública interna e externa. O CMN não realiza atividades executivas, apenas regulatórias.

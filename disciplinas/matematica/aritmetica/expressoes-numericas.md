@@ -3,7 +3,7 @@ Estudo das expressões numéricas.
 
 <br>
 
-## EXPRESSÕES NUMÉRICAS
+## DEFINIÇÃO
 * Expressões numéricas são sequências de operações matemáticas, que envolvem apenas números e simbolos e tem como resultado um número. Além disso não exigem a condição de igualdade.
 * Toda expressão é formada por uma associação de operações, essas devem ser resolvidas seguindo uma ordem de prioridade.
 

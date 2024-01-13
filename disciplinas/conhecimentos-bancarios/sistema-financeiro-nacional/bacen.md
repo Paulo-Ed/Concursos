@@ -1,6 +1,6 @@
 # Banco Central do Brasil
 
-## INTRODUÇÃO
+## DEFINIÇÃO
 * O Banco Central do Brasil é a principal entidade supervisora e orgão executor do sitema financeiro nacional.
 * Foi criado pela Lei nº 4595/1964 em substituição à Superintendência da moeda e do crédito (SUMOC). 
 * O Banco Central é uma autarquia de natureza especial, sem vinculação a ministério e com autonomia estabelacida pela Lei Complementar nº 179/2021.

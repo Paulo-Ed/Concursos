@@ -1,6 +1,6 @@
 # Sistema Financeiro Nacional
 
-## INTRODUÇÃO
+## DEFINIÇÃO
 * O sistema financeiro é o conjunto de instituições, mercados, instrumentos e mecanismos que possibilitam a circulação de dinheiro e a transferência de recursos entre agentes econômicos.
 * O SFN é o responsável por todas as atividades que envolvem a gestão, captação, alocação, transferência e proteção dos recursos financeiros. Dessa forma o SFN atua como mecanismo de dinamicidade das relações econômicas, produzindo aspectos que movimentam a produção.
 * Aspectos que um SFN produz:
