@@ -1,4 +1,5 @@
 # Operações Básicas
+Estudo das operações matemáticas básicas.
 
 <br>
 
