@@ -77,8 +77,6 @@ Ex: -4 + (-5) = -9
 Ex: -2 + 7 = +5  
 Ex: 15 + (-25) = -10
 
-<br>
-
 ## SUBTRAÇÃO
 * A subtração é a retirada (descréscimo) de uma parte (um menor valor) de algo (um todo, um maior valor), sendo a operação matemática inversa a adição.
 * O simbolo **-** (menos) representa a operação de subtração.
@@ -154,8 +152,6 @@ Ex: -4 + (-5) = -9
 
 Ex: -2 + 7 = +5  
 Ex: 15 + (-25) = -10
-
-<br>
 
 ## MULTIPLICAÇÃO
 * A multiplicação é a expressão do aumento das quantidades de um determinado valor, sendo uma forma simplificada de calcular a adição.
@@ -249,8 +245,6 @@ Ex: -4 x (-5) = 20
 
 Ex: -2 x 7 = -14  
 Ex: 1 x (-25) = -25
-
-<br>
 
 ## DIVISÃO
 * A divisão é a operação matemática que faz a separação de um valor em partes, de acordo com um outro valor, sendo a operação inversa a multiplicação.

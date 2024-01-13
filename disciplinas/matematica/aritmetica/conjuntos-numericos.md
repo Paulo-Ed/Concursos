@@ -85,7 +85,7 @@ Ex: -6 = -12/2
 Ex: 1,41413...
 Ex: 3,141592...
 
-> ## NÚMEROS REAIS
+## NÚMEROS REAIS
 * O conjunto dos números reais é formado pelo conjunto dos números racionais e irracionais.
 * Representação do conjunto de números reais:
    - R = {N, Z, Q, I}
