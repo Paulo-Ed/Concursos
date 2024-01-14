@@ -35,3 +35,8 @@ Ex: 14,8 : 2 = 7,4
 Ex: 14,8 = 148/10
 Ex: 7,4 = 74/10   
 Ex: 180,00 = 180/100  
+
+***DICA***: Para transformar dízimas períodicas em forma de fração, coloca-se como numerador o valor da dízima e coloca-se como denominador o **9** o número de vezes correspondente as casas da dízima.
+
+Ex: 0,222... = 2/9  
+Ex: 0,4545... = 45/99
