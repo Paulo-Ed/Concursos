@@ -32,9 +32,9 @@ Ex: 14,8 : 2 = 7,4
 ## TRANSFORMAÇÃO DE NÚMERO DECIMAL EM FRAÇÃO
 * Para transformar um número decimal em fração, deve-se retirar a vírgula, colocar o número em forma de fração, definindo como denominador o 1, seguido n zeros correspondente ao número de casas decimais após a vírgula.
 
-Ex: 14,8 = 148/10
-Ex: 7,4 = 74/10   
-Ex: 180,00 = 180/100  
+Ex: 14,8 = 148/10  
+Ex: 7,4 = 74/10     
+Ex: 180,00 = 180/100    
 
 ***DICA***: Para transformar dízimas períodicas em forma de fração, coloca-se como numerador o valor da dízima e coloca-se como denominador o **9** o número de vezes correspondente as casas da dízima.
 
