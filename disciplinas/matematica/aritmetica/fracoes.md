@@ -16,14 +16,14 @@
   - a = numerador
   - n = denominador
 
-## TIPOS DE FRAÇÕES
+> ### Tipos de fração
 
-> ### Fração própria
+#### Fração própria
 * Uma fração é própria, quando o seu numerador é menor que o denominador, ou seja, representa um valor menor que um inteiro.
 
 Ex: 4/5  
 
-> ### Fração imprópria
+#### Fração imprópria
 * Uma fração é imprópria, quando o seu numerador é maior que o denominador, ou seja, representa um valor maior que um inteiro.
 * A fração imprópria pode ser transformada em fração mista, a partir da divisão dos seus elementos.
 
@@ -35,7 +35,7 @@ Ex: 8/3 = 2 2/3
 5. o quociente 2 então se torna a parte inteira da fração, resto 2 se torna o numerador e repete-se o denominador original 3 formando a parte fracionária => 2 2/3
 6. logo o resultado => 2 2/3
 
-> ### Fração mista
+#### Fração mista
 * Uma fração mista, é uma fração formada por uma parte que representa a parte inteira e uma parte que representa a parte fracionária.
 * A fração mista é uma fração derivada de uma fração imprópria.
 
@@ -44,19 +44,19 @@ Ex: 2 2/3 = 8/3
 2. soma-se o resultado com o numerador => 6 + 2 = 8
 3. o 8 é o numerador e repete-se o denominador => 8/3
          
-> ### Fração equivalente
+#### Fração equivalente
 * São frações formadas por diferentes valores, mas que representam a mesma parte de um inteiro.
 * Pode-se identificar frações equivalentes, realizando a sua simplificação, ou multiplicando seu numerador e denominador por um mesmo número.
 * Pode-se realizar a comparação de frações por meio da sua redução a um mesmo denominador.
 
 Ex: 1/2 = 2/4
 
-> ### Fração aparente
+#### Fração aparente
 * É uma fração que pode ser representada como um número inteiro, pois o seu numerador é divisível pelo seu denominador.
 
 Ex: 6/3 = 2
 
-> ### Fração geratriz
+#### Fração geratriz
 * É uma fração em que a divisão do numerador pelo denominador, tem como resultado uma dízima periódica.
 
 Ex: 3/9 = 0,333...

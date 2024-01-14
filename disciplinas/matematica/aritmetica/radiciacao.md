@@ -79,20 +79,20 @@ Ex: √<sup>3</sup>√64 = <sup>2 . 3</sup>√64 = <sup>6</sup>√64 = 2
 
 Ex: <sup>5</sup>√242 = <sup>5</sup>√3<sup>5</sup> = 3
 
-## RACIONALIZAÇÃO DE DENOMINADORES
+> ### Racionalização de denominadores
 * A racionalização de denominadores, é a transformação de uma fração de denominador irracional, em uma fração equivalente com denominador racional.
 
-> ### Denominador com raíz quadrada
+#### Denominador com raíz quadrada
 * Multiplica-se o numerador e o denominador da fração, pelo valor do denominador da fração.
 
 Ex: 3/√5 = 3/√5 . √5/√5 = 3√5/√5.5 = 3√5/√5<sup>2</sup> = 3√5/5
 
-> ### Denominador com raíz de expoente maior que dois
+#### Denominador com raíz de expoente maior que dois
 * Deve-se encontrar um valor em que a multiplicação das potências, resulte em um expoente igual ao do radical do denominador, possibilitando a sua eliminação.
 
 Ex: 2/<sup>5</sup>√9 = 2/<sup>5</sup>√3<sup>2</sup> . <sup>5</sup>√3<sup>3</sup>/<sup>5</sup>√3<sup>3</sup> = 2<sup>5</sup>√3<sup>3</sup>/<sup>5</sup>√3<sup>3</sup>.3<sup>2</sup> = 2<sup>5</sup>√3<sup>3</sup>/<sup>5</sup>√3<sup>5</sup> = 2<sup>5</sup>√27/3
 
-> ### Denominador com adição ou subtração de radicais
+#### Denominador com adição ou subtração de radicais
 * Quando o denominador for uma adição ou subtração de radicais, multiplica-se o numerador e o denominador pela expressão com valor inverso ao do denominador, que se traduz em um produto notável em que o resultado é o quadrado do radicando de cada valor que forma o denominador.
 
 Ex: 3/√6 - √3 = 3/√6 - √3 . √6 + √3/√6 + √3 = 3(√6 + √3)/(√6 - √3).(√6 + √3) = 3(√6 + √3)/(√6)<sup>2</sup> - (√3)<sup>2</sup> = 3(√6 + √3)/6 - 3 = 3(√6 + √3)/3 = √6 + √3

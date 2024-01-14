@@ -62,7 +62,7 @@ Ex: |-10| = 10
 * Representação do conjunto de números racionais:
    - Q = { ..., -2/1, ..., -1/4, -1/3, -1/2, -1/1, 0, 1/1, 1/2, 1/3, 1/4, ..., 2/1, ...}
 
-> ### PROPRIEDADES
+> ### Propriedades
 * É composto por todos os números que podem ser representados na forma **n/d** em que **n** (numerador) e **d** (denominador) são números inteiros e **d** é ≠ **0**.
 * São outras formas de representar os números racionais, os números decimais (em forma de dízima periódica) e os números sob a forma de % (porcentagem) pois representam uma fração.
 * Entre dois números inteiros, existem infinitos números racionais.
@@ -79,7 +79,7 @@ Ex: -6 = -12/2
 * Representação do conjunto de números irracionais:
    - I = {e, π, √2, ...}
 
-> ### PROPRIEDADES
+> ### Propriedades
 * Os números irracionais podem ser algébricos ou transcendentes. Algébrico é aquele que satisfaz uma equação algébrica, todo que não satisfazer é um irracional transcendente.
 
 Ex: 1,41413...

@@ -114,7 +114,7 @@ Ex: 27 - 18 = 9
 5. realiza-se a subtração da nova expressão => 29 - 20 = 9  
 6. logo o resultado da expressão original => 9
 
-> ### Propriedades
+> ### Propriedades da subtração
 
 #### Não comutativa
 * A ordenação dos elementos de uma subtração se alterada mudará o seu resultado.
@@ -184,7 +184,7 @@ Ex: 25 x 42 = 1050
 9. adição do resultado das duas multiplicações (respeitando a ordem das posições dos algarismos da multiplicação) => 50 + 100 = 1050 (050 + 1000)
 10. logo o resultado = 1050
 
-> ### Propriedades
+> ### Propriedades da multiplicação
 
 #### Distributiva
 * A multiplicação de um fator por uma adição ou subtração é igual a multiplicação de cada termo pelo fator e a posterior adição ou subtração dos resultados da multiplicação.
@@ -281,7 +281,7 @@ Ex: 232 : 8 = 29
 9. como não há mais algarismos a dividir, finaliza-se a divisão
 10. logo resultado = 29
 
-> ### Propriedades
+> ### Propriedades da divisão
 
 #### Não comutativa
 * A ordenação dos elementos de uma divisão altera o seu resultado.
