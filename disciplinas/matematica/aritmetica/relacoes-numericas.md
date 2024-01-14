@@ -1,5 +1,4 @@
 # Relações Numéricas
-Estudo das relações numéricas.
 
 <br>
 

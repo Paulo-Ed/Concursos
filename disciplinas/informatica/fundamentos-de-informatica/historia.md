@@ -1,9 +1,8 @@
 # História da Computação
-Estudo da história da computação.
 
 <br>
 
-## DEFINIÇÃO
+## ENTENTENDO
 * A computação moderna tem início a partir do final da primeira metade do século 20. 
 * É comum a divisão dos avanços da computação em gerações de acordo com as tecnologias do período.
 

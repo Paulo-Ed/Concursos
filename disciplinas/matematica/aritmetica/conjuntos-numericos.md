@@ -1,5 +1,4 @@
 # Conjuntos Numéricos
-Estudo dos conjuntos numéricos.
 
 <br>
 

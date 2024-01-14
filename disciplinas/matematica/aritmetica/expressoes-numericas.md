@@ -1,5 +1,4 @@
 # Expressões Numéricas
-Estudo das expressões numéricas.
 
 <br>
 

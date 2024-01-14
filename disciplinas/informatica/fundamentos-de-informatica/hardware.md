@@ -5,13 +5,13 @@
 ## DEFINIÇÃO
 * Hardware é a parte física dos sistemas computacionais.
 
-> ### Tipos de hardware
+## TIPOS DE HARDWARE
 
-#### Computadores de grande porte
+> ### Computadores de grande porte
 * Compuradores utilizados por empresas, sendo conhecidos como servidores.
 * Possuem arquitetura própria e são utilizados para oferecer serviços na internet, atendendo milhare de usuários ao mesmo tempo.
 
-#### Computadores pessoais
+> ### Computadores pessoais
 * Seu uso é voltado ao público geral.
 * Principais modelos:
   - Desktop (Computador de mesa).
@@ -19,14 +19,14 @@
   - Netbook.
   - Ultrabook.
 
-#### Dispositivos móveis
+> ### Dispositivos móveis
 * Utilizados via touch screen, são dispositivos de uso na mão, sendo atualmente os mais utilizados.
 * É formado por tablets e smartphones.
 
-#### Periféricos
+> ### Periféricos
 * Dispositivos que auxiliares no processamento dos computadores. Podem ser internos ou externos.
 
-##### Dispositivos de entrada
+#### Dispositivos de entrada
 * Esses dispositivos enviam dados para a CPU.
 * Exemplos:
   - Teclado.
@@ -36,7 +36,7 @@
   - Microfone.
   - Leito óptico.
 
-##### Dispositivos de saída
+#### Dispositivos de saída
 * Recebem dados processados da CPU como porta de saída.
 * Exemplos:
   - Monitor.
@@ -44,7 +44,7 @@
   - Caixa de som.
   - Impressora.
 
-##### Dispositivos de entrada e saída
+#### Dispositivos de entrada e saída
 * Enviam e recebem dados do processador.
 * Exemplos:
   - Tela touchscreen.
