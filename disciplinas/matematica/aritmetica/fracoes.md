@@ -109,7 +109,9 @@ Ex: 3/9 = 0,333...
   - a/b . c/d = a . c/ b . d
 
 Ex: 1/2 . 3/4 = 1 . 2/3 . 4 = 2/12 - 1/6  
- 
+
+***DICA***: A expressão 'de', 'do' e 'da' indicam na matemática a ideia de multiplicação. Por exemplo: 2/3 de 300 é? ou seja 2 * 300/3 = 200.
+
 > ### Divisão de frações
 * Para dividir, basta inverter a segunda fração e realizar a multiplicação entre numeradores e denominadores.
 * Representação da subtração de frações:
