@@ -4,22 +4,22 @@
 * O sistema financeiro é o conjunto de instituições, mercados, instrumentos e mecanismos que possibilitam a circulação de dinheiro e a transferência de recursos entre agentes econômicos.
 * O SFN é o responsável por todas as atividades que envolvem a gestão, captação, alocação, transferência e proteção dos recursos financeiros. Dessa forma o SFN atua como mecanismo de dinamicidade das relações econômicas, produzindo aspectos que movimentam a produção.
 * Aspectos que um SFN produz:
-  - Criação de empregos diretos e indiretos (via aumento de demanda nas cadeias de produção).
-  - Geração de renda.
-  - Proteção dos poupadores.
-  - Proteção das instituições que formam o SFN.
-  - Realização da intermediação financeira e desentesouramento de recursos.
-  - Bancarização da população.
+  - Criação de empregos diretos e indiretos (via aumento de demanda nas cadeias de produção);
+  - Geração de renda;
+  - Proteção dos poupadores;
+  - Proteção das instituições que formam o SFN;
+  - Realização da intermediação financeira e desentesouramento de recursos;
+  - Bancarização da população;
   - Integração com o sistema de pagamentos convencional e instantâneo.
 
 > ### Banco
 * Entre os agentes que formam o SFN, o banco é a entidade que possibilita a integração dos recursos dos poupadores, com os investidores que precisam de recursos. Dessa forma o banco atua como intermediador financeiro entre agentes com diferentes objetivos.
 * Ao poupador o banco beneficia com:
-  - Segurança ao recursos.
-  - Utilização dos recursos via meios de pagamento (débito, crédito, pix, saque, transferêncas, etc).
+  - Segurança ao recursos;
+  - Utilização dos recursos via meios de pagamento (débito, crédito, pix, saque, transferêncas, etc);
   - Possibilidade de rendimento a prazo.
 * Ao tomador o banco beneficia com:
-  - Oferta de crédito.
+  - Oferta de crédito;
   - Possibilidade de investimento em novos negócios.
 
 #### Intermediação financeira
@@ -36,23 +36,23 @@
 > ### Glossário
 
 #### Agentes econômicos
-* Agente poupador.
+* Agente poupador;
 * Agente tomador de recursos.
 
 #### Agente poupador
-* Poupadores.
-* Credor financeiro.
-* Agentes superavitários.
-* Agentes doadores finais.
-* Agentes com excesso de divisas.
+* Poupadores;
+* Credor financeiro;
+* Agentes superavitários;
+* Agentes doadores finais;
+* Agentes com excesso de divisas;
 * Agente com excedentes financeiros.
 
 #### Agente tomador de recursos
-* Investidores.
-* Tomador de recursos.
-* Agentes deficitários.
-* Agentes carentes de recursos ou fundos.
-* Agentes com escassez de fundos.
+* Investidores;
+* Tomador de recursos;
+* Agentes deficitários;
+* Agentes carentes de recursos ou fundos;
+* Agentes com escassez de fundos;
 * Devedores financeiros.
 
 ## OBJETIVO E COMPOSIÇÃO
@@ -70,30 +70,30 @@
 * São responsáveis por definir as políticas, normas e diretrizes que regulam o funcionamento do sistema financeiro.
 * Os orgãos normativos, não tem personalidade jurídica, sendo partes de determinados ministérios. Também não realizam a execução de atividades, apenas a sua regulação.
 * Composição dos orgãos normativos:
-  - CMN - Conselho Monetário Nacional (responsável pelo dinheiro).
-  - CNSP - Conselho Nacional de Seguros Privados (responsável pelos seguros privados).
-  - CNPC - Conselho Nacional de Previdência Complementar (responsável pela previdência complementar).
+  - CMN - Conselho Monetário Nacional; (responsável pelo dinheiro)
+  - CNSP - Conselho Nacional de Seguros Privados; (responsável pelos seguros privados)
+  - CNPC - Conselho Nacional de Previdência Complementar. (responsável pela previdência complementar)
 
 #### Entidades supervisoras
 * As entidades supervisoras, tem como objetivo, fiscalizar e garantir o cumprimento das normas estabelecidas pelos orgãos normativos.
 * Por serem entidades, possuem personalidade jurídica própria, na forma de autarquias.
 * Composição das entidades supervisoras:
-  - BACEN - Banco Central do Brasil (responsável pelas instituições financeiras).
-  - CVM - Comissão de Valores Mobiliários (responsável pela bolsa de valores e pelo mercado de capitais).
-  - SUSEP - Superintendência de Seguros Privados (responsável pelos seguros privados).
-  - PREVIC - Superintendência Nacional de Previdência Complementar (responsável pela previdência complementar fechada).
+  - BACEN - Banco Central do Brasil; (responsável pelas instituições financeiras)
+  - CVM - Comissão de Valores Mobiliários; (responsável pela bolsa de valores e pelo mercado de capitais)
+  - SUSEP - Superintendência de Seguros Privados; (responsável pelos seguros privados)
+  - PREVIC - Superintendência Nacional de Previdência Complementar. (responsável pela previdência complementar fechada)
 
 > ### Subsistema operacional
 * É a parte que oferece serviços e produtos financeiros para a sociedade.
 * Exemplos de operadores:
-  - Instituições financeiras.
-  - Bancos e Caixas econômicas.
-  - Corretoras de valores mobiliários.
-  - Seguradoras.
-  - Bolsas de valores.
-  - Sociedades administradoras de consórcios.
-  - Cooperativas de crédito.
-  - Instituições de pagamento.
+  - Instituições financeiras;
+  - Bancos e Caixas econômicas;
+  - Corretoras de valores mobiliários;
+  - Seguradoras;
+  - Bolsas de valores;
+  - Sociedades administradoras de consórcios;
+  - Cooperativas de crédito;
+  - Instituições de pagamento;
   - Demais instituições não bancárias.
 
 ## ESTRUTURA DO SUBSISTEMA NORMATIVO
@@ -104,18 +104,18 @@
 * Na atuação de agente fiscalizador a entidade responsável por fiscalizar um operador, vai depender do segmento de atuação da instituição operadora. Dessa forma uma instituição pode por exemplo ser fiscalizada pelo BACEN ou pela CVM de acordo com as diferentes áreas de sua atuação.
 
 #### Organograma BACEN e CVM:
-1. Aplicação da penalidade - BACEN/CVM.
-2. Pedido de reconsideração da penalidade - BACEN/CVM.
+1. Aplicação da penalidade - BACEN/CVM;
+2. Pedido de reconsideração da penalidade - BACEN/CVM;
 3. Pedido de recurso em última instância - CRSFN (Conselho de Recursos do Sistema Financeiro Nacional).
 
 #### Organograma SUSEP:
-1. Aplicação da penalidade - SUSEP.
-2. Pedido de reconsideração da penalidade - SUSEP.
+1. Aplicação da penalidade - SUSEP;
+2. Pedido de reconsideração da penalidade - SUSEP;
 3. Pedido de recurso em última instância - CRSNSP (Conselho de Recursos do Sistema Nacional de Seguros Privados).
 
 #### Organograma PREVIC:
-1. Aplicação da penalidade - PREVIC.
-2. Pedido de reconsideração da penalidade - PREVIC.
+1. Aplicação da penalidade - PREVIC;
+2. Pedido de reconsideração da penalidade - PREVIC;
 3. Pedido de recurso em última instância - CRPC (Câmara de Recursos da Previdência Complementar).
 
 > ### Estrutura organizacional 
