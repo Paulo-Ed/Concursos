@@ -39,7 +39,7 @@ Ex: D(10)= {1, 2, 5, 10}
 10 : 9 = 1 com resto 1 (não divisível) 
 10 : 10 = 1  
 
-***DICA***: Para verificar se o conjunto determinado dos divisores de um número está correto, basta multiplicar os elementos extremos entre si. Todos os produtos devem ser igual ao número que se quer saber seus divisores.
+***DICA:*** Para verificar se o conjunto determinado dos divisores de um número está correto, basta multiplicar os elementos extremos entre si. Todos os produtos devem ser igual ao número que se quer saber seus divisores.
 
 Ex: D(16)= {1, 2, 4, 8, 16}
 1. multiplica-se os dois primeiros extremos => 1 . 16 = 16
@@ -172,9 +172,9 @@ Ex: MMC de 30 e 14 = 210
 4. divide-se agora por 7 => 1 : ***7*** = repete-se o 1, 7 : ***7*** = 1
 5. o produto dos quocientes é o resultado => 2 . 3 . 5 . 7 = 210
 
-***DICA***: O MMC de dois ou mais valores em que um dos números é um número primo, o MMC dos dois valores será o produto entre esses dois valores.
+***DICA:*** O MMC de dois ou mais valores em que um dos números é um número primo, o MMC dos dois valores será o produto entre esses dois valores.
 
-***DICA***: Para identificar a utilização do MMC na resolução de um problema, basta verificar se na questão existem eventos simultâneos, ou seja, se a questão pede para que se calcule em quanto tempo dois ou mais eventos que já ocorreram ao mesmo tempo irão ocorrer novamente ao mesmo tempo.
+***DICA:*** Para identificar a utilização do MMC na resolução de um problema, basta verificar se na questão existem eventos simultâneos, ou seja, se a questão pede para que se calcule em quanto tempo dois ou mais eventos que já ocorreram ao mesmo tempo irão ocorrer novamente ao mesmo tempo.
 
 ## MDC
 * Máximo divisor comum, é o produto dos divisores comuns de dois ou mais números.
@@ -198,6 +198,6 @@ Ex: MDC de 30 e 12 = 6
 4. divide-se agora por 5 => 5 : ***5*** = 1, 1 : ***5*** repete-se o 1
 5. o produto dos divisores comuns é o resultado => 2 . 3 = 6
 
-***DICA***: Para identificar a utilização do MDC na resolução de um problema, basta verificar se a questão pede que seja feita a separação de diferentes elementos em quantidades iguais ao mesmo tempo, sendo cada parte o maior tamanho possível.
+***DICA:*** Para identificar a utilização do MDC na resolução de um problema, basta verificar se a questão pede que seja feita a separação de diferentes elementos em quantidades iguais ao mesmo tempo, sendo cada parte o maior tamanho possível.
 
-***DICA***: Ao se fatorar números para encontrar o MDC, pode-se optar por usar como divisor apenas números que dividam todos os valores ao mesmo tempo (fator comum), quando não for possível mais dividir, o produto dos divisores será o MDC, e o resto da divisão de cada valor, indicará o número de vezes que o MDC corresponde ao valor. Na lógica da divisão em partes iguais o MDC será o tamanho (comprimento) de cada pedaço e o resto da divisão de cada valor será a quantidade de pedaços iguais do tamanho do MDC em que cada valor será dividido.
+***DICA:*** Ao se fatorar números para encontrar o MDC, pode-se optar por usar como divisor apenas números que dividam todos os valores ao mesmo tempo (fator comum), quando não for possível mais dividir, o produto dos divisores será o MDC, e o resto da divisão de cada valor, indicará o número de vezes que o MDC corresponde ao valor. Na lógica da divisão em partes iguais o MDC será o tamanho (comprimento) de cada pedaço e o resto da divisão de cada valor será a quantidade de pedaços iguais do tamanho do MDC em que cada valor será dividido.

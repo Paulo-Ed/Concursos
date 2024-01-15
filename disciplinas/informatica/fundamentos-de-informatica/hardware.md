@@ -14,9 +14,9 @@
 > ### Computadores pessoais
 * Seu uso é voltado ao público geral.
 * Principais modelos:
-  - Desktop (Computador de mesa).
-  - Notebook.
-  - Netbook.
+  - Desktop (Computador de mesa);
+  - Notebook;
+  - Netbook;
   - Ultrabook.
 
 > ### Dispositivos móveis
@@ -29,29 +29,29 @@
 #### Dispositivos de entrada
 * Esses dispositivos enviam dados para a CPU.
 * Exemplos:
-  - Teclado.
-  - Mouse.
-  - Scanner.
-  - Webcam.
-  - Microfone.
+  - Teclado;
+  - Mouse;
+  - Scanner;
+  - Webcam;
+  - Microfone;
   - Leito óptico.
 
 #### Dispositivos de saída
 * Recebem dados processados da CPU como porta de saída.
 * Exemplos:
-  - Monitor.
-  - Datashow/Projetor.
-  - Caixa de som.
+  - Monitor;
+  - Datashow/Projetor;
+  - Caixa de som;
   - Impressora.
 
 #### Dispositivos de entrada e saída
 * Enviam e recebem dados do processador.
 * Exemplos:
-  - Tela touchscreen.
-  - Pen drive.
-  - HD/SSD.
-  - Gravador de CD/DVD.
-  - Modem.
+  - Tela touchscreen;
+  - Pen drive;
+  - HD/SSD;
+  - Gravador de CD/DVD;
+  - Modem;
   - Impressora multifuncional.
 
 ## ORGANIÇÃO E ARQUITETURA DOS COMPUTADORES

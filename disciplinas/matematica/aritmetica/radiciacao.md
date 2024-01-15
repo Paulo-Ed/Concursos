@@ -24,7 +24,7 @@ Ex: √16 = 4
 1. multiplica-se o 4 pelo expoente 2, ou seja 2 vezes => 4 . 4 = 16
 2. logo o resultado = 4
 
-***DICA***: Para descobrir a raíz de um número basta fatora-lo. Após isso forma-se grupos de números iguais com tamanho iguais ao valor do índice da raíz que passa a valer uma unidade do número do grupo, após isso basta multiplicar as unidades de grupo formadas e encontrar a raíz. No caso de ficar um ou mais valores fora de um grupo, a multiplicação dos que formarem grupo ficam fora da raíz e os que não formarem ficam dentro da raíz.
+***DICA:*** Para descobrir a raíz de um número basta fatora-lo. Após isso forma-se grupos de números iguais com tamanho iguais ao valor do índice da raíz que passa a valer uma unidade do número do grupo, após isso basta multiplicar as unidades de grupo formadas e encontrar a raíz. No caso de ficar um ou mais valores fora de um grupo, a multiplicação dos que formarem grupo ficam fora da raíz e os que não formarem ficam dentro da raíz.
 
 Ex: √16 = 4  
 1. fatora-se o 16 : 2 = 8 : 2 = 4 : 2 = 2 : 2 = 1 
