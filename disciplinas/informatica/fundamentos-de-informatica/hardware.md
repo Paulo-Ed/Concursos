@@ -55,3 +55,62 @@
   - Impressora multifuncional.
 
 ## ORGANIÇÃO E ARQUITETURA DOS COMPUTADORES
+
+> ### Placa mãe
+* A placa mãe é responsável por integrar todos os componentes de hardware do computador e gerencia a comunicação entre eles.
+* Na placa mãe existem os componentes onboard (integrados) e os offboard (conectados).
+* A placa mãe possui slots de conexão de componentes, barramentos onde trafegam os dados e uma bateria que armazena dados de configurações da placa.
+
+#### Chipset
+* É um conjunto de circuitos integrados que controla a comunicação entre as partes do computador.
+* É dividido em duas pontes: ponte norte que interliga componentes de rápido processamento(CPU, RAM, PCIe) e ponte sul que liga os componentes de processamento lento (dispositivos de E/S).
+
+#### Barramentos
+* São vias por onde os dados são transmitidos e que conectam os dispositivos do computador. Existem barramentos de 32 bits e de 64 bits.
+* Barramentos de 32 bits suportam apenas 4gb de ram, já os de 64 bits alcançam até 18 bilhões de gigabytes de ram.
+* Não há compatibilidade entre sistemas de 32 bits e aplicações de 64 bits, já os sistemas de 64 bits suportam apps de 32 bits, embora não seja o mais eficiente usa-los.
+* Existem 3 tipos de barramentos:
+  - Barramento de dados (tráfego de dados);
+  - Barramento de endereço (endereçamento da memória);
+  - Barramento de controle (gerencia o acesso aos dados).
+
+##### Inteface/Barramento USB
+* É uma tecnologia de transferência de dados de transmissão bit a bit. Possui diversas versões e com variados conectores. A sigla USB significa universal serial bus. Além de transmitir dados o USB também oferece alimentação por voltagem.
+* Tipos de conectores:
+ - Tipo A;
+ - Tipo B;
+ - Mini B;
+ - Micro B;
+ - Tipo C.
+* Versões do USB:
+  - 1.0 (1,5 Mbps);
+  - 1.1 (12 Mbps);
+  - 2.0 (480 Mbps);
+  - 3.0 (4,8 Gbps);
+  - 3.1 (10 Gbps);
+  - 3.2 (20 Gbps);
+  - 4 (40 Gbps).
+
+#### Interface concorrentes do USB
+* Além do USB outros padrões de interface foram desenvolvidos.
+* Tipos:
+  - FireWire (produtos apple);
+  - Lightning (iphone);
+  - Thunderbolt (conector semelhante ao USB, porém com barramento de tecnologia mais eficiente, tem como símbolo um raio).
+
+#### Interface de vídeo/áudio
+* Exitem variadas interfaces de vídeo e áudio.
+* Tipos:
+  - VGA (conexão de vídeo analógico com um único pacote de cores);
+  - S-vídeo (conexão de vídeo analógico com diferentes pacotes de cores);
+  - DVI (conexão de vídeo digital);
+  - HDMI (conexão digital de vídeo e áudio);
+  - DisplayPort (conexão digital de vídeo e áudio).
+
+#### Interface de disco
+* Inteface de conexão de dispositivos de armazenamento.
+* Tipos:
+  - IDE (hd e drivers antigos de cd/dvd);
+  - SATA (hd, ssds, drivers de cd/dvd);
+  - PCI NVMe (ssd).
+
