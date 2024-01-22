@@ -14,7 +14,7 @@
 > ### Computadores pessoais
 * Seu uso é voltado ao público geral.
 * Principais modelos:
-  - Desktop (Computador de mesa);
+  - Desktop (computador de mesa);
   - Notebook;
   - Netbook;
   - Ultrabook.
