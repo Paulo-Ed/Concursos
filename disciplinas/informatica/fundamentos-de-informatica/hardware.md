@@ -114,3 +114,34 @@
   - SATA (hd, ssds, drivers de cd/dvd);
   - PCI NVMe (ssd).
 
+> ### CPU
+* É o componente responsável por realizar o processamento no computador. CPU significa unidade central de processamento.
+* Componentes da CPU:
+  - ULA - Unidade Lógica Aritmética (responsável pelos cálculos matemáticos e lógicos);
+  - UC - Unidade de Controle (responsável pelo acesso aos dados na memória e nos dispositivos conectados);
+  - Registradores (Memória de processamento de altíssima velocidade e tamanho pequeno).
+* Tipos de registradores:
+  - RDM - Registradores de Dados de Memória (armazenam os dados utilizados pela ULA);
+  - REM - Registradores de Endereços de Memória;
+  - RI - Registrador de Instrução (registra os comandos dos softwares);
+  - CI - Contador de Instruções (registra a ordem de execução das instruções a serem processadas pela CPU);
+  - DI - Decodificador de Instrução (realiza a identificação de qual operação será realizada);
+  - Clock - Relógio Gerador de Pulso (determina a velocidade em ciclos por segundo).
+* Caracteristicas dos processadores:
+  - Geração;
+  - Núcleo (core);
+  - Clock (velocidade em Ghz). 
+
+#### Marcas de processadores
+* As duas principais fabricantes de processadores são AMD e Intel.
+* Modelos AMD:
+  - Ryzen;
+  - Athlon;
+  - Turion;
+  - Phenom.
+* Modelos Intel:
+  - Core I (3, 5, 7 e 9);
+  - Dual Core;
+  - Pentium.
+
+> ### Memórias
