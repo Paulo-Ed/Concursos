@@ -133,7 +133,7 @@ diretoria e conselho fiscal), a instituição financeira irá indicar um nome pa
   - eventuais, inclusive as derivadas de multas e de juros de mora aplicados por força do disposto na legislação em vigor.
 
 > ### Constituição federal
-Art. 164. A competência da União para emitir moeda será exercida exclusivamente pelo banco central.
+Art. 164. A competência da União para emitir moeda será exercida exclusivamente pelo banco central.  
 § 1º É vedado ao banco central conceder, direta ou indiretamente, empréstimos ao Tesouro Nacional e a qualquer órgão ou entidade que não seja instituição financeira.  
 § 2º O banco central poderá comprar e vender títulos de emissão do Tesouro Nacional, com o objetivo de regular a oferta de moeda ou a taxa de juros.  
 **Observação:** O Banco Central atua no mercado secundário. O Tesouro Nacional é o governo. Quando o governo precisa de dinheiro emprestado, ou ela adquire por meio do Fundo Monetário Internacional ou Instituição Financeira Internacional, ou ele adquire por meio de empréstimos feitos pela própria sociedade (através da emissão de títulos públicos).
