@@ -24,8 +24,8 @@
 
 #### Intermediação financeira
 * É a atividade de captação de recursos com agentes superavitários e disponibilização aos agentes deficitários, sendo o garantidor de proteção dos recursos do primeiro e fiador do investimento do segundo. 
-* A captação dos recursos ocorre a partir de uma garantia de lucro ao poupador dada pelo banco, que ao emprestar esse valor a um tomador, a uma determinada taxa de juros, obtém um lucro para si (como compensação por tomar o risco do crédito do poupador) e ao mesmo tempo paga o poupador dos recursos originais.
-* Esse lucro obtido a partir da diferença da taxa de juros que o banco paga a quem lhe empresta dinheiro (taxa de captação) e a taxa de juros que o banco cobra para quem ele empresta dinheiro (taxa de aplicação), é chamado de ***spread bancário***.
+* A captação dos recursos ocorre a partir de uma garantia de lucro ao poupador dada pelo banco, esse que ao emprestar parte do valor a um tomador, a uma determinada taxa de juros, obtém um lucro para si (como compensação por tomar o risco do crédito do poupador) e ao mesmo tempo paga o poupador dos recursos originais.
+* Esse lucro obtido a partir da diferença da taxa de juros que o banco paga a quem lhe empresta dinheiro (taxa de captação) e a taxa de juros que o banco cobra para quem ele empresta dinheiro (taxa de aplicação), é chamado de **spread bancário**.
 * Cálculo do spread bancário:
   - taxa de captação + taxa de aplicação = spread bancário
 
@@ -58,30 +58,30 @@
 ## OBJETIVO E COMPOSIÇÃO
 * O Sistema financeiro nacional tem como objetivo promover o desenvolvimento equilibrado do Brasil, servindo aos interesses da coletividade de acordo com o artigo 192 da constituição. Sendo todas as partes que o formam, reguladas por meio de lei complementar. 
 * O artigo 192, também deixa expresso a participação das cooperativas de crédito (instituições sem fins lucrativos) no sistema financeiro nacional.
-* O sistema financeiro nacional é composto por um conjunto de orgãos normativos, entidades regulamentadoras e instituições de prestação de serviços financeiros e intermediação financeira.
+* O sistema financeiro nacional é composto por um conjunto de orgãos normativos, entidades regulamentadoras e instituições de prestação de serviços financeiros e intermediação financeira (operadores).
 * De modo geral o sistema financeiro nacional é subdividido em dois subsistemas: o subsistema normativo e o subsistema operacional.
 
 > ### Subsistema normativo
 * É o responsável por elaborar normas de funcionamento e fiscalizar a atuação dos integrantes do subsistema operacional, assim como dos agentes econômicos que operam no sistema.
-* Essa parte do SFN é formada pelo estado, sendo composto por orgãos normativos e entidades supervisoras. 
 * Possuem a finalidade de trazer sustentabilidade e segurança jurídica para que os operadores atuem de maneira adequada.
+* Essa parte do SFN é formada pelo estado, sendo composto por: orgãos normativos e entidades supervisoras. 
 
 #### Orgãos normativos
 * São responsáveis por definir as políticas, normas e diretrizes que regulam o funcionamento do sistema financeiro.
 * Os orgãos normativos, não tem personalidade jurídica, sendo partes de determinados ministérios. Também não realizam a execução de atividades, apenas a sua regulação.
 * Composição dos orgãos normativos:
-  - CMN - Conselho Monetário Nacional; (responsável pelo dinheiro)
-  - CNSP - Conselho Nacional de Seguros Privados; (responsável pelos seguros privados)
-  - CNPC - Conselho Nacional de Previdência Complementar. (responsável pela previdência complementar)
+  - CMN - Conselho Monetário Nacional (responsável pelo dinheiro);
+  - CNSP - Conselho Nacional de Seguros Privados (responsável pelos seguros privados);
+  - CNPC - Conselho Nacional de Previdência Complementar (responsável pela previdência complementar).
 
 #### Entidades supervisoras
 * As entidades supervisoras, tem como objetivo, fiscalizar e garantir o cumprimento das normas estabelecidas pelos orgãos normativos.
 * Por serem entidades, possuem personalidade jurídica própria, na forma de autarquias.
 * Composição das entidades supervisoras:
-  - BACEN - Banco Central do Brasil; (responsável pelas instituições financeiras)
-  - CVM - Comissão de Valores Mobiliários; (responsável pela bolsa de valores e pelo mercado de capitais)
-  - SUSEP - Superintendência de Seguros Privados; (responsável pelos seguros privados)
-  - PREVIC - Superintendência Nacional de Previdência Complementar. (responsável pela previdência complementar fechada)
+  - BACEN - Banco Central do Brasil (responsável pelas instituições financeiras);
+  - CVM - Comissão de Valores Mobiliários (responsável pela bolsa de valores e pelo mercado de capitais);
+  - SUSEP - Superintendência de Seguros Privados (responsável pelos seguros privados);
+  - PREVIC - Superintendência Nacional de Previdência Complementar (responsável pela previdência complementar fechada).
 
 > ### Subsistema operacional
 * É a parte que oferece serviços e produtos financeiros para a sociedade.
@@ -128,8 +128,7 @@
 * O CNPC é subordinado ao ministério da previdência.
 
 #### Entidades supervisoras
-* São vinculadas aos seus respectivos ministérios, com exceção do BACEN que possui autonomia plena e não é vinculado ou subordinado a nenhum ministério.
-* O BACEN no entando cumpre as determinações do CMN estabelecidas em lei.
+* São vinculadas aos seus respectivos ministérios, com exceção do BACEN que possui autonomia plena e não é vinculado ou subordinado a nenhum ministério. O BACEN no entando cumpre as determinações do CMN estabelecidas em lei.
 * A CVM possui autonomia, mas está vinculada ao ministério da fazenda.
 * A SUSEP é vinculada ao ministério da fazenda.
 * A PREVIC é vinculada ao ministério da previdência.
