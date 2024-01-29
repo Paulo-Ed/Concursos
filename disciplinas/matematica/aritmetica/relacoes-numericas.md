@@ -5,7 +5,7 @@
 ## MÚLTIPLOS DE UM NÚMERO
 * Os múltiplos de um número, é o conjunto formado pelos resultados da multiplicação desse número, por cada um dos elementos que formam o conjunto dos números inteiros.
 * O conjunto dos múltiplos de um número, é um conjunto infinito, que se inicia sempre pelo número zero.
-* Para verificar se um número ***a*** é múltiplo de ***b*** basta, dividir ***a*** por ***b***, se o resultado for um número exato, então ***a*** é múltiplo de ***b***.
+* Para verificar se um número **a** é múltiplo de **b** basta, dividir **a** por **b**, se o resultado for um número exato, então **a** é múltiplo de **b**.
 * Representação dos múltiplos:
   - M(a) = {0, ...}
 
@@ -152,7 +152,7 @@ Ex: Decomposição de 30 = 2 . 3 . 5
 
 ## MMC
 * Mínimo múltiplo comum, é o menor número que é múltiplo de dois ou mais números ao mesmo tempo. 
-* O MMC de dois números ***a*** e ***b***, também representa o menor valor que pode ser dividido por ***a*** e ***b*** ao mesmo tempo.
+* O MMC de dois números **a** e **b**, também representa o menor valor que pode ser dividido por **a** e **b** ao mesmo tempo.
 * O MMC é determinado a partir da decomposição dos valores em fatores primos.
 
 > ### Cálculo
@@ -178,7 +178,7 @@ Ex: MMC de 30 e 14 = 210
 
 ## MDC
 * Máximo divisor comum, é o produto dos divisores comuns de dois ou mais números.
-* O MDC de dois números ***a*** e ***b***, é o maior valor que divide ***a*** e ***b*** ao mesmo tempo.
+* O MDC de dois números **a** e **b**, é o maior valor que divide **a** e **b** ao mesmo tempo.
 * O MDC é determinado a partir da decomposição dos valores em fatores primos.
 
 > ### Cálculo
@@ -192,10 +192,10 @@ Ex: MMC de 30 e 14 = 210
 8. O resultado da multiplicação é o MDC.
 
 Ex: MDC de 30 e 12 = 6
-1. dividir por 2 => 30 : ***2*** = 15, 12 : ***2*** = 6 (divisor comum)
-2. dividir por 2 => 15 : ***2*** não divide, repete-se o 15, 6 : ***2*** = 3
-3. como não é possível dividir por 2, dividi-se pelo próximo número primo o 3 => 15 : ***3*** = 5, 3 : ***3*** = 1 (divisor comum)
-4. divide-se agora por 5 => 5 : ***5*** = 1, 1 : ***5*** repete-se o 1
+1. dividir por 2 => 30 : **2** = 15, 12 : **2** = 6 (divisor comum)
+2. dividir por 2 => 15 : **2** não divide, repete-se o 15, 6 : **2** = 3
+3. como não é possível dividir por 2, dividi-se pelo próximo número primo o 3 => 15 : **3** = 5, 3 : **3** = 1 (divisor comum)
+4. divide-se agora por 5 => 5 : **5** = 1, 1 : **5** repete-se o 1
 5. o produto dos divisores comuns é o resultado => 2 . 3 = 6
 
 ***DICA:*** Para identificar a utilização do MDC na resolução de um problema, basta verificar se a questão pede que seja feita a separação de diferentes elementos em quantidades iguais ao mesmo tempo, sendo cada parte o maior tamanho possível.

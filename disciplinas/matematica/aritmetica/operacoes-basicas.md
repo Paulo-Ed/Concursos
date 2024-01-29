@@ -5,8 +5,8 @@
 ## ADIÇÃO
 * A adição é a junção (acréscimo) de dois ou mais elementos (números) através de uma operação matemática.
 * O simbolo **+** representa a operação de adição.
-* Cada termo da adição é chamado de ***parcela***.
-* O resultado da adição é denominado ***total*** ou ***soma***.
+* Cada termo da adição é chamado de **parcela**.
+* O resultado da adição é denominado **total** ou **soma**.
 * Representação da adição:
   - parcela1 + parcela2 = soma
 * Prova real da adição:
@@ -80,8 +80,8 @@ Ex: 15 + (-25) = -10
 ## SUBTRAÇÃO
 * A subtração é a retirada (descréscimo) de uma parte (um menor valor) de algo (um todo, um maior valor), sendo a operação matemática inversa a adição.
 * O simbolo **-** (menos) representa a operação de subtração.
-* Os termos da subtração são o ***minuendo*** (a quantidade original) e o ***subtraendo*** (a parte a ser retirada).
-* O resultado da subtração é denominado ***resto*** ou ***diferença***.
+* Os termos da subtração são o **minuendo** (a quantidade original) e o **subtraendo** (a parte a ser retirada).
+* O resultado da subtração é denominado **resto** ou **diferença**.
 * Nos números naturais o minuendo sempre deve ser maior que o subtraendo.
 * Representação da subtração:
   - minuendo - subtraendo = diferença
@@ -156,8 +156,8 @@ Ex: 15 + (-25) = -10
 ## MULTIPLICAÇÃO
 * A multiplicação é a expressão do aumento das quantidades de um determinado valor, sendo uma forma simplificada de calcular a adição.
 * O simbolo **x**, **\*** e **.** (vezes) representa a operação de multiplicação.
-* Cada termo da multiplicação é chamado de ***fator***
-* O resultado da multiplicação é denominado ***produto***.
+* Cada termo da multiplicação é chamado de **fator**
+* O resultado da multiplicação é denominado **produto**.
 * A multiplicação simplifica a adição pegando um dos fatores e o repetindo (somando) a quantidade de vezes correspondente ao outro fator.
 * Representação da multiplicação:
   - fator1 x fator2 = produto
@@ -250,8 +250,8 @@ Ex: 1 x (-25) = -25
 * A divisão é a operação matemática que faz a separação de um valor em partes, de acordo com um outro valor, sendo a operação inversa a multiplicação.
 * Ela mensura quantas vezes um valor (segundo valor), cabe dentro de outro valor (primeiro valor), ou seja, quantos grupos com a quantidade do segundo valor podem ser formados com a quantidade do primeiro valor.
 * Os simbolos **÷**, **/** e **:** (dividido) representam a operação de divisão.
-* Os termos da divisão são o ***dividendo*** (valor a ser dividido) e ***divisor*** (quantidade de partes que o dividendo deve ser fracionado).
-* O resultado da divisão é denominado ***quociente*** e o valor que sobra da divisão é chamado de ***resto***.
+* Os termos da divisão são o **dividendo** (valor a ser dividido) e **divisor** (quantidade de partes que o dividendo deve ser fracionado).
+* O resultado da divisão é denominado **quociente** e o valor que sobra da divisão é chamado de **resto**.
 * No conjunto de números naturais o dividendo nunca pode ser menor que o divisor e a divisão de dois números pode ser exata (resto igual a zero) ou não exata (resto maior que zero). 
 * Representação da divisão:
   - dividendo ÷ divisor = quociente
