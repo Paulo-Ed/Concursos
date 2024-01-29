@@ -4,8 +4,8 @@
 
 ## DEFINIÇÃO
 * A potenciação ou exponenciação é a operação matemática que representa de forma simplificada a multiplicação de fatores iguais, ou seja, a multiplicação de um número por ele mesmo, repetivas vezes.
-* O fator a ser multiplicado é chamado de ***base*** e o fator que define a quantidade de vezes que a base deve ser multiplicada é chamado de ***expoente***.
-* O resultado da potenciação é chamado de ***potência***.
+* O fator a ser multiplicado é chamado de **base** e o fator que define a quantidade de vezes que a base deve ser multiplicada é chamado de **expoente**.
+* O resultado da potenciação é chamado de **potência**.
 * Representação da potenciação:
   - a<sup>n</sup> = a . a . a . a ... a 
   - a = base

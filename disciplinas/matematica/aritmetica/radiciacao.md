@@ -5,8 +5,8 @@
 ## DEFINIÇÃO
 * A radiciação é a operação matemática que procura determinar qual o número elevado a certa potência (multiplicado por si mesmo um determinado número de vezes) é igual a um outro número, ou seja, a sua raíz (origem).
 * A radiciação é a operação inversa da potenciação, dessa forma pode-se encontrar o resultado de uma raiz, procurando a potenciação que tem como resultado a raiz que se deseja encontrar.
-* Os termos da radiciação são o ***índice*** que define o expoente, o radical ***√*** que representa a operação e o ***radicando*** que representa o resultado da potência de um determinado número.
-* O resultado da radiciação é chamado de ***raiz*** ou ***radical***.
+* Os termos da radiciação são o **índice** que define o expoente, o radical **√** que representa a operação e o **radicando** que representa o resultado da potência de um determinado número.
+* O resultado da radiciação é chamado de **raiz** ou **radical**.
 * Representação da radiciação:
   - <sup>n</sup>√a = b
   - n = índice (expoente)
