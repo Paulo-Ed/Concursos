@@ -1,5 +1,0 @@
-# Assunto
-
-## PONTOS PRINCIPAIS 
-
-## RESUMO
