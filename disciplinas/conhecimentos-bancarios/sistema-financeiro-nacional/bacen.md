@@ -1,7 +1,7 @@
 # Banco Central do Brasil
 
 ## DEFINIÇÃO
-* O Banco Central do Brasil é a principal entidade supervisora e orgão executor do sitema financeiro nacional.
+* O Banco Central do Brasil é a principal entidade supervisora e orgão executor do sistema financeiro nacional.
 * Foi criado pela Lei nº 4595/1964 em substituição à Superintendência da moeda e do crédito (SUMOC). 
 * O Banco Central é uma autarquia de natureza especial, sem vinculação a ministério e com autonomia estabelacida pela Lei Complementar nº 179/2021.
 * A sede do BACEN é em Brasília, também tendo representações em diversos estados do Brasil.
@@ -15,25 +15,16 @@
 * De acordo com a Lei nº 4595/1964 no artigo 9º, cabe ao BACEN cumprir e fazer cumprir as disposições a ele atribuídas pela legislação em vigor e as normas expedidas pelo CMN, respeitando a sua autonomia.
 * No artigo 6º da  Lei Complementar nº 179/2021 é definido que o BACEN é uma autarquia de natureza especial caracterizada pela ausência de vinculação a ministério, de tutela ou subordinação hierárquica, possuindo autonomia financeira, administrativa, técnica e operacional (FATO). Assim como pela investidura dos seus dirigentes e pela estabilidade de mandatos.
 
-## OBJETIVOS DO BACEN
-* O objetivo fundamental do BACEN é garantir a estabilidade dos preços.
-* Seguem-se a esse, os objetivos:
-  -  **Zelar** pela estabilidade e eficiência do sistema finaceiro;
-  -  **Suavizar** as flutuações do nível de atividade econômica;
-  -  **Fomentar** o pleno emprego.
-* As metas de política monetária são definidas pelo CMN, já a condução da política monetária de forma exclusiva para o cumprimento das metas estabelecidas cabe ao BACEN.
-* No início da cada semestre o presidente do BACEN apresenta em arguição pública no senado, o relatório de inflação e de estabilidade financeira, reportando aos senadores as decisões que foram tomadas no semestre anterior.
+> ### Funcionamento do BACEN
 
-## FUNCIONAMENTO DO BACEN
-
-> ### Recursos do BACEN
+#### Recursos do BACEN
 * O Banco Central possui ativos, passivos e balanços.
 * Os balanços do BACEN são apurados anualmente entre o período de 1 de janeiro a 31 de dezembro, inclusive para fins de cobertura ou destinação dos resultados e criação de reservas.
 * Em caso de déficit o valor é pago pelo Tesouro Nacional, já se houver superávit esse valor funciona como reserva para a União.
 * O regime contábil utilizado pelo BACEN, considerando receitas e despesas, de qualquer natureza são apurados em regime de competência.
 
-> ### Mandatos do BACEN
-* O Presidente e os Diretores do BACEN são indicados pelo Presidente da República e aprovados pelo Senado Federal, tendo como requisito ser Brasileiro com idoneidade moral.
+#### Mandatos do BACEN
+* O Presidente e os Diretores do BACEN são indicados pelo Presidente da República e aprovados pelo Senado Federal, tendo como requisito ser brasileiro com idoneidade moral.
 * Os mandatos dos Diretores e do Presidente do BACEN tem duração de quatro anos, não coincidentes todos entre si.
 * Escala de mandatos:
   - 2 Diretores com início de mandato no dia 1º de março do primeiro ano de mandato do Presidente da República;
@@ -50,13 +41,10 @@
   - Em caso de condenação transitada em julgado, ou proferida por órgão colegiado para prática de improbidade administrativa ou crime que acarrete a proibição de acesso a cargos públicos;
   - Quanto apresentarem comprovado e recorrente desempenho insuficiente para o alcance dos objetivos do BACEN. 
 * No caso 4 o CMN é responsável por votar pela exoneração do Presidente do BACEN e propor a sua exoneração ao Presidente da República, sendo ainda necessário a aprovação no senado.
-* Se a vaga de Presidente do BACEN ou um Diretor ficar vaga, um substituto é incidado para completar o mandado.
+* Se a vaga de Presidente do BACEN ou um Diretor ficar vaga, um substituto é indicado para completar o mandado.
 * Até a posse do novo Presidente do BACEN, essa função é exercida pelo Diretor com mais tempo de serviço, preferencialmente o mais velho.
 
-## ATRIBUIÇÕES DO BACEN
-* O Banco Central, atua em diferentes esferas do sistema financeiro nacional. Suas atribuições foram estabelecidas na Lei nº 4595/1964, assim como pela Lei Complementar nº 179/2021. Existem também disposições sobre a atuação do BACEN no artigo 164 da Constituição Federal e na Lei Complementar nº 101/2000 a lei de responsabilidade fiscal. 
-
-> ### Importantes funções do BACEN
+> ### Funções exercidas pelo BACEN
 
 #### Banco emissor
 * Tem o monopólio da emissão de moeda.
@@ -76,13 +64,25 @@
 * É a atuação do Bacen por meio de instrumentos financeiros de efeito direto ou induzido, com o propósito de controlar a liquidez global do sistema econômico de forma a manter a quantidade de moeda em circulação compatível com a estabilidade do nível geral de preços, a dinâmica do produto e a estabilidade cambial.
 * É por meio do Banco Central que o governo intervém diretamente no sistema financeiro e indiretamente na economia. Passa por definir a taxa básica de juros e as reservas bancárias com vistas a direcionar melhor os recursos captados pelo sistema financeiro.
 
-#### Regulador do Risco Sistêmico
+#### Regulador do risco sistêmico
 * Atua como guardião contra a instabilidade financeira, prevenindo e mitigando pânicos no sistema financeiro. Atuação primordial no sistema de pagamentos, diminuindo os riscos incorridos pelo Estado.
+
+## OBJETIVOS DO BACEN
+* O objetivo fundamental do BACEN é garantir a estabilidade dos preços.
+* Seguem-se a esse, os objetivos:
+  -  **Zelar** pela estabilidade e eficiência do sistema finaceiro;
+  -  **Suavizar** as flutuações do nível de atividade econômica;
+  -  **Fomentar** o pleno emprego.
+* As metas de política monetária são definidas pelo CMN, já a condução da política monetária de forma exclusiva para o cumprimento das metas estabelecidas cabe ao BACEN.
+* No início da cada semestre o presidente do BACEN apresenta em arguição pública no senado, o relatório de inflação e de estabilidade financeira, reportando aos senadores as decisões que foram tomadas no semestre anterior.
+
+## ATRIBUIÇÕES DO BACEN
+* O Banco Central, atua em diferentes esferas do sistema financeiro nacional. Suas atribuições foram estabelecidas na Lei nº 4595/1964, assim como pela Lei Complementar nº 179/2021. Existem também disposições sobre a atuação do BACEN no artigo 164 da Constituição Federal e na Lei Complementar nº 101/2000 (lei de responsabilidade fiscal). 
 
 > ### Principais pontos dos artigos 9º, 10º e 11º da Lei nº 4595/1964
 1. Emitir moeda-papel e moeda metálica, nas condições e limites autorizados pelo Conselho Monetário Nacional;  
 **Observação:** Atualmente, não é mais o CMN quem dá as condições e limites para a emissão da moeda.
-2. Executar os serviços do meio-circulante;   
+1. Executar os serviços do meio-circulante;   
 **Observação:** Faz parte de tal ação a troca de notas rasgadas, rasuradas etc.
 1. Determinar o recolhimento de até cem por cento do total dos depósitos à vista e de até sessenta por cento de outros títulos contábeis das instituições financeiras, seja na forma de subscrição de Letras ou Obrigações do Tesouro Nacional ou compra de títulos da Dívida Pública Federal, seja através de recolhimento em espécie, em ambos os casos entregues ao Banco Central do Brasil, a forma e condições por ele determinadas, podendo: 
    - adotar percentagens diferentes em função das regiões geoeconômicas, das prioridades que atribuir às aplicações, da natureza das instituições financeiras.
