@@ -67,12 +67,14 @@ Ex: |-10| = 10
 * São outras formas de representar os números racionais, os números decimais (em forma de dízima periódica) e os números sob a forma de % (porcentagem) pois representam uma fração.
 * Entre dois números inteiros, existem infinitos números racionais.
 * Um número racional é a representação de uma parte do todo.
+* O inverso de um número racional **a/b** é o número racional **b/a**. Sendo o produto entre ele e o seu inverso igual a um.
 
 Ex: 4 = 8/2  
 Ex: 0 = 0/3  
 Ex: 25% = 25/100  
 Ex: 0,5 = 5/10 = 1/2  
-Ex: -6 = -12/2
+Ex: -6 = -12/2  
+Ex: -4/3 é o inverso de -3/4  
 
 ## NÚMEROS IRRACIONAIS
 * O conjunto dos números irracionais, é formado por números decimais não exatos que possuem representação infinita e não periódica, não podendo ser representados por meio de frações irredutíveis.
