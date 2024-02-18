@@ -8,6 +8,7 @@
 * Composição do COMPOM:
   - Presidente do BACEN
   - Os oito diretores do BACEN.
+* Além do COPOM que atua para manter a estabilidade do poder de compra da moeda, existe o COMEF (Comitê de Estabilidade Financeira), responsável por preservar a integridade do SFN contra riscos sistêmicos.
 
 > ### Reuniões do COPOM
 * São realizadas 8 reuniões por ano e ainda de forma extraordinária a pedido do Presidente.
