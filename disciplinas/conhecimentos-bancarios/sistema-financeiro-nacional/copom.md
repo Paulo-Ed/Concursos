@@ -56,5 +56,5 @@
 
 ## TAXA SELIC
 * É a taxa básica de juros da economia. Ela é a referência para a definição de todas as taxas de juros de operações financeiras na economia brasileira.
-* Existem dois tipos de Taxa Selic, a primeira é a Selic-Meta que é a referência a partir da qual deve ser o valor médio das taxas do títulos públicos que é definida pelo COMPOM. A segunda é a Selic-Over que é a taxa de juros da venda de um título público que tem como referencial a Selic-Meta.
-* A Selic-Over pode variar em relação a Selic-Meta, porém a média do juros dos títulos negociados em um dia, deve ser o valor da Selic-Meta.
+* Existem dois tipos de Taxa Selic, a primeira é a **Selic Meta** que é a referência a partir da qual deve ser o valor médio das taxas do títulos públicos que é definida pelo COMPOM. A segunda é a **Selic Over** que é a taxa de juros da venda de um título público que tem como referencial a **Selic Meta**.
+* A **Selic Over** pode variar em relação a **Selic Meta**, porém a média do juros dos títulos negociados em um dia, deve ser o valor da **Selic Meta**.
