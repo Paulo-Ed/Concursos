@@ -102,7 +102,7 @@
 
 > ### Estrutura de penalidades administrativas
 * As entidades supervisoras, diante de irregularidades encontradas a partir da fiscalização das normas estabelecidas pelos orgãos normativos, podem aplicar penalidades aos operadores do SFN, essas penalidades possuem caráter administrativo.
-* Na estrutura de processamento das penalidades, as instituições podem recorrer das decisões as próprias entidades (1ª instância) e em último caso aos conselhos de recursos.
+* Na estrutura de processamento das penalidades, as instituições podem recorrer das decisões as próprias entidades (1.ª instância) e em último caso aos conselhos de recursos.
 * Na atuação de agente fiscalizador a entidade responsável por fiscalizar um operador, vai depender do segmento de atuação da instituição operadora. Dessa forma uma instituição pode por exemplo ser fiscalizada pelo BACEN ou pela CVM de acordo com as diferentes áreas de sua atuação.
 
 #### Organograma BACEN e CVM:

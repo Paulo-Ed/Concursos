@@ -5,7 +5,7 @@
 ## DEFINIÇÃO
 * O Banco Central do Brasil é a principal entidade supervisora e orgão executor do sistema financeiro nacional.
 * Foi criado pela Lei nº 4595/1964 em substituição à Superintendência da moeda e do crédito (SUMOC). 
-* O Banco Central é uma autarquia de natureza especial, sem vinculação a ministério e com autonomia estabelacida pela Lei Complementar nº 179/2021.
+* O Banco Central é uma autarquia de natureza especial, sem vinculação a ministério e com autonomia estabelacida pela Lei Complementar n.º 179/2021.
 * A sede do BACEN é em Brasília, também tendo representações em diversos estados do Brasil.
 * O BACEN tem como finalidade a condução, execução, acompanhamento e controle das políticas monetária, cambial, de crédito e de relações financeiras com o exterior, bem como a fiscalização do SFN e do sistema de consórcio. Também realiza a gestão do sistema de pagamentos brasileiro e dos serviços do meio circulante (papel moeda).
 * Composição do BACEN:
@@ -14,8 +14,8 @@
 * O BACEN é formado por 8 Diretorias Colegiadas que possuem seus respectivos departamentos. Fazem parte também o Comitê de Política Monetária (COPOM) e o Comitê de Estabilidade Financeira (COMEF).
 
 > ### Autonomia do BACEN
-* De acordo com a Lei nº 4595/1964 no artigo 9º, cabe ao BACEN cumprir e fazer cumprir as disposições a ele atribuídas pela legislação em vigor e as normas expedidas pelo CMN, respeitando a sua autonomia.
-* No artigo 6º da  Lei Complementar nº 179/2021 é definido que o BACEN é uma autarquia de natureza especial caracterizada pela ausência de vinculação a ministério, de tutela ou subordinação hierárquica, possuindo autonomia financeira, administrativa, técnica e operacional (FATO). Assim como pela investidura dos seus dirigentes e pela estabilidade de mandatos.
+* De acordo com a Lei n.º 4595/1964 no artigo 9.º, cabe ao BACEN cumprir e fazer cumprir as disposições a ele atribuídas pela legislação em vigor e as normas expedidas pelo CMN, respeitando a sua autonomia.
+* No artigo 6.º da  Lei Complementar n.º 179/2021 é definido que o BACEN é uma autarquia de natureza especial caracterizada pela ausência de vinculação a ministério, de tutela ou subordinação hierárquica, possuindo autonomia financeira, administrativa, técnica e operacional (FATO). Assim como pela investidura dos seus dirigentes e pela estabilidade de mandatos.
 
 > ### Funcionamento do BACEN
 
@@ -79,8 +79,8 @@
 * No início da cada semestre o presidente do BACEN apresenta em arguição pública no senado, o relatório de inflação e de estabilidade financeira, reportando aos senadores as decisões que foram tomadas no semestre anterior.
 
 ## ATRIBUIÇÕES DO BACEN
-* O Banco Central, atua em diferentes esferas do sistema financeiro nacional. Suas atribuições foram estabelecidas na Lei nº 4595/1964, assim como pela Lei Complementar nº 179/2021. Existem também disposições sobre a atuação do BACEN no artigo 164 da Constituição Federal e na Lei Complementar nº 101/2000 (lei de responsabilidade fiscal). 
-* Principais atribuições segundo os artigos 9º, 10º, 11º e 12º da Lei nº 4595/1964:
+* O Banco Central, atua em diferentes esferas do sistema financeiro nacional. Suas atribuições foram estabelecidas na Lei n.º 4595/1964, assim como pela Lei Complementar n.º 179/2021. Existem também disposições sobre a atuação do BACEN no artigo 164 da Constituição Federal e na Lei Complementar n.º 101/2000 (lei de responsabilidade fiscal). 
+* Principais atribuições segundo os artigos 9.º, 10.º, 11.º e 12.º da Lei n.º 4595/1964:
   - Emitir moeda-papel e moeda metálica;  
   - Executar os serviços do meio-circulante;   
 **Observação:** Faz parte de tal ação a troca de notas rasgadas, rasuradas etc.

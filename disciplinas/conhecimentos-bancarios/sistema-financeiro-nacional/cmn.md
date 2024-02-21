@@ -42,15 +42,15 @@
   - Secretário de política econômica do ministério da fazenda.
 
 ## OBJETIVOS DO CMN
-* Os objetivos do CMN foram estabelecidos no artigo 3º da Lei 4595/1964, tendo como principal objetivo o progresso econômico e social do País.
-* A partir desse objetivo central são definidos no artigo 3º os quatro objetivos específicos do CMN:
+* Os objetivos do CMN foram estabelecidos no artigo 3.º da Lei 4595/1964, tendo como principal objetivo o progresso econômico e social do País.
+* A partir desse objetivo central são definidos no artigo 3.º os quatro objetivos específicos do CMN:
   - **Orientar** a aplicação dos recursos das instituições financeiras públicas ou privadas para propiciar condições favoráveis ao desenvolvimento harmônico da economia nacional;
   - **Propiciar** o aperfeiçoamento das instituições e dos instrumentos financeiros, com vistas à maior eficiência do sistema de pagamentos e de mobilização de recursos;
   - **Zelar** pela liquidez e solvência das instituições financeiras;
   - **Coordenar** as políticas monetária, creditícia, orçamentária, fiscal e da dívida pública, interna e externa.
 
 ## ATRIBUIÇÕES DO CMN
-* As atribuições do Conselho Monetário Nacional, foram estabelecidas pela Lei 4595/1964 no seu artigo 4º, porém algumas dessas responsabilidades foram modificadas pela Lei Complementar nº 179/2021, sendo revogadas e atribuídas ao BACEN, e outras perdendo seu efeito (revogação tácita), por serem derivadas das atribuições revogadas.
+* As atribuições do Conselho Monetário Nacional, foram estabelecidas pela Lei 4595/1964 no seu artigo 4.º, porém algumas dessas responsabilidades foram modificadas pela Lei Complementar n.º 179/2021, sendo revogadas e atribuídas ao BACEN, e outras perdendo seu efeito (revogação tácita), por serem derivadas das atribuições revogadas.
 * Conjunto de atribuições:
   - A principal competência do CMN é, segundo diretrizes estabelecidas pelo Presidente da República, estabelecer as metas de inflação a serem perseguidas pelo BACEN;
   - Aprovar os orçamentos monetários, preparados pelo BACEN, por meio dos quais se estimarão as necessidades globais de moeda e crédito;
