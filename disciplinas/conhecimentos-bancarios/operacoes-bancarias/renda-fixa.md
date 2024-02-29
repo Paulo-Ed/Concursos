@@ -23,4 +23,4 @@
 > ### Título flutuante
 * São títulos em que a taxa de juros de remuneração varia diariamente.
 * Dessa forma a remuneração do título vai variar conforme o dia, seja para cima ou para baixo a partir da movimentação do indexador utilizado para definir a taxa de remuneração.
-* Um exemplo 
+* Um exemplo é um investimento em CDB que tenha como referencial de rendimento o CDI (taxa de juros diária cobrada no empréstimo entre bancos).
