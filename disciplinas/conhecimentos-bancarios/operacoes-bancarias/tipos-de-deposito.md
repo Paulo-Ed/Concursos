@@ -13,6 +13,7 @@
 
 ## DEPÓSITO À PRAZO
 * O depósito à prazo é um depósito de recursos em conta, aplicado por um determinado período de tempo, ou seja, investido no banco. Esse valor é remunerado enquanto estiver no banco.
+* O CDB e o RDB são modalidades de depósito a prazo com remuneração pré ou pós-fixada.
 
 > ### Características
 * Possuem liquidez menor que os depósitos à vista.
