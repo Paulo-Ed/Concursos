@@ -12,15 +12,6 @@
 * Estão protegidos pelo fundo garantidor de crédito até 250 mil reais.
 * Títulos CDB/RDB pré-fixados e flutuantes não possuem prazo mínimo de aplicação, apenas os pós-fixados. O prazo varia de acordo com o índice do título.
 
-| MODALIDADE        | PRAZO MÍNIMO |
-| ----------------- | ------------ |
-| Pré-Fixado        | -            |
-| Flutuante (CDI)   | -            |
-| Pós-Fixado (TR)   | 30 dias      |
-| Pós-Fixado (TLP)  | 30 dias      |
-| Pós-Fixado (TBF)  | 60 dias      |
-| Pós-Fixado (IGPM) | 360 dias     |
-
 > ### Características CDB
 * Por ser um título de crédito (físico ou escritural) o CDB pode ser transferido e negociado.
 * A transferência de um CDB se da por endosso em preto, ou seja, o título passa a ter um novo proprietário.
@@ -29,3 +20,12 @@
 * O RDB não é um título de crédito, mas sim um recibo de depósito.
 * O RDB é intransferível e inegociável.
 * É uma ferramenta de captação de recursos também das cooperativas de crédito.
+
+| MODALIDADE        | PRAZO MÍNIMO |
+| ----------------- | ------------ |
+| Pré-Fixado        | -            |
+| Flutuante (CDI)   | -            |
+| Pós-Fixado (TR)   | 30 dias      |
+| Pós-Fixado (TLP)  | 30 dias      |
+| Pós-Fixado (TBF)  | 60 dias      |
+| Pós-Fixado (IGPM) | 360 dias     |
