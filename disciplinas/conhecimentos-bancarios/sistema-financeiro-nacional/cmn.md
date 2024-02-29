@@ -4,7 +4,7 @@
 
 ## DEFINIÇÃO
 * O CMN é o principal orgão normativo do sistema financeiro nacional, atuando como conselho de política econômica.
-* Foi criado pela Lei nº 4595/1964 substituindo o conselho da SUMOC.
+* Foi criado pela Lei n.º 4595/1964 substituindo o conselho da SUMOC.
 * É de responsabilidade do CMN coordenar as políticas monetária, creditícia, orçamentária, fiscal e da dívida pública interna e externa. O CMN não realiza atividades executivas, apenas regulatórias.
 * Composição do CMN:
   - Ministro da Fazenda (Presidente do conselho);
@@ -70,7 +70,7 @@
   - Fixar, até quinze (15) vezes a soma do capital realizado e reservas livres, o limite além do qual os excedentes dos depósitos das instituições financeiras serão recolhidos ao Banco Central da República do Brasil ou aplicados de acordo com as normas que o Conselho estabelecer;
   - Decidir de sua própria organização; elaborando seu regimento interno no prazo máximo de trinta (30) dias;
   - Aplicar aos bancos estrangeiros que funcionem no País as mesmas vedações ou restrições equivalentes, que vigorem nas praças de suas matrizes, em relação a bancos brasileiros ali instalados ou que nelas desejem estabelecer–se;
-  - Colaborar com o Senado Federal, na instrução dos processos de empréstimos externos dos Estados, do Distrito Federal e dos Municípios, para cumprimento do disposto no art. 63 II, da Constituição Federal;
+  - Colaborar com o Senado Federal, na instrução dos processos de empréstimos externos dos Estados, do Distrito Federal e dos Municípios, para cumprimento do disposto no art. 63, da Constituição Federal;
   - Regular os depósitos a prazo de instituições financeiras e demais sociedades autorizadas a funcionar pelo Banco Central do Brasil, inclusive entre aquelas sujeitas ao mesmo controle acionário ou coligadas;  
 **Observação:** Os depósitos a prazo referem-se a quaisquer operações financeiras.   
 
