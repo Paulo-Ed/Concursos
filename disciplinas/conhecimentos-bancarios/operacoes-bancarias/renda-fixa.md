@@ -3,8 +3,9 @@
 <br>
 
 ## DEFINIÇÃO
-* Investimento de renda fixa, são aplicações financeiras em títulos públicos com objetivo de obter lucro, em que se empresta recursos por um determinado período de tempo e esses recursos são remunerados por um tipo de taxa de juros.
-* A grande diferença entre os investimentos de renda fixa, é o tipo de remuneração aplicada no título, sendo três os tipos: pré-fixado, pós-fixado e flutuante.
+* Investimento de renda fixa, são aplicações financeiras com objetivo de obter lucro, em que se empresta recursos por um determinado período de tempo (prazo de vencimento) e esses recursos são remunerados por um tipo de taxa de juros.
+* A grande diferença entre os investimentos de renda fixa, é o tipo de remuneração aplicada, sendo três os tipos: pré-fixado, pós-fixado e flutuante.
+* Existem investimentos em renda fixa para o setor público (governo) e também em instituições financeiras (públicas e privadas).
 * É importante entender que o tipo mais indicado de remuneração de um título de renda fixa, vai depender de variáveis do cenário econômico (inflação, juros, etc.), assim como de impostos que possam incidir sobre o investimento (imposto de renda, etc.).
 * Entender esses elementos vai possibilitar analisar qual o ganho real a partir do valor investido, pois tais variáveis impactam no valor real gerado pelo investimento.
 
@@ -22,3 +23,4 @@
 > ### Título flutuante
 * São títulos em que a taxa de juros de remuneração varia diariamente.
 * Dessa forma a remuneração do título vai variar conforme o dia, seja para cima ou para baixo a partir da movimentação do indexador utilizado para definir a taxa de remuneração.
+* Um exemplo 
