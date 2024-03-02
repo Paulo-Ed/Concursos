@@ -1,5 +1,7 @@
 # Financiamento
 
+<br>
+
 ## DEFINIÇÃO
 * É uma operação ativa de concessão de crédito para destinação específica.
 * Tipos de financiamento:
