@@ -14,7 +14,7 @@
 
 > ### Características CDB
 * Por ser um título de crédito (físico ou escritural) o CDB pode ser transferido e negociado.
-* A transferência de um CDB se da por endosso em preto, ou seja, o título passa a ter um novo proprietário.
+* A transferência de um CDB se da por endosso em preto (proprietário do título), ou seja, o título passa a ter um novo proprietário.
 
 > ### Características RDB
 * O RDB não é um título de crédito, mas sim um recibo de depósito.
