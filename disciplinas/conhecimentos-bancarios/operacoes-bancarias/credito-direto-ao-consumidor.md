@@ -12,6 +12,7 @@
 * Sempre é possível realizar a quitação antecipada.
 * É cobrado IOF sobre a operação.
 * O próprio bem é usado como garantia, sendo alienado e o comprador é temporariamente seu fiel depositário.
+* Ocorrendo a alienação fiduciária, o comprador tem a posse direta e a propriedade indireta do produto. A financeira tem a propriedade direta e provisória (até a quitação do empréstimo) e posse indireta.
 * O banco pode cobrar uma taxa de abertura de crédito (TAC).
 
 ## CRÉDITO DIRETO AO CONSUMIDOR TRADICIONAL
@@ -19,11 +20,9 @@
 * Esse tipo de operação de crédito, da ao cliente maior poder de conseguir descontos e benefícios ao comprar o bem, pois para a loja será uma compra a vista. Para o banco porém o risco é maior, por isso costuma ter taxas mais elevadas de juros.
 
 > ### Características
-* O comprador tem a posse direta e a propriedade indireta do produto.
-* A financeira tem a propriedade direta e provisória (até a quitação do empréstimo) e posse indireta.
 * O cliente obtem o empréstimo e é livre para escolher onde adquirir o bem ou serviço.
 * Podem utilizar o CDC pessoas físicas e pessoas jurídicas, desde que sejam consumidores finais.
-* Nos contratos de CDC tradicional, o pagamento antecipado da parcela, garanti diminuição do valor dos juros (deságio).
+* Nos contratos de CDC tradicional, o pagamento antecipado da parcela, garante diminuição do valor dos juros (deságio).
 
 > ### Processo de funcionamento do CDC Tradicional
 1. O cliente adquire a carta de crédito no banco que oferta o CDC.
