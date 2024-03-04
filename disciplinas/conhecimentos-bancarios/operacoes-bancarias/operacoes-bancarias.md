@@ -28,6 +28,28 @@
   - Oferta de crédito;
   - Possibilidade de investimento em novos negócios.
 
+> ### Glossário
+
+#### Agentes econômicos
+* Agente poupador;
+* Agente tomador de recursos.
+
+#### Agente poupador
+* Poupadores;
+* Credor financeiro;
+* Agentes superavitários;
+* Agentes doadores finais;
+* Agentes com excesso de divisas;
+* Agente com excedentes financeiros.
+
+#### Agente tomador de recursos
+* Investidores;
+* Tomador de recursos;
+* Agentes deficitários;
+* Agentes carentes de recursos ou fundos;
+* Agentes com escassez de fundos;
+* Devedores financeiros.
+
 ## OPERAÇÕES PRINCIPAIS
 * São as atividades essenciais dentro das funções desempenhadas pelas instituições financeiras. As **operações principais** são formadas por **operações ativas** e **operações passivas**.
 * O tipo de operação principal, vai variar de acordo com a perspectiva utilizada visto que uma operação pode ser considerada um ativo para o banco, ao mesmo tempo em que é um passivo para o cliente.

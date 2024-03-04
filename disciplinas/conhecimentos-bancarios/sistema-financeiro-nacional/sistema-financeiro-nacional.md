@@ -14,28 +14,6 @@
   - Bancarização da população;
   - Integração com o sistema de pagamentos convencional e instantâneo.
 
-> ### Glossário
-
-#### Agentes econômicos
-* Agente poupador;
-* Agente tomador de recursos.
-
-#### Agente poupador
-* Poupadores;
-* Credor financeiro;
-* Agentes superavitários;
-* Agentes doadores finais;
-* Agentes com excesso de divisas;
-* Agente com excedentes financeiros.
-
-#### Agente tomador de recursos
-* Investidores;
-* Tomador de recursos;
-* Agentes deficitários;
-* Agentes carentes de recursos ou fundos;
-* Agentes com escassez de fundos;
-* Devedores financeiros.
-
 ## OBJETIVO E COMPOSIÇÃO
 * O Sistema financeiro nacional tem como objetivo promover o desenvolvimento equilibrado do Brasil, servindo aos interesses da coletividade de acordo com o artigo 192 da constituição. Sendo todas as partes que o formam, reguladas por meio de lei complementar. 
 * O artigo 192, também deixa expresso a participação das cooperativas de crédito (instituições sem fins lucrativos) no sistema financeiro nacional.
