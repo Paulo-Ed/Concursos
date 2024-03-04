@@ -14,27 +14,6 @@
   - Bancarização da população;
   - Integração com o sistema de pagamentos convencional e instantâneo.
 
-> ### Banco
-* Entre os agentes que formam o SFN, o banco é a entidade que possibilita a integração dos recursos dos poupadores, com os investidores que precisam de recursos. Dessa forma o banco atua como intermediador financeiro entre agentes com diferentes objetivos.
-* Ao poupador o banco beneficia com:
-  - Segurança ao recursos;
-  - Utilização dos recursos via meios de pagamento (débito, crédito, pix, saque, transferêncas, etc);
-  - Possibilidade de rendimento a prazo.
-* Ao tomador o banco beneficia com:
-  - Oferta de crédito;
-  - Possibilidade de investimento em novos negócios.
-
-#### Intermediação financeira
-* É a atividade de captação de recursos com agentes superavitários e disponibilização aos agentes deficitários, sendo o garantidor de proteção dos recursos do primeiro e fiador do investimento do segundo. 
-* A captação dos recursos ocorre a partir de uma garantia de lucro ao poupador dada pelo banco, esse que ao emprestar parte do valor a um tomador, a uma determinada taxa de juros, obtém um lucro para si (como compensação por tomar o risco do crédito do poupador) e ao mesmo tempo paga o poupador dos recursos originais.
-* Esse lucro obtido a partir da diferença da taxa de juros que o banco paga a quem lhe empresta dinheiro (taxa de captação) e a taxa de juros que o banco cobra para quem ele empresta dinheiro (taxa de aplicação), é chamado de **spread bancário**.
-* Cálculo do spread bancário:
-  - taxa de captação + taxa de aplicação = spread bancário
-
-#### Instituições financeiras
-* São as pessoas jurídicas, públicas ou privadas que tenham como atividade principal ou acessória a coleta, intermediação ou a aplicação de recursos financeiros. Esses recursos podem ser próprios ou de terceiros e em moeda nacional ou estrangeira. Também podem atuar na custódia de valor de propriedade de terceiros.
-* Equiparam-se às instituições financeiras as pessoas físicas que atuem em qualquer uma dessas atividades de forma eventual ou permanente.
-
 > ### Glossário
 
 #### Agentes econômicos
