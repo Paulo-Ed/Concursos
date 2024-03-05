@@ -4,7 +4,7 @@
 
 ## DEFINIÇÃO
 * O Banco Central do Brasil é a principal entidade supervisora e orgão executor do sistema financeiro nacional.
-* Foi criado pela Lei nº 4595/1964 em substituição à Superintendência da moeda e do crédito (SUMOC). 
+* Foi criado pela Lei n.º 4595/1964 em substituição à Superintendência da moeda e do crédito (SUMOC). 
 * O Banco Central é uma autarquia de natureza especial, sem vinculação a ministério e com autonomia estabelacida pela Lei Complementar n.º 179/2021.
 * A sede do BACEN é em Brasília, também tendo representações em diversos estados do Brasil.
 * O BACEN tem como finalidade a condução, execução, acompanhamento e controle das políticas monetária, cambial, de crédito e de relações financeiras com o exterior, bem como a fiscalização do SFN e do sistema de consórcio. Também realiza a gestão do sistema de pagamentos brasileiro e dos serviços do meio circulante (papel moeda).
@@ -29,21 +29,21 @@
 * O Presidente e os Diretores do BACEN são indicados pelo Presidente da República e aprovados pelo Senado Federal, tendo como requisito ser brasileiro com idoneidade moral.
 * Os mandatos dos Diretores e do Presidente do BACEN tem duração de quatro anos, não coincidentes todos entre si.
 * Escala de mandatos:
-  - 2 Diretores com início de mandato no dia 1º de março do primeiro ano de mandato do Presidente da República;
-  - 2 Diretores com início de mandato no dia 1º de janeiro do segundo ano de mandato do Presidente da República;
-  - 2 Diretores e o Presidente do BACEN com início de mandato no dia 1º de janeiro do terceiro ano de mandato do Presidente da República;
-  - 2 Diretores com início de mandato no dia 1º de janeiro do quarto ano de mandato do Presidente da República.
+  - 2 Diretores com início de mandato no dia 1.º de março do primeiro ano de mandato do Presidente da República;
+  - 2 Diretores com início de mandato no dia 1.º de janeiro do segundo ano de mandato do Presidente da República;
+  - 2 Diretores e o Presidente do BACEN com início de mandato no dia 1.º de janeiro do terceiro ano de mandato do Presidente da República;
+  - 2 Diretores com início de mandato no dia 1.º de janeiro do quarto ano de mandato do Presidente da República.
 
 #### Recondução e Exoneração
 * O Presidente e os Diretores do BACEN podem ser reconduzidos uma vez, por decisão do Presidente da República, e caso seja de forma não consecutiva passará novamente pelo senado.
-* O prazo de gestão do Presidente e de cada um dos Diretores se estende até a chegada do sucessor do cargo.
+* O prazo de gestão do Presidente e de cada um dos Diretores se estende até a chegada do sucessor no cargo.
 * A exoneração é feita pelo Presidente da República e acontece:
   - A pedido;
   - Em caso de enfermidade que impeça o exercício do cargo;
   - Em caso de condenação transitada em julgado, ou proferida por órgão colegiado para prática de improbidade administrativa ou crime que acarrete a proibição de acesso a cargos públicos;
   - Quanto apresentarem comprovado e recorrente desempenho insuficiente para o alcance dos objetivos do BACEN. 
 * No caso 4 o CMN é responsável por votar pela exoneração do Presidente do BACEN e propor a sua exoneração ao Presidente da República, sendo ainda necessário a aprovação no senado.
-* Se a vaga de Presidente do BACEN ou um Diretor ficar vaga, um substituto é indicado para completar o mandado.
+* Se a vaga de Presidente do BACEN ou um Diretor ficar vaga, um substituto é indicado para completar o mandato.
 * Até a posse do novo Presidente do BACEN, essa função é exercida pelo Diretor com mais tempo de serviço, preferencialmente o mais velho.
 
 > ### Funções exercidas pelo BACEN
@@ -91,10 +91,10 @@
   - Efetuar o controle dos capitais estrangeiros, nos termos da lei;
   - Ser depositário das reservas oficiais de ouro e moeda estrangeira e de Direitos Especiais de Saque e fazer com estas últimas todas e quaisquer operações previstas no Convênio Constitutivo do Fundo Monetário Internacional;
   - Exercer a fiscalização das instituições financeiras e aplicar as penalidades previstas;
-  - Conceder autorização às instituições financeiras de: funcionar no País; instalar ou transferir suas sedes, ou dependências, inclusive no exterior; ser transformadas, fundidas, incorporadas ou encampadas; praticar operações de câmbio, crédito real e venda habitual de títulos da dívida pública federal, estadual ou municipal, ações Debêntures, letras hipotecárias e outros títulos de crédito ou mobiliários; ter prorrogados os prazos concedidos para funcionamento; alterar seus estatutos; alienar ou, por qualquer outra forma,transferir o seu controle acionário.
+  - Conceder autorização às instituições financeiras de: funcionar no País; instalar ou transferir suas sedes, ou dependências, inclusive no exterior; ser transformadas, fundidas, incorporadas ou encampadas; praticar operações de câmbio, crédito real e venda habitual de títulos da dívida pública federal, estadual ou municipal, ações, Debêntures, letras hipotecárias e outros títulos de crédito ou mobiliários; ter prorrogados os prazos concedidos para funcionamento; alterar seus estatutos; alienar ou, por qualquer outra forma,transferir o seu controle acionário.
   - Estabelecer condições para a posse e para o exercício de quaisquer cargos de administração de instituições financeiras privadas, assim como para o exercício de quaisquer funções em órgãos consultivos, fiscais e semelhantes, segundo normas que forem expedidas pelo Conselho Monetário Nacional;
-  - Efetuar, como instrumento de política monetária, operações de compra e venda de títulos públicos federais, consoante remuneração, limites, prazos, formas de negociação e outras condições estabelecidos em regulamentação por ele editada, sem prejuízo do disposto no art. 39 da Lei Complementar n. 101, de 4 de maio de 2000;   
-**Observação:** Finalmente, é o inciso acima que dispõe com clareza que, desde a LC 179/2021, é o Banco Central quem regulamenta a sua própria política monetária, e não mais o CMN.
+  - Efetuar, como instrumento de política monetária, operações de compra e venda de títulos públicos federais, consoante remuneração, limites, prazos, formas de negociação e outras condições estabelecidos em regulamentação por ele editada, sem prejuízo do disposto no art. 39 da Lei Complementar n.º 101, de 4 de maio de 2000;   
+**Observação:** Finalmente, é o inciso acima que dispõe com clareza que, desde a Lei Complementar n.º 179/2021, é o Banco Central quem regulamenta a sua própria política monetária, e não mais o CMN.
   - Determinar que as matrizes das instituições financeiras registrem os cadastros das firmas que operam com suas agências há mais de um ano.
   - Aprovar seu regimento interno; 
   - Efetuar, como instrumento de política cambial, operações de compra e venda de moeda estrangeira e operações com instrumentos derivativos no mercado interno, consoante remuneração, limites, prazos, formas de negociação e outras condições estabelecidos em regulamentação por ele editada;  
@@ -113,7 +113,7 @@ diretoria e conselho fiscal), a instituição financeira irá indicar um nome pa
   - É vedado ao banco central conceder, direta ou indiretamente, empréstimos ao Tesouro Nacional e a qualquer órgão ou entidade que não seja instituição financeira; 
   - O banco central poderá comprar e vender títulos de emissão do Tesouro Nacional, com o objetivo de regular a oferta de moeda ou a taxa de juros;  
   - As disponibilidades de caixa da União serão depositadas no banco central; as dos Estados, do Distrito Federal, dos Municípios e dos órgãos ou entidades do Poder Público e das empresas por ele controladas, em instituições financeiras oficiais, ressalvados os casos previstos em lei.
-* Atribuições do BACEN de acordo a Lei Complementar nº 101/2000 (Lei de responsabilidade fiscal):
+* Atribuições do BACEN de acordo a Lei Complementar n.º 101/2000 (Lei de responsabilidade fiscal):
   - Salvo mediante lei específica, não poderão ser utilizados recursos públicos, inclusive de operações de crédito, para socorrer instituições do Sistema Financeiro
 Nacional, ainda que mediante a concessão de empréstimos de recuperação ou financiamentos para mudança de controle acionário.  
   - A prevenção de insolvência e outros riscos ficará a cargo de fundos, e outros mecanismos, constituídos pelas instituições do Sistema Financeiro Nacional, na forma da lei.  
