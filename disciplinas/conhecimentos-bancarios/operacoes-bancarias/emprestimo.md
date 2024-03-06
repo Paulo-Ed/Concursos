@@ -41,11 +41,11 @@
 * É possível realizar a portabilidade de crédito consignado e cartão consignado de uma instituição financeira para outra.
 * A consignação depende da existência de contrato enre a instituição financeira e a fonte pagadora, sendo necessário a autorização expressa do contratante.
 
-> ### Empréstimo consignado covencional
+### Empréstimo consignado covencional
 * O valor do empréstimo é concedido ao cliente e as prestações são posteriormente descontadas do seu salário, benefício ou pensão.
 * Possui prazo e prestações determinadas no momento de contratação.
 
-> ### Cartão de crédito consignado
+### Cartão de crédito consignado
 * Funciona igual a um cartão de crétido comum, tendo como diferença que o valor da fatura pode ser descontado, total ou parcialmente de forma automática na folha de pagamento.
 
 **Observação:** As instituições financeiras não são obrigadas a conceder empréstimos ou financiamentos a quem quer que seja, podendo estabelecer critérios próprios para isso. As taxas de juros cobradas variam de banco para banco, não havendo limites para as taxas cobradas. No entanto, as instituições financeiras são obrigadas a informar, antes da contratação, o Custo Efetivo Total (CET) de cada operação de empréstimo ou financiamento. O CET deve ser expresso na forma de taxa percentual anual, incluindo todos os encargos e as despesas das operações, tais como tarifas e impostos. Empréstimos e financiamentos tomados podem ser quitados antecipadamente com redução dos juros, cabendo às instituições informar as condições para essa antecipação. 
