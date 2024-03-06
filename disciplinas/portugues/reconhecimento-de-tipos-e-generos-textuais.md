@@ -33,7 +33,7 @@
 
 ## RELAÇÕES ENTRE TIPOS E GÊNEROS
 
-> ### Tipo narrativo
+### Tipo narrativo
 * São textos que tem como objetivo contar histórias e relatar fatos. O tipo narrativo se baseia na evolução dos acontecimentos, mesmo que não exista linearidade com o tempo real.
 * São caracterizados por verbos de ação e conectores temporais, tendo no tempo e nas ações desenvolvidas ao longo dele um elemento marcante.
 * São objetivos quando na 3.ª pessoa (narrador observador) e subjetivos quando na 1.ª pessoa (narrador personagem).
