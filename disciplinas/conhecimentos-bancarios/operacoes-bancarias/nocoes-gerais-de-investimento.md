@@ -6,10 +6,10 @@
 * Investimento é a aplicação de capital com o objetivo de obter um benefício futuro (lucro).
 * Existem dois tipos de investimento: o investimento econômico e o investimento financeiro.
 
-> ### Investimento econômico
+### Investimento econômico
 * É o tipo de investimento aplicado, seja com recursos próprios ou via empréstimo, na produção de empreendimentos reais (abertura de negócios) na produção de produtos e/ou serviços. Esse tipo de investimento gera empregos diretos e indiretos, sendo um investimento de médio a longo prazo de retorno financeiro.
 
-> ### Investimento financeiro
+### Investimento financeiro
 * É o investimento em aplicações financeiras (aporte de recursos) realizadas por pessoas ou empresas com recursos disponíveis, com o objetivo de obter lucro a partir do recebimento de juros sobre o valor aplicado. 
 * Esse tipo de investimento é remunerado de acordo com o seu risco, sendo o juros pagos maior conforme o grau de risco do investimento.
 * Investimentos financeiros podem ser realizados na modalidade de **renda fixa** e **renda variável**. 

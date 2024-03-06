@@ -23,7 +23,7 @@
 
 ## UTILIZAÇÃO DO CRÉDITO RURAL
 
-> ### Atividades financiadas
+### Atividades financiadas
 
 #### Custeio
 * Pagamento de despesas comuns de um ciclo produtivo, ou seja, para financiar os custos da produção de uma safra.
@@ -44,7 +44,7 @@
 #### Industrialização
 * Industrialização de produtos agropecuários, quando realizados por cooperativas, ou pelo produtor em sua própria propriedade rural.
 
-> ### Atividades não financiadas
+### Atividades não financiadas
 * Financiar atividades deficitárias ou antieconômicas.
 * Financiar o pagamento de dívidas.
 * Possibilitar a recuperação de capital investido.
@@ -52,7 +52,7 @@
 * Antecipar a realização de lucros presumíveis.
 * Amparar atividades sem caráter produtivo ou aplicações desnecessárias ou de mero lazer.
 
-> ### Grupos não beneficiados
+### Grupos não beneficiados
 * Estrangeiro residente no exterior.
 * Sindicato rural.
 * Parceiro, se o contrato de parceria restringir o acesso de qualquer das partes ao financiamento.

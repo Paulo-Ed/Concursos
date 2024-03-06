@@ -20,7 +20,7 @@
 * O sistema financeiro nacional é composto por um conjunto de orgãos normativos, entidades regulamentadoras e instituições de prestação de serviços financeiros e intermediação financeira (operadores).
 * De modo geral o sistema financeiro nacional é subdividido em dois subsistemas: o subsistema normativo e o subsistema operacional.
 
-> ### Subsistema normativo
+### Subsistema normativo
 * É o responsável por elaborar normas de funcionamento e fiscalizar a atuação dos integrantes do subsistema operacional, assim como dos agentes econômicos que operam no sistema.
 * Possuem a finalidade de trazer sustentabilidade e segurança jurídica para que os operadores atuem de maneira adequada.
 * Essa parte do SFN é formada pelo estado, sendo composto por: orgãos normativos e entidades supervisoras. 
@@ -42,7 +42,7 @@
   - SUSEP - Superintendência de Seguros Privados (responsável pelos seguros privados);
   - PREVIC - Superintendência Nacional de Previdência Complementar (responsável pela previdência complementar fechada).
 
-> ### Subsistema operacional
+### Subsistema operacional
 * É a parte que oferece serviços e produtos financeiros para a sociedade.
 * Exemplos de operadores:
   - Instituições financeiras;
@@ -57,7 +57,7 @@
 
 ## ESTRUTURA DO SUBSISTEMA NORMATIVO
 
-> ### Estrutura de penalidades administrativas
+### Estrutura de penalidades administrativas
 * As entidades supervisoras, diante de irregularidades encontradas a partir da fiscalização das normas estabelecidas pelos orgãos normativos, podem aplicar penalidades aos operadores do SFN, essas penalidades possuem caráter administrativo.
 * Na estrutura de processamento das penalidades, as instituições podem recorrer das decisões as próprias entidades (1.ª instância) e em último caso aos conselhos de recursos.
 * Na atuação de agente fiscalizador a entidade responsável por fiscalizar um operador, vai depender do segmento de atuação da instituição operadora. Dessa forma uma instituição pode por exemplo ser fiscalizada pelo BACEN ou pela CVM de acordo com as diferentes áreas de sua atuação.
@@ -77,7 +77,7 @@
 2. Pedido de reconsideração da penalidade - PREVIC;
 3. Pedido de recurso em última instância - CRPC (Câmara de Recursos da Previdência Complementar).
 
-> ### Estrutura organizacional 
+### Estrutura organizacional 
 * O principal objetivo da organização do subsistema normativo é estabelecer determinações por meio dos conselhos e fazer com que os operadores cumpram as determinações, tarefa realizada pelas entidades supervisoras. 
 * O BACEN além disso tem a função de gerir a política monetária com autonomia.
 

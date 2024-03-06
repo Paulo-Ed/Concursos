@@ -17,7 +17,7 @@
 * De acordo com a Lei n.º 4595/1964 no artigo 9.º, cabe ao BACEN cumprir e fazer cumprir as disposições a ele atribuídas pela legislação em vigor e as normas expedidas pelo CMN, respeitando a sua autonomia.
 * No artigo 6.º da  Lei Complementar n.º 179/2021 é definido que o BACEN é uma autarquia de natureza especial caracterizada pela ausência de vinculação a ministério, de tutela ou subordinação hierárquica, possuindo autonomia financeira, administrativa, técnica e operacional (FATO). Assim como pela investidura dos seus dirigentes e pela estabilidade de mandatos.
 
-> ### Funcionamento do BACEN
+### Funcionamento do BACEN
 
 #### Recursos do BACEN
 * O Banco Central possui ativos, passivos e balanços.
@@ -46,7 +46,7 @@
 * Se a vaga de Presidente do BACEN ou um Diretor ficar vaga, um substituto é indicado para completar o mandato.
 * Até a posse do novo Presidente do BACEN, essa função é exercida pelo Diretor com mais tempo de serviço, preferencialmente o mais velho.
 
-> ### Funções exercidas pelo BACEN
+### Funções exercidas pelo BACEN
 
 #### Banco emissor
 * Tem o monopólio da emissão de moeda.
