@@ -59,3 +59,23 @@
 * Pessoa estranha aos grupos tribais ou comunidades indígenas que exerça atividade agropecuária ou extrativa em áreas indígenas.
 
 ## TIPOS DE CRÉDITO RURAL
+* A oferta de crédito rural, se da a partir de dois grupos de recursos: **os recursos controlados** e os **recursos não controlados**.
+
+> ### Recursos controlados
+* São recursos que obrigatórios, ou seja, já tem destinação específica para o crédito rural.
+* Os recursos oficiais tem determinados pelo CMN, a sua fonte de origem, porcentagem mínima destinada e o valor das taxas de juros cobradas.
+* Por exemplo 25% dos depósitos a vista são obrigatoriamente destinados a financiar o crédito rural. Se não for concedido é enviado ao depósito compulsório do BACEN sem remuneração.
+* Bancos que não atuam no crédito rural, podem vender sua carteira a bancos especializados nessas operações que precisem de mais recursos, recebendo em troca uma taxa de juros. O que compensa frente ao depósito compulsório não remunerado.
+* Principais recursos controlados:
+  - Depósito a vista (25%);
+  - Recursos do Tesouro Nacional;
+  - Poupança rural;
+  - Fundos constitucionais de financiamento regional;
+  - Fundos de defesa da economia cafeeira;
+  - Recursos de equalização de encargos.
+
+**Observação:** Equalização de encargos é a diferença do custo de captação da instituição financeira e os praticados nas operações de financiamento rural, pagos pelo Tesouro Nacional. Em resumo se por exemplo o custo do crédito rural é 2%, mas o banco capta via CDB a 7% o governo cobre os 5% para que o banco continue realizando operações de crédito rural.
+
+> ### Recursos não controlados
+* São recursos próprios das instituições financeiras. 
+* As condições de concessão desse tipo de crédito, são livres e negociadas direto com o cliente.
