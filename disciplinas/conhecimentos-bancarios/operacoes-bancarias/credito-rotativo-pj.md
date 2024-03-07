@@ -6,7 +6,7 @@
 * Esse tipo de crédito é uma forma de financiamento de capital de giro.
 * Essa operação é também chamada de contrato de abertura de crédito rotativo.
 
-> ### Características
+#### Características
 * A abertura é condicionada a apresentação de garantias em duplicatas ou cheques por parte das pessoas jurídicas.
 * É cobrado o IOF.
 * É cobrada uma taxa de abertura de crédito (T.A.C), que incide uma única vez em cada contrato.

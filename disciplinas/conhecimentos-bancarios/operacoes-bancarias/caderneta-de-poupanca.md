@@ -9,7 +9,7 @@
 * Isso se deve para que o investimento no Tesouro direto (remunerado pela SELIC), seja sempre mais vantajoso do que o investimento na poupança, pois os investimentos no tesouro são utilizados como fonte de recursos pelo Estado.
 * A definição da remuneração da poupança se deu pela Lei n.º 12.703/2012.
 
-> ### Características
+#### Características
 * A documentação necessária para a abertura de uma conta poupança é definida por cada instituição financeira. Elas são também as responsáveis por identificar os seus clientes e seguir as regras de combate a lavagem de dinheiro e ao terrorismo.
 * A remuneração da poupança é calculada sobre o menor saldo de cada período de rendimento (mês corrido após o depósito).
 * Depósitos feitos via cheque são considerados a partir do dia do depósito, independente da data de compensação, a não ser que ele seja devolvido.

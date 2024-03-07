@@ -23,9 +23,9 @@
 
 ## UTILIZAÇÃO DO CRÉDITO RURAL
 
-### Atividades financiadas
+> ### Atividades financiadas
 
-#### Custeio
+#### Atividades de custeio
 * Pagamento de despesas comuns de um ciclo produtivo, ou seja, para financiar os custos da produção de uma safra.
 * Tipos:
   - Custeio agrícola;
@@ -34,17 +34,17 @@
 * O custeio agrícola abrange despesas destinadas ao ciclo produtivo de lavouras periódicas, de entressafra de lavouras permanentes ou da extração de produtos vegetais espontâneos ou cultivados.
 * O crédito rural também custeia despesas de aquisição de insumos para a restauração e recuperação das áreas de reserva legal e das áreas de preservação permanente.
 
-#### Investimento
+#### Atividades de investimento
 * Financiamento de bens ou serviços para uso em várias produções. Em geral maquinário a ser usado na safra de vários anos.
 
-#### Comercialização e Pré-comercialização
+#### Atividades de Comercialização e pré-comercialização
 * Usado para cobrir despesas após a produção. Também é utilizado para conversão dos títulos de venda da produção em dinheiro, ou ainda para armazenamento da produção excedente e comercialização da produção por meio de feiras por exemplo.
 * O prazo máximo de financiamento de pré-comercialização é de 240 dias.
 
-#### Industrialização
+#### Atividades de Industrialização
 * Industrialização de produtos agropecuários, quando realizados por cooperativas, ou pelo produtor em sua própria propriedade rural.
 
-### Atividades não financiadas
+> ### Atividades não financiadas
 * Financiar atividades deficitárias ou antieconômicas.
 * Financiar o pagamento de dívidas.
 * Possibilitar a recuperação de capital investido.
@@ -52,7 +52,7 @@
 * Antecipar a realização de lucros presumíveis.
 * Amparar atividades sem caráter produtivo ou aplicações desnecessárias ou de mero lazer.
 
-### Grupos não beneficiados
+> ### Grupos não beneficiados
 * Estrangeiro residente no exterior.
 * Sindicato rural.
 * Parceiro, se o contrato de parceria restringir o acesso de qualquer das partes ao financiamento.

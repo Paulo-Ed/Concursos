@@ -10,7 +10,7 @@
 * O desconto de títulos é uma forma de obtenção de financiamento de capital de giro.
 * O adiantamento de férias ou 13.º são exemplos de desconto de títulos para pessoas físicas.
 
-> ### Características
+#### Características
 * Os títulos de pagamento do cliente são transferidos diretamente para o banco por meio do endosso em preto.
 * Os juros são cobrados de forma antecipada.
 * O desconto de títulos é feito com títulos de crédito e boletos.

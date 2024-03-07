@@ -10,12 +10,12 @@
 * O fundo garantidor de crédito de proteção ordinária protege valores de até 250 mil reais.
 * O BACEN definiu instrumentos diferenciados de acordo com o tamanho da instiuição financeira, para facilitar as operações de CDI e dar mais segurança as operações entre instituições de diferentes escalas.
 
-### DGPE
+## DGPE
 * O depósito a prazo com garantia especial é um título de renda fixa criado para auxiliar instituições financeiras de pequeno e médio porte a captar recursos.
 * Possuem taxas de remuneração pré ou pós-fixadas.
 * Não podem ser resgatados antecipadamente nem parcialmente.
 * É garantido pelo FGC em até 40 milhões para aplicaçãoes a partir de 1 milhão por no mínimo um ano.
 
-### DGPE - IF
+## DGPE - IF
 * O depósito a prazo com garantia especial para instituições financeiras, permite a captação de participantes do mercado de DGPE de instituições associadas ao FGC.
 * Essas captações possuem garantia de até 400 milhões do total de créditos de cada instituição titular contra a instituição ou conglomerado emissor do DGPE.

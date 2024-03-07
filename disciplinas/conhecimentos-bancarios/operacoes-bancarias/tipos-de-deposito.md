@@ -5,7 +5,7 @@
 ## DEPÓSITO À VISTA
 * O depósito à vista é o depósito de recursos em conta corrente.
 
-> ### Características
+#### Características
 * Possui liquidez imediata.
 * O depósito à vista não pode ser remunerado pelos bancos.
 * Não gera ônus aos bancos e dessa forma tem custo zero.
@@ -15,7 +15,7 @@
 * O depósito à prazo é um depósito de recursos em conta, aplicado por um determinado período de tempo, ou seja, investido no banco. Esse valor é remunerado enquanto estiver no banco.
 * O CDB e o RDB são modalidades de depósito a prazo com remuneração pré ou pós-fixada.
 
-> ### Características
+#### Características
 * Possuem liquidez menor que os depósitos à vista.
 * Só podem ser sacados após um prazo mínimo de acordo com as condições estabelecidas com o banco.
 * São remunerados com juros a uma taxa definida junto ao contrato com o banco.
