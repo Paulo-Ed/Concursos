@@ -10,7 +10,7 @@
   - Os oito diretores do BACEN.
 * Além do COPOM que atua para manter a estabilidade do poder de compra da moeda, existe o COMEF (Comitê de Estabilidade Financeira), responsável por preservar a integridade do SFN contra riscos sistêmicos.
 
-### Reuniões do COPOM
+> ### Reuniões do COPOM
 * São realizadas 8 reuniões por ano e ainda de forma extraordinária a pedido do Presidente.
 * O calendário das reuniões é divulgado pelo Diretor de Política Monetária até o fim de junho do ano anterior da realização das reuniões, podendo sofre ajustes até o fim de dezembro desse mesmo ano.
 * As reuniões são realizadas com no mínimo o Presidente e 4 Diretores.

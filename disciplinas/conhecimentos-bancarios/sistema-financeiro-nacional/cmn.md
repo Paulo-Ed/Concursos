@@ -11,7 +11,7 @@
   - Ministro do Planejamento;
   - Presidente do Banco Central.
 
-### Reuniões do CMN
+> ### Reuniões do CMN
 * O CMN atua por meio de reuniões, realizadas geralmente no prédio do BACEN. 
 * Podem ser reuniões ordinárias (mensais), ou extraordinárias (sempre que necessário).
 * Nas reuniões são feitas deliberações, sobre temas pre-estabelecidos, podendo serem feitas votações e resoluções, tendo o registro das reuniões em atas.
