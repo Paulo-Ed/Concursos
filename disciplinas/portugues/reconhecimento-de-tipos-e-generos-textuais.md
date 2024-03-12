@@ -53,3 +53,34 @@
   - Quando? (o tempo/as datas dos acontecimentos)
   - Como? (o modo/o meio utilizado)
   - Por quê? (as motivações)
+
+> ### Tipo descritivo
+* Esse tipo textual se trata da caracterização das coisas (pessoas, objeto, ambientes e situações). É utilizado para detalhar as propriedades e os aspectos dos elementos que são retratados em um estado definido (como se fosse uma foto).
+* Em descrições podem aparecer verbos de ação ou movimento, mas os movimentos são simultâneos ao momento que se descreve, ou seja, não indicam uma mudança de estado.
+* A **descrição objetiva** mostra uma visão coletiva do objeto, usando linguagem denotativa e destaque para aspectos físicos.
+* A **descrição subjetiva** mostra a percepção do sujeito sobre o que é descrito, podendo utilizar conotações e destacando o aspecto psicológico.
+
+> ### Tipo dissertativo expositivo
+* Tipo de texto que tem como finalidade transmitir conhecimento devidamente legitimado. 
+* O autor busca explanar sobre um assunto para informar o leitor, sem emitir opinião ou juízo de valor sobre a questão discutida.
+* Em geral segue a estrutura de introdução, desenvolvimento e conclusão, porém o mais importante é apresentar as informações de maneira clara, correta, organizada e coerente.
+* Gêneros com predominância da dissertação expositiva:
+  - Artigo;
+
+> ### Tipo dissertativo argumentativo
+* Esse tipo textual tem como objetivo convencer o leitor sobre um ponto de vista a respeito de um determinado assunto. O texto tentar influenciar o leitor, por meio de um raciocínio consistente, apresentando evidências que dão embasamento para a conclusão que se chega.
+* A contrução do texto pelo autor, se da com o recolhimento, avaliação e interpreção de informações e dados da realidade e elaboração de reflexões, a partir da qual ele expressa sua opinião e posicionamento (sustentado por argumentos fundamentados) crítico sobre o tema.
+* Estrutura padrão do texto dissertativo argumentativo:
+  - Introdução (apresentação do tema e da tese);
+  - Desenvolvimento (desenvolvimento dos argumentos que sustentam a tese);
+  - Conclusão (retomada da tese e desfecho do tema).
+* Gêneros com predominância da dissertação argumentativa:
+  - Artigos de opinião;
+  - Editoriais;
+  - Entrevistas.
+* Como identificar um texto dissertativo argumentativo:
+  - Sobre qual assunto o autor escreve? (temática)
+  - O que o autor pensa sobre esse assunto? (tese)
+  - Por que ele pensa assim? (argumentos)
+
+> ### Tipo injutivo
