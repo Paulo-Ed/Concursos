@@ -159,3 +159,32 @@ e Contrato.
 #### Renegociação
 * A renegociação do crédito é possível, quando utilizado de forma correta, mas devido a imprevistos ocorre o impedimento do pagamento do empréstimo no prazo definido. Nesse caso o financiamento pode ser inclusive alongado.
 * A prorrogação também não impede a obtenção de novo crédito para outras operações, com exceção dos casos definidos em resoluções do CMN.
+
+> ### Recebimento do dinheiro da produção
+
+#### Nota promissória rural
+* Se trata de uma promessa de pagamento pela venda a prazo de produtos agrícolas. O produtor a utiliza para documentar o crédito obtido com as vendas da sua safra.
+
+#### Duplicata rural
+* É um título de crédito, emitido pelo credor e usado nas vendas a prazo de bens rurais. O título demonstra que o credor fez uma venda a prazo
+e vincula a venda ao empréstimo realizado.
+* A duplicata é título causal (sua causa é a venda da produção), para ser usada nas vendas a prazo de quaisquer bens de natureza agrícola, extrativa ou pastoril, quando efetuadas diretamente por produtores rurais ou por suas cooperativas. O devedor é, geralmente, pessoa física. Enquanto a NPR é desvinculada do negócio, a duplicata permanece vinculada à produção.
+
+## PROGRAMAS GOVERNAMENTAIS
+
+> ### Proagro
+* Programa de financiamento de custeio agrícola, é um seguro para situações onde a produção da lavoura (amparada) teve prejuízos de receita causados por eventos climáticos, pragas ou doenças sem controle.
+* É aberto a todos os produtores, embora tenha maior foco aos pequenos e médios agricultores.
+* O BACEN administra o Proagro e realiza o pagamento das indenizações e repasses aos agentes do programa.
+* Tipos de eventos amparados:
+  - Seca, exceto em lavouras irrigadas;
+  - Chuva excessiva, geada ou granizo;
+  - Variação excessiva de temperatura;
+  - Ventos fortes ou frios;
+  - Doença ou praga sem método conhecido e economicamente viável de combate, controle ou profilaxia.
+
+> ### Pronaf
+* É o programa nacional de fortalecimento da agricultura familiar. Atua estimulando a geração de renda e melhora do uso da mão de obra familiar, por meio de financiamento de atividades e serviços rurais agropecuários e não agropecuários realizados em área rural ou em áreas comunitárias próprias.
+* Os beneficiários são divididos em dois grupos: 
+  -  O **Grupo A** é formado por Agricultores familiares assentados pela Programa Nacional de Reforma Agrária (PNRA) ou beneficiários do Programa Nacional de Crédito Fundiário (PNCF) que não contrataram operação de investimento sob a égide do Programa de Crédito Especial para a Reforma Agrária (Procera) ou que ainda não contrataram o limite de operações ou de valor de crédito de investimento para estruturação no âmbito do Pronaf.
+  - O **Grupo B** é formado por beneficiários que possuam renda bruta familiar nos últimos 12 meses de produção normal, que antecedem a solicitação da DAP, não superior a vinte mil reais e que não contratem trabalho assalariado permanente.
