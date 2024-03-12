@@ -140,3 +140,22 @@ e Contrato.
 
 #### Demais financiamentos
 * Até 120 dias após cada liberação de crédito, para comprovar a realização das obras, serviços ou aquisições.
+
+> ### Ações pós-fiscalização da concessão do crédito rural
+
+#### Desclassificação
+* Ocorre após a constatação do desvio nos objetivos do crédito rural, seja na sua aplicação em atividades diferentes das previstas na regulamentação, ou pela obtenção do crédito para itens ou empreendimentos já financiados (que já usam o crédito rural).
+* A desclassificação é adotada pelo banco em até 60 dias após verificada a irregularidade ou por determinação do BACEN.
+
+#### Reclassificação
+* Ocorre após constatação de irregularidade no uso dos recursos, mas que não caracterize desvio nos objetivos do crédito rural.
+* Tipos de irregularidades:
+  - Crédito acima do limite regular, devido a erro operacional;
+  - Crédito incompatível com as caracteristicas do beneficiário;
+  - Execução de empreendimento incompatível com o programa ou linha de crédito utilizado;
+  - Aplicação em construção diferente do previsto no orçamento, plano, projeto ou instrumento de crédito;
+  - Qualquer irregularidade não enquadrada nos tipos anteriores e/ou nos casos de desclassificação.
+
+#### Renegociação
+* A renegociação do crédito é possível, quando utilizado de forma correta, mas devido a imprevistos ocorre o impedimento do pagamento do empréstimo no prazo definido. Nesse caso o financiamento pode ser inclusive alongado.
+* A prorrogação também não impede a obtenção de novo crédito para outras operações, com exceção dos casos definidos em resoluções do CMN.
