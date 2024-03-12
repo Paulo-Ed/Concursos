@@ -124,6 +124,7 @@ e Contrato.
 * O pagamento do empréstimo ou será feito de uma única vez, ou em parcelas de acordo com os ciclos da produção financiada e considerando a capacidade do produtor de pagar. Em geral os pagamentos são planejados para que coincidam com os períodos dos rendimentos da produção.
 
 > ### Funcionamento da fiscalização de concessão do crédito rural
+* As instituições financeiras são obrigadas a fiscalizar a aplicação do financiamento, para garantir a correta utilização dos recursos destinados ao crédito rural.
 
 #### Custeio agrícola
 * Antes da colheita, o banco fiscaliza se o crédito ofertado foi utilizado para a produção.
