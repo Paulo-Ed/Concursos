@@ -118,3 +118,25 @@ seguintes atividades:
 e Contrato.
 
 ***DICA:*** Para que se conceda crédito rural para financiamento de atividades agropecuárias é necessário a apresentação da inscrição no CAR (Cadastro Ambiental Rural).
+
+> ### Obtenção e pagamento do crédito rural
+* A liberação do crédito rural pode ser feita em uma única parcela, ou em várias parcelas. Seu recebimento pode ser em caixa ou conta de depósitos, sendo sua diponibilização de acordo com as necessidades e seguindo o cronograma estabelecido.
+* O pagamento do empréstimo ou será feito de uma única vez, ou em parcelas de acordo com os ciclos da produção financiada e considerando a capacidade do produtor de pagar. Em geral os pagamentos são planejados para que coincidam com os períodos dos rendimentos da produção.
+
+> ### Funcionamento da fiscalização de concessão do crédito rural
+
+#### Custeio agrícola
+* Antes da colheita, o banco fiscaliza se o crédito ofertado foi utilizado para a produção.
+
+#### Custeio pecuário
+* Ao menos uma vez durante a operação, em momento que se possa verificar a correta aplicação dos recursos.
+
+#### Comercialização e industrialização
+* Durante a realização da atividade.
+
+#### Investimento
+* Para construção, ampliação ou reformas a fiscalização é feita até a conclusão do cronograma de execução definido no projeto.
+* Para fornecimento de insumos via cooperativa a seus cooperados, a fiscalização é feita após o registro da relação de cooperados no Sicor e até 60 dias antes do vencimento da operação.
+
+#### Demais financiamentos
+* Até 120 dias após cada liberação de crédito, para comprovar a realização das obras, serviços ou aquisições.
