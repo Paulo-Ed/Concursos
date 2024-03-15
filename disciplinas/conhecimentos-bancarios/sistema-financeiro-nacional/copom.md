@@ -5,15 +5,15 @@
 ## DEFINIÇÃO
 * O COPOM é um orgão colegiado do Banco Central, foi criado em 20 de junho de 1996.
 * Sua função é estabelecer as diretrizes para a execução da política monetária (dinheiro e crédito) no Brasil.
-* Composição do COMPOM:
-  - Presidente do BACEN
+* Composição do COPOM:
+  - Presidente do BACEN;
   - Os oito diretores do BACEN.
 * Além do COPOM que atua para manter a estabilidade do poder de compra da moeda, existe o COMEF (Comitê de Estabilidade Financeira), responsável por preservar a integridade do SFN contra riscos sistêmicos.
 
 > ### Reuniões do COPOM
 * São realizadas 8 reuniões por ano e ainda de forma extraordinária a pedido do Presidente.
 * O calendário das reuniões é divulgado pelo Diretor de Política Monetária até o fim de junho do ano anterior da realização das reuniões, podendo sofre ajustes até o fim de dezembro desse mesmo ano.
-* As reuniões são realizadas com no mínimo o Presidente e 4 Diretores.
+* As reuniões são realizadas com no mínimo o Presidente e quatro Diretores.
 
 #### Sessões
 * As reuniões são feitas em duas sessões em dois dias seguidos. 
@@ -37,7 +37,7 @@
 
 #### Decisões e Procedimentos
 * O COPOM, ao estabelecer a Meta da Taxa Selic atua na economia afim de manter o equilíbrio da quantidade de dinheiro circulando e assim fazendo cumprir a meta de inflação definida pelo CMN.
-* Após definir a Selic-Meta o BACEN por meios de suas operações diárias realiza a compra e venda de títulos públicos para manter a taxa de juros próxima a meta definida.
+* Após definir a Selic-Meta o BACEN por meio de suas operações diárias realiza a compra e venda de títulos públicos para manter a taxa de juros próxima a meta definida.
 * O período de vigência da meta da Taxa Selic tem início no dia útil seguinte ao término da reunião do COPOM.
 
 ##### Atas do COPOM
@@ -50,12 +50,12 @@
 
 ## OBJETIVOS DO COPOM
 * O COPOM é um orgão a partir do qual o BACEN atua para garantir a estabilidade dos preços e fazer cumprir as metas fixadas pelo CMN.
-* Seus objetivos são definidos pela Resolução do BACEN 61/2021:
+* Seus objetivos são definidos pela Resolução do BACEN nº 61/2021:
   - **Definir** a meta para a Taxa Selic;
   - **Definir** as orientações e diretrizes estratégicas para a execução da política monetária;
   - **Divulgar** o relatório de inflação.
 
 ## TAXA SELIC
 * É a taxa básica de juros da economia. Ela é a referência para a definição de todas as taxas de juros de operações financeiras na economia brasileira.
-* Existem dois tipos de Taxa Selic, a primeira é a **Selic Meta** que é a referência a partir da qual deve ser o valor médio das taxas do títulos públicos que é definida pelo COMPOM. A segunda é a **Selic Over** que é a taxa de juros da venda de um título público que tem como referencial a **Selic Meta**.
+* Existem dois tipos de Taxa Selic, a primeira é a **Selic Meta** que é a referência a partir da qual deve ser o valor médio das taxas de juros do títulos públicos que é definida pelo COPOM. A segunda é a **Selic Over** que é a taxa de juros da venda de um título público que tem como referencial a **Selic Meta**.
 * A **Selic Over** pode variar em relação a **Selic Meta**, porém a média do juros dos títulos negociados em um dia, deve ser o valor da **Selic Meta**.
