@@ -87,7 +87,7 @@
 * O CNPC é subordinado ao ministério da previdência.
 
 #### Entidades supervisoras
-* São vinculadas aos seus respectivos ministérios, com exceção do BACEN que possui autonomia plena e não é vinculado ou subordinado a nenhum ministério. O BACEN no entando cumpre as determinações do CMN estabelecidas em lei.
+* São vinculadas aos seus respectivos ministérios, com exceção do BACEN que possui autonomia plena e não é vinculado ou subordinado a nenhum ministério. O BACEN no entanto cumpre as determinações do CMN estabelecidas em lei.
 * A CVM possui autonomia, mas está vinculada ao ministério da fazenda.
 * A SUSEP é vinculada ao ministério da fazenda.
 * A PREVIC é vinculada ao ministério da previdência.
