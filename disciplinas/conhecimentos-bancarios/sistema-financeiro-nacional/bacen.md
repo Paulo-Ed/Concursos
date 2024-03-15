@@ -11,7 +11,7 @@
 * Composição do BACEN:
   - 1 Presidente;
   - 8 Diretores.
-* O BACEN é formado por 8 Diretorias Colegiadas que possuem seus respectivos departamentos. Fazem parte também o Comitê de Política Monetária (COPOM) e o Comitê de Estabilidade Financeira (COMEF).
+* O BACEN é formado por oito Diretorias Colegiadas que possuem seus respectivos departamentos. Fazem parte também o Comitê de Política Monetária (COPOM) e o Comitê de Estabilidade Financeira (COMEF).
 
 #### Autonomia do BACEN
 * De acordo com a Lei n.º 4595/1964 no artigo 9.º, cabe ao BACEN cumprir e fazer cumprir as disposições a ele atribuídas pela legislação em vigor e as normas expedidas pelo CMN, respeitando a sua autonomia.
@@ -35,14 +35,14 @@
   - 2 Diretores com início de mandato no dia 1.º de janeiro do quarto ano de mandato do Presidente da República.
 
 #### Recondução e Exoneração
-* O Presidente e os Diretores do BACEN podem ser reconduzidos uma vez, por decisão do Presidente da República, e caso seja de forma não consecutiva passará novamente pelo senado.
+* O Presidente e os Diretores do BACEN podem ser reconduzidos uma vez, por decisão do Presidente da República, e caso seja de forma não consecutiva passará novamente pelo Senado.
 * O prazo de gestão do Presidente e de cada um dos Diretores se estende até a chegada do sucessor no cargo.
 * A exoneração é feita pelo Presidente da República e acontece:
   - A pedido;
   - Em caso de enfermidade que impeça o exercício do cargo;
   - Em caso de condenação transitada em julgado, ou proferida por órgão colegiado para prática de improbidade administrativa ou crime que acarrete a proibição de acesso a cargos públicos;
-  - Quanto apresentarem comprovado e recorrente desempenho insuficiente para o alcance dos objetivos do BACEN. 
-* No caso 4 o CMN é responsável por votar pela exoneração do Presidente do BACEN e propor a sua exoneração ao Presidente da República, sendo ainda necessário a aprovação no senado.
+  - Quando apresentarem comprovado e recorrente desempenho insuficiente para o alcance dos objetivos do BACEN. 
+* No caso 4 o CMN é responsável por votar pela exoneração do Presidente do BACEN e propor a sua exoneração ao Presidente da República, sendo ainda necessário a aprovação no Senado.
 * Se a vaga de Presidente do BACEN ou um Diretor ficar vaga, um substituto é indicado para completar o mandato.
 * Até a posse do novo Presidente do BACEN, essa função é exercida pelo Diretor com mais tempo de serviço, preferencialmente o mais velho.
 
@@ -63,7 +63,7 @@
 * Regular os serviços de compensação de cheques e outros títulos, autorizar o funcionamento das Instituições Financeiras bem como fiscalizá-las.
 
 #### Executor da política monetária
-* É a atuação do Bacen por meio de instrumentos financeiros de efeito direto ou induzido, com o propósito de controlar a liquidez global do sistema econômico de forma a manter a quantidade de moeda em circulação compatível com a estabilidade do nível geral de preços, a dinâmica do produto e a estabilidade cambial.
+* É a atuação do BACEN por meio de instrumentos financeiros de efeito direto ou induzido, com o propósito de controlar a liquidez global do sistema econômico de forma a manter a quantidade de moeda em circulação compatível com a estabilidade do nível geral de preços, a dinâmica do produto e a estabilidade cambial.
 * É por meio do Banco Central que o governo intervém diretamente no sistema financeiro e indiretamente na economia. Passa por definir a taxa básica de juros e as reservas bancárias com vistas a direcionar melhor os recursos captados pelo sistema financeiro.
 
 #### Regulador do risco sistêmico
@@ -76,7 +76,7 @@
   -  **Suavizar** as flutuações do nível de atividade econômica;
   -  **Fomentar** o pleno emprego.
 * As metas de política monetária são definidas pelo CMN, já a condução da política monetária de forma exclusiva para o cumprimento das metas estabelecidas cabe ao BACEN.
-* No início da cada semestre o presidente do BACEN apresenta em arguição pública no senado, o relatório de inflação e de estabilidade financeira, reportando aos senadores as decisões que foram tomadas no semestre anterior.
+* No início da cada semestre o presidente do BACEN apresenta em arguição pública no Senado, o relatório de inflação e de estabilidade financeira, reportando aos senadores as decisões que foram tomadas no semestre anterior.
 
 ## ATRIBUIÇÕES DO BACEN
 * O Banco Central, atua em diferentes esferas do sistema financeiro nacional. Suas atribuições foram estabelecidas na Lei n.º 4595/1964, assim como pela Lei Complementar n.º 179/2021. Existem também disposições sobre a atuação do BACEN no artigo 164 da Constituição Federal e na Lei Complementar n.º 101/2000 (lei de responsabilidade fiscal). 
@@ -109,13 +109,12 @@ diretoria e conselho fiscal), a instituição financeira irá indicar um nome pa
   - Exercer permanente vigilância nos mercados financeiros e de capitais sobre empresas que, direta ou indiretamente, interfiram nesses mercados e em relação às modalidades ou processos operacionais que utilizem;
   - O Banco Central da República do Brasil operará exclusivamente com instituições financeiras públicas e privadas, vedadas operações bancárias de qualquer natureza com outras pessoas de direito público ou privado, salvo as expressamente autorizadas por Lei.
 * Atribuições do BACEN de acordo com o artigo 164 da Constituição federal:
-  - A competência da União para emitir moeda será exercida exclusivamente pelo banco central;  
-  - É vedado ao banco central conceder, direta ou indiretamente, empréstimos ao Tesouro Nacional e a qualquer órgão ou entidade que não seja instituição financeira; 
-  - O banco central poderá comprar e vender títulos de emissão do Tesouro Nacional, com o objetivo de regular a oferta de moeda ou a taxa de juros;  
-  - As disponibilidades de caixa da União serão depositadas no banco central; as dos Estados, do Distrito Federal, dos Municípios e dos órgãos ou entidades do Poder Público e das empresas por ele controladas, em instituições financeiras oficiais, ressalvados os casos previstos em lei.
+  - A competência da União para emitir moeda será exercida exclusivamente pelo Banco Central;  
+  - É vedado ao Banco Central conceder, direta ou indiretamente, empréstimos ao Tesouro Nacional e a qualquer órgão ou entidade que não seja instituição financeira; 
+  - O Banco Central poderá comprar e vender títulos de emissão do Tesouro Nacional, com o objetivo de regular a oferta de moeda ou a taxa de juros;  
+  - As disponibilidades de caixa da União serão depositadas no Banco Central; as dos Estados, do Distrito Federal, dos Municípios e dos órgãos ou entidades do Poder Público e das empresas por ele controladas, em instituições financeiras oficiais, ressalvados os casos previstos em lei.
 * Atribuições do BACEN de acordo a Lei Complementar n.º 101/2000 (Lei de responsabilidade fiscal):
-  - Salvo mediante lei específica, não poderão ser utilizados recursos públicos, inclusive de operações de crédito, para socorrer instituições do Sistema Financeiro
-Nacional, ainda que mediante a concessão de empréstimos de recuperação ou financiamentos para mudança de controle acionário.  
-  - A prevenção de insolvência e outros riscos ficará a cargo de fundos, e outros mecanismos, constituídos pelas instituições do Sistema Financeiro Nacional, na forma da lei.  
+  - Salvo mediante lei específica, não poderão ser utilizados recursos públicos, inclusive de operações de crédito, para socorrer instituições do sistema financeiro nacional, ainda que mediante a concessão de empréstimos de recuperação ou financiamentos para mudança de controle acionário.  
+  - A prevenção de insolvência e outros riscos ficará a cargo de fundos, e outros mecanismos, constituídos pelas instituições do sistema financeiro nacional, na forma da lei.  
   - O disposto no caput não proíbe o Banco Central do Brasil de conceder às instituições financeiras operações de redesconto e de empréstimos de prazo inferior a trezentos e sessenta dias.  
   - O Banco Central do Brasil não emitirá títulos da dívida pública a partir de dois anos após a publicação desta Lei Complementar.  
