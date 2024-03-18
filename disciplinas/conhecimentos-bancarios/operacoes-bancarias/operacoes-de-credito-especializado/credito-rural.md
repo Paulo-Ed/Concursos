@@ -94,7 +94,7 @@ seguintes atividades:
 
 > ### Critérios para concessão do crédito rural
 * Deve ser comprovada a idoneidade do tomador.
-* Deve-se apresentar orçamento, plano ou projeto, salvo em operações de desconto de título.
+* Deve-se apresentar orçamento, plano ou projeto (exceto em operações de desconto de título).
 * Oportunidade de concessão, suficiencia e adequação dos recursos que serão captados de acordo com os projetos apresentados.
 * Observância do cronograma de uso do dinheiro e de seu pagamento.
 * Fiscalização pelo financiador.
