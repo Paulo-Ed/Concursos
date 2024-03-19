@@ -7,6 +7,11 @@
 * Tipos de letra de crédito:
   - Letra de crédito imobiliário;
   - Letra de crédito do agronegócio.
+* Instituições que podem emitir letras de crédito:
+  - Bancos comerciais;
+  - Bancos de investimento;
+  - Bancos múltiplos com carteira comercial ou de investimento;
+  - Sociedades de crédito (imobiliário, do agronegócio).
 
 > ### Letra de crédito imobiliário
 * É uma aplicação financeira com destinação a concessão de crédito imobiliário.
