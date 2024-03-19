@@ -20,7 +20,7 @@
 
 ## FINANCIAMENTO DE CAPITAL FIXO
 * É uma operação de crédito utilizada para se adquirir bens fixos para a empresa.
-* Em geral usado para comprar de máquinas e equipamentos, ou seja, investimentos no empreendimento.
+* Em geral é usado para comprar máquinas e equipamentos, ou seja, investimentos no empreendimento.
 
 #### Características
 * Os bens adquiridos podem ser usados como garantia para o pagamento do valor obtido, isso reduz as taxas de juros cobradas.
