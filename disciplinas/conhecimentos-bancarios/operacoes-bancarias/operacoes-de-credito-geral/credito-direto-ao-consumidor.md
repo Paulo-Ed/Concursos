@@ -2,7 +2,7 @@
 
 ## DEFINIÇÃO
 * É uma modalidade de financiamento para compra de bens duráveis por consumidores finais (compra para uso próprio).
-* Esse tipo de operação de crédito é realizado por empresas específicas de sociedade de crédito, financiamento e investimento, ou por bancos múltiplos que possuam a carteira de crédit, financiamento e investimento.
+* Esse tipo de operação de crédito é realizado por empresas específicas de sociedade de crédito, financiamento e investimento, ou por bancos múltiplos que possuam a carteira de crédito, financiamento e investimento.
 * Tipos de crédito direto ao consumidor:
   - Crédito direto ao consumidor tradicional;
   - Crédito direto ao consumidor com interveniência;
@@ -20,7 +20,7 @@
 * Esse tipo de operação de crédito, da ao cliente maior poder de conseguir descontos e benefícios ao comprar o bem, pois para a loja será uma compra a vista. Para o banco porém o risco é maior, por isso costuma ter taxas mais elevadas de juros.
 
 #### Características
-* O cliente obtem o empréstimo e é livre para escolher onde adquirir o bem ou serviço.
+* O cliente obtém o empréstimo e é livre para escolher onde adquirir o bem ou serviço.
 * Podem utilizar o CDC pessoas físicas e pessoas jurídicas, desde que sejam consumidores finais.
 * Nos contratos de CDC tradicional, o pagamento antecipado da parcela, garante diminuição do valor dos juros (deságio).
 
@@ -42,7 +42,7 @@
 * O objetivo é fidelizar o cliente, realizando todo processo de compra dentro da própria loja.
 
 #### Processo de funcionamento do CDC com interveniente
-1. A loja obtem empréstimo com o banco.
+1. A loja obtém empréstimo com o banco.
 2. O cliente vai na loja e escolhe o bem, a loja oferece financiamento do pagamento do bem em parceria com o banco. 
 3. O cliente obtém o financiamento e passa a pagar a loja.
 4. A loja paga ao banco o valor pego emprestado.
