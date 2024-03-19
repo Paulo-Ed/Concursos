@@ -39,9 +39,9 @@
 * A prestação máxima a ser cobrada é de 30 a 35% do salário (margem consignável).
 * Essa modalidade de empréstimo, possui risco pequeno, o que garante taxas de juros menores e maior prazo para o seu pagamento.
 * É possível realizar a portabilidade de crédito consignado e cartão consignado de uma instituição financeira para outra.
-* A consignação depende da existência de contrato enre a instituição financeira e a fonte pagadora, sendo necessário a autorização expressa do contratante.
+* A consignação depende da existência de contrato entre a instituição financeira e a fonte pagadora, sendo necessário a autorização expressa do contratante.
 
-> ### Empréstimo consignado covencional
+> ### Empréstimo consignado convencional
 * O valor do empréstimo é concedido ao cliente e as prestações são posteriormente descontadas do seu salário, benefício ou pensão.
 * Possui prazo e prestações determinadas no momento de contratação.
 
