@@ -17,7 +17,8 @@
 * Estimular os investimentos rurais efetuados pelos produtores ou por suas cooperativas.
 * Favorecer o oportuno e adequado custeio da produção e a comercialização de produtos agropecuários;
 * Fortalecer o setor rural.
-* Incentivar a introdução de métodos racionais no sistema de produção, visando ao aumento de produtividade, à melhoria do padrão de vida das populações rurais e à adequada utilização dos recursos naturais;Propiciar, pelo crédito fundiário, a aquisição e regularização de terras pelos pequenos produtores, posseiros e arrendatários e trabalhadores rurais.
+* Incentivar a introdução de métodos racionais no sistema de produção, visando ao aumento de produtividade, à melhoria do padrão de vida das populações rurais e à adequada utilização dos recursos naturais.
+* Propiciar, pelo crédito fundiário, a aquisição e regularização de terras pelos pequenos produtores, posseiros e arrendatários e trabalhadores rurais.
 * Desenvolver atividades florestais e pesqueiras.
 * Estimular a geração de renda e o melhor uso da mão de obra na agricultura familiar.
 
@@ -25,7 +26,7 @@
 * A oferta de crédito rural, se da a partir de dois grupos de recursos: **os recursos controlados** e os **recursos não controlados**.
 
 > ### Recursos controlados
-* São recursos que obrigatórios, ou seja, já tem destinação específica para o crédito rural.
+* São recursos obrigatórios, ou seja, já tem destinação específica para o crédito rural.
 * Os recursos oficiais tem determinados pelo CMN, a sua fonte de origem, porcentagem mínima destinada e o valor das taxas de juros cobradas.
 * Por exemplo 25% dos depósitos a vista são obrigatoriamente destinados a financiar o crédito rural. Se não for concedido é enviado ao depósito compulsório do BACEN sem remuneração.
 * Bancos que não atuam no crédito rural, podem vender sua carteira a bancos especializados nessas operações que precisem de mais recursos, recebendo em troca uma taxa de juros. O que compensa frente ao depósito compulsório não remunerado.
@@ -187,5 +188,5 @@ e vincula a venda ao empréstimo realizado.
 > ### Pronaf
 * É o programa nacional de fortalecimento da agricultura familiar. Atua estimulando a geração de renda e melhora do uso da mão de obra familiar, por meio de financiamento de atividades e serviços rurais agropecuários e não agropecuários realizados em área rural ou em áreas comunitárias próprias.
 * Os beneficiários são divididos em dois grupos: 
-  -  O **Grupo A** é formado por Agricultores familiares assentados pela Programa Nacional de Reforma Agrária (PNRA) ou beneficiários do Programa Nacional de Crédito Fundiário (PNCF) que não contrataram operação de investimento sob a égide do Programa de Crédito Especial para a Reforma Agrária (Procera) ou que ainda não contrataram o limite de operações ou de valor de crédito de investimento para estruturação no âmbito do Pronaf.
+  -  O **Grupo A** é formado por agricultores familiares assentados pela Programa Nacional de Reforma Agrária (PNRA) ou beneficiários do Programa Nacional de Crédito Fundiário (PNCF) que não contrataram operação de investimento sob a égide do Programa de Crédito Especial para a Reforma Agrária (Procera) ou que ainda não contrataram o limite de operações ou de valor de crédito de investimento para estruturação no âmbito do Pronaf.
   - O **Grupo B** é formado por beneficiários que possuam renda bruta familiar nos últimos 12 meses de produção normal, que antecedem a solicitação da DAP, não superior a vinte mil reais e que não contratem trabalho assalariado permanente.
