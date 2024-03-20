@@ -27,7 +27,7 @@
 * Atuar em função das demandas estabelecidas nos níveis municipal, estadual e federal pelos agricultores familiares e suas organizações.
 * Melhorar a qualidade de vida no segmento da agricultura familiar, mediante promoção do desenvolvimento rural de forma sustentada.
 * Fomentar o aprimoramento profissional do agricultor familiar, proporcionando-lhe novos padrões tecnológicos e gerenciais.
-* Proporcionar o aumento da capacidade produtiva, a geração de empregos e a melhoria de renda.
+* Proporcionar o aumento da capacidade produtiva, a geração de empregos e a melhoria de renda.  
 **Observação:** É proibido o uso do PRONAF para produção de fumo destinado a indústrias fumageiras, a não ser que o crédito seja para outras culturas que não o fumo visando a diversificação das atividades, como crédito a ser usado para o custeio ou investimento (vedado para estufas de secagem de fumo ou de uso misto).
 
 > ### Requisitos e beneficiários
@@ -43,11 +43,11 @@
   - E) Tenham o trabalho familiar como predominante na exploração do estabelecimento, utilizando mão de obra de terceiros de acordo com as exigências sazonais da atividade agropecuária, podendo manter empregados permanentes em número menor ou igual ao número de pessoas da família ocupadas com o empreendimento familiar; 
   - F) Tenham obtido renda bruta familiar, nos últimos 12 meses de produção normal que antecedem a solicitação da DAP ou do CAF-Pronaf, de até quinhentos mil reais, considerando nesse limite a soma de 100% do Valor Bruto de Produção (VBP), 100% do valor da receita recebida de entidade integradora e das demais rendas provenientes de atividades desenvolvidas no estabelecimento e fora dele, recebida por qualquer componente familiar, excluídos os benefícios sociais e os proventos previdenciários decorrentes de atividades rurais;
   - G) O disposto na alínea "c" não se aplica quando se tratar de condomínio rural ou outras formas coletivas de propriedade, desde que a fração ideal por proprietário não ultrapasse 4 módulos fiscais; 
-  - H) Caso a renda bruta anual proveniente de atividades desenvolvidas no estabelecimento seja superior mil reais, admite-se, exclusivamente para efeito do cômputo da renda bruta anual utilizada para o cálculo do percentual de que trata a alínea "d" deste item, a exclusão de até dez mil reais da renda anual proveniente de atividades desenvolvidas por membros da família fora do estabelecimento.   
+  - H) Caso a renda bruta anual proveniente de atividades desenvolvidas no estabelecimento seja superior a mil reais, admite-se, exclusivamente para efeito do cômputo da renda bruta anual utilizada para o cálculo do percentual de que trata a alínea "d" deste item, a exclusão de até dez mil reais da renda anual proveniente de atividades desenvolvidas por membros da família fora do estabelecimento.   
 **Observação:** Os limites são estabelecidos com base nas categorias de financiamento, como custeio, investimento e comercialização.
 * Outros beneficiários:
   - Pescadores artesanais que se dediquem à pesca artesanal, com fins comerciais, explorando a atividade como autônomos, com meios de produção próprios ou em regime de parceria com outros pescadores igualmente artesanais;
-  Aquicultores que se dediquem ao cultivo de organismos que tenham na água seu normal ou mais frequente meio de vida e que explorem área não superior a 2 hectares de lâmina d’água ou, quando a exploração se efetivar em tanque-rede, ocupem até quinhentos metros cúbicos de água;
+  - Aquicultores que se dediquem ao cultivo de organismos que tenham na água seu normal ou mais frequente meio de vida e que explorem área não superior a 2 hectares de lâmina d’água ou, quando a exploração se efetivar em tanque-rede, ocupem até quinhentos metros cúbicos de água;
   - Silvicultores que cultivem florestas nativas ou exóticas e que promovam o manejo sustentável daqueles ambientes;
   - Extrativistas que exerçam o extrativismo artesanalmente no meio rural, excluídos os garimpeiros e faiscadores;
   - Integrantes de comunidades quilombolas rurais;
