@@ -82,7 +82,7 @@
 
 ## OPERAÇÕES ACESSÓRIAS
 * As operações acessórias, são operações em que o bancos oferecem serviços. Existem serviços que são realizados de forma gratuita, enquanto outros são pagos (possuem tarifas). 
-* As operações acessórias tem sua remuneração feita a partir da **cobrança de tarifas**, diferentemente das operações principais em que a remuneração se dá partir dos juros pagos e recebidos. Essas operações portanto não envolvem a captação de recursos ou concessão de crédito.
+* As operações acessórias tem sua remuneração feita a partir da **cobrança de tarifas**, diferentemente das operações principais em que a remuneração se dá a partir dos juros pagos e recebidos. Essas operações portanto não envolvem a captação de recursos ou concessão de crédito.
 * Principais operações acessórias:
   - Transferência de valores (PIX, TED, DOC);
   - Cobrança e pagamento de títulos e carnês;
