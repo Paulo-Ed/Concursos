@@ -10,4 +10,8 @@
   - Paroxítona (tônica é a penúltima sílaba);
   - Proparoxítona (tônica é a antepenúltima sílaba);
 
+Ex: garrafa => paroxítona  
+Ex: monitor => oxitóna  
+Ex: exército => proparoxítona
+
 **Observação:** Não existe relação direta entre acentuação gráfica e sílaba tônica, a não ser no caso de palavras proparoxítonas em que todas são acentuadas.

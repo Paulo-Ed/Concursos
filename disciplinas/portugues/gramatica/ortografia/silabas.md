@@ -17,7 +17,7 @@
 * Na ocorrência de ditongos e tritongos forma-se uma única sílaba.
 * Na ocorrência de encontros consonantais perfeitos não ocorre a separação em diferentes sílabas.
 * Palavras com consoantes juntas (ch, lh, sc, nh) formam uma única sílaba.
-* Toda sílaba tem apenas uma vogal (embora no caso de ditongos e tritongos ela possui mais de uma, apenas uma é vogal e as demais são semivogais).
+* Toda sílaba tem apenas uma vogal (embora no caso de ditongos e tritongos ela possua mais de uma, apenas uma é vogal e as demais são semivogais).
 
 > ### Tipos de sílabas
 
