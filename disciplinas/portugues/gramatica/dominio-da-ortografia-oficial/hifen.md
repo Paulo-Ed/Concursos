@@ -57,3 +57,41 @@ Ex: Vice-presidente
 Ex: ex-namorado  
 
 > ### Regras de uso do hífen entre palavras
+
+#### Regra geral
+* Palavras compostas com sílaba tônica própria, significado próprio (diferente do das palavras que o formam) e ausência de preposição tem hífen.
+
+Ex: sexta-feira  
+Ex: mesa-redonda  
+Ex: beija-flor  
+
+#### Palavras sem noção de composição não possuem hífen
+* Palavras sem noção de composição não possuem hífen.
+
+Ex: girassol  
+Ex: pontapé  
+
+#### Palavras ligadas por preposição não possuem hífen
+* Palavras compostas que são ligadas por uma preposição não possuem hífen.
+
+Ex: fim de semana  
+Ex: dia a dia
+
+**Observação:** As palavras **água-de-colônia**, **cor-de-rosa**, **mais-que-perfeito**,**pé-de-meia**, **gota-d’água**, além de nomes de **espécies de plantas e de animais** são exceções que possuem hífen.
+
+#### Palavras mal e bem
+* Palavras compostas iniciadas com a palavra **mal** possuem hífen se a palavra que a sucede iniciar com vogal, **h** ou **l**.
+* Palavras compostas iniciadas com a palavra **bem** sempre recebem hífen.
+
+Ex: mal-estar  
+Ex: mal-humorado  
+Ex: bem-vindo  
+Ex: bem-aventurado  
+
+**Observação:** Existem palavras podem ter ou não o hífen como: **benfazer** ou **bem-fazer**, **benquerer** ou **bem-querer** e **bendizer** ou **bem-dizer**.
+
+#### Palavras não e quase
+* Palavras compostas iniciadas com as palavras **não** ou **quase** não possuem hífen.
+
+Ex: quase crime  
+Ex: não engajado
