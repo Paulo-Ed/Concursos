@@ -31,6 +31,14 @@
 * Podem ser elaborados com variados tipos textuais, porém sempre com um tipo predominante de acordo com a intenção do autor ao produzi-lo.
 * Um exemplo de gênero textual que mudou foi a carta, usada para se comunicar no dia a dia, papel hoje exercido por aplicativos de mensagem como o whatsapp.
 
+***DICA:*** Expressões usadas em questões que cobram tipos textuais: Eminentemente, Essencialmente, Predominantemente, Preponderantemente.
+
+***DICA:*** Existe uma relação de predominância em textos formados por vários tipos textuais.
+
+1. Dissertação
+2. Narração
+3. Descrição
+
 ## RELAÇÕES ENTRE TIPOS E GÊNEROS
 
 > ### Tipo narrativo
@@ -84,3 +92,32 @@
   - Por que ele pensa assim? (argumentos)
 
 > ### Tipo injutivo
+* É o tipo textual que tem como objetivo dar ordens, avisos, conselhos, instruções e indicações para a realização de um trabalho ou para utilização de instrumentos. Também visa fazer advertências, prescrever normas e procedimentos.
+* Classificações dos textos injuntivos:
+  - Prescritivo;
+  - Instrucional.
+
+#### Injuntivo prescritivo
+* São textos que indicam algo que deve ser feito, cumprindo-se à risca as instruções. Essas são inquestionáveis ou tem função coercitiva.
+* São textos estruturados em prosa com maior extensão.
+* Exemplos:
+  - Leis;
+  - Editais de concursos;
+  - Constituição federal;
+  - Prescrições gramaticais;
+  - Cláusulas de contratos;
+  - Regimentos;
+  - Estatutos.
+
+#### Injuntivo instrucional
+* São textos que objetivam informar, advertir, instruir o leitor a agir de algum modo, mas preservando a sua liberdade de atuação.
+* São estruturados em tópicos, aceitando modificações, como substituição de procedimento ou ingrediente por outro, em sua realização.
+* Exemplo:
+  - Receitas culinárias;
+  - Receitas médicas;
+  - Bulas de medicamento;
+  - Manuais de instrução;
+  - Campanhas comunitárias;
+  - Placas e demais sinalizações;
+  - Guias rodoviários.
+
