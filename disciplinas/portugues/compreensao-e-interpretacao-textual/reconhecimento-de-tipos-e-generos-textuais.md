@@ -24,20 +24,23 @@
   - Dissertativo expositivo;
   - Dissertativo argumentativo;
   - Injuntivo.
+* As formas mais comuns de se cobrar tipos textuais são: 
+  - Eminentemente;
+  - Essencialmente;
+  - Predominantemente;
+  - Preponderantemente.
+
+***DICA:*** Existe uma relação de predominância em textos formados por vários tipos textuais.
+
+1. Dissertação (Contendo os três tem maior predominância)
+2. Narração (Contendo dois tem maior predominância)
+3. Descrição (menor predominância)
 
 ## GÊNEROS TEXTUAIS
 * São as diferentes formas de comunicação, utilizadas para expressar conhecimento e as ideias de cada indivíduo nos mais variados contextos.
 * Os gêneros textuais não apresentam estrutura, pois se modificam com o passar do tempo e a partir das mudanças na sociedade.
 * Podem ser elaborados com variados tipos textuais, porém sempre com um tipo predominante de acordo com a intenção do autor ao produzi-lo.
 * Um exemplo de gênero textual que mudou foi a carta, usada para se comunicar no dia a dia, papel hoje exercido por aplicativos de mensagem como o whatsapp.
-
-***DICA:*** Expressões usadas em questões que cobram tipos textuais: Eminentemente, Essencialmente, Predominantemente, Preponderantemente.
-
-***DICA:*** Existe uma relação de predominância em textos formados por vários tipos textuais.
-
-1. Dissertação
-2. Narração
-3. Descrição
 
 ## RELAÇÕES ENTRE TIPOS E GÊNEROS
 
@@ -99,7 +102,7 @@
 
 #### Injuntivo prescritivo
 * São textos que indicam algo que deve ser feito, cumprindo-se à risca as instruções. Essas são inquestionáveis ou tem função coercitiva.
-* São textos estruturados em prosa com maior extensão.
+* São textos estruturados em prosa e com maior extensão.
 * Exemplos:
   - Leis;
   - Editais de concursos;
@@ -110,7 +113,7 @@
   - Estatutos.
 
 #### Injuntivo instrucional
-* São textos que objetivam informar, advertir, instruir o leitor a agir de algum modo, mas preservando a sua liberdade de atuação.
+* São textos que objetivam informar, advertir, instruir o interlocutor a agir de algum modo, mas preservando a sua liberdade de atuação.
 * São estruturados em tópicos, aceitando modificações, como substituição de procedimento ou ingrediente por outro, em sua realização.
 * Exemplo:
   - Receitas culinárias;
