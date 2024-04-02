@@ -66,9 +66,9 @@ Ex: feiura => fei-u-ra
 Ex: Piauí => Pi-au-í  
 
 #### Acento diferencial
-* É o acento usado em alavras que são exatamente iguais, porém tem significados diferentes. O acento é utilizado para criar uma diferenciação na pronúncia e diferenciar o que a palavra quer dizer.
-* Algumas palavras perderam o acento, pois pertencem a classes gramaticais diferentes (o que já possibilita idenficar seu significado), as que continuam a ter o acento são as que pertencem a mesma classes de palavras, sendo o acento a única diferença entre elas.
-* O uso do acento pode ser dar para sobrepor a regra geral, indicar o tempo verbval, ou para diferenciar singular e plural em palavras já acentuadas.
+* É o acento usado em palavras que são exatamente iguais, porém tem significados diferentes. O acento é utilizado para criar uma diferenciação na pronúncia e diferenciar o que a palavra quer dizer.
+* Algumas palavras perderam o acento, pois pertencem a classes gramaticais diferentes (o que já possibilita idenficar seu significado), as que continuam a ter o acento são as que pertencem a mesma classe de palavras, sendo o acento a única diferença entre elas.
+* O uso do acento pode ser dar para sobrepor a regra geral, indicar o tempo verbal, ou para diferenciar singular e plural em palavras já acentuadas.
 
 | ACENTO RETIRADO | ACENTO MANTIDO      |
 | --------------- | ------------------- |
