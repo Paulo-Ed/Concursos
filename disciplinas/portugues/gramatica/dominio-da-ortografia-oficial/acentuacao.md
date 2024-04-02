@@ -12,7 +12,7 @@
 
 **Observação:** O **~** não é acento e sim uma marca léxica que indica nasalização (o som sai pelo nariz).
 
-> ### Regra geral de acentuação
+> ### Regras gerais de acentuação
 
 #### Todas as proparoxítonas
 * Toda palavra proparoxítona é acentuada.
@@ -39,7 +39,7 @@ Ex: mesário => me-sá-rio ou me-sá-ri-o
 > ### Regras especiais de acentuação
 
 #### Monossílabos tônicos terminados em -a(s), -e(s) e -o(s)
-* Recebem acento as palvras formadas por uma única sílaba, que possuem sílaba tônica e terminam em **-a(s)**, **-e(s)** e **-o(s)**.
+* Recebem acento as palavras formadas por uma única sílaba, que possuem sílaba tônica e terminam em **-a(s)**, **-e(s)** e **-o(s)**.
 
 Ex: chá  
 Ex: fé  
