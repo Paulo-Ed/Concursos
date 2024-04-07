@@ -10,7 +10,7 @@
   - **^** = circunflexo (marca sons fechados);
   - **`** = acento grave (indica crase).
 
-**Observação:** O **~** não é acento e sim uma marca léxica que indica nasalização (o som sai pelo nariz).
+**Observação:** O **~** (til) não é acento e sim uma marca léxica que indica nasalização (o som sai pelo nariz).
 
 > ### Regras gerais de acentuação
 
@@ -32,7 +32,7 @@ Ex: cafés
 Ex: caráter  
 Ex: táxi  
 
-**Observação:** Paroxítonas terminadas em ditongo podem ser separadas alternativamente com o ditongo sendo separado, o que a transformaria em proparoxítona, nesse caso especial a palavra é definida como eventual proparoxítona e possuirá duas regras de acentuação, a da oxitóna e a da proparoxítona. O importante é que se for o caso a questão explicitará a possibilidade de duas regras de acentuação.
+**Observação:** Paroxítonas terminadas em ditongo podem ser separadas alternativamente com o ditongo sendo separado, o que a transformaria em proparoxítona, nesse caso especial a palavra é definida como eventual proparoxítona e possuirá duas regras de acentuação, a da oxítona e a da proparoxítona. O importante é que se for o caso a questão explicitará a possibilidade de duas regras de acentuação.
 
 Ex: mesário => me-sá-rio ou me-sá-ri-o
 
