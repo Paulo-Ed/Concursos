@@ -13,7 +13,7 @@
 > ### Regras de uso do hífen com prefixo
 
 #### Prefixo sucedido por palavra iniciada com h
-* Em palavras com hífen em que a palavra inicia com a letra **h** sempre se usa o hífen.
+* Prefixos sucedidos por palavra que inicia com a letra **h** sempre se usa o hífen.
 
 Ex: super-homem  
 Ex: anti-histamínico  
@@ -32,14 +32,14 @@ Ex: anti-inflamatório
 Ex: coordenação  
 Ex: cooperação  
 
-**Observação:** Se a palavra iniciar com consoante as palavras são unidas. Se começar com **r** ou ***s** deve-se dobrar a consoante ao uni-las.
+**Observação:** Se a palavra iniciar com consoante as palavras são unidas. Se começar com **r** ou **s** deve-se dobrar a consoante ao uni-las.
 
 Ex: minissaia  
 Ex: autoescola
 
 #### Prefixo terminado em consoante
 * Se a palavra comerçar com consoante igual, usa-se o hífen.
-* Se a palavra começar com consoante diferente, com execeção da letre **r** em que se usa o hífen, as palavras são unidas.
+* Se a palavra começar com consoante diferente, com exceção da letra **r** em que se usa o hífen, as palavras são unidas.
 * Se a palavra começar com vogal, as palavras são unidas.
 
 Ex: inter-regional  
