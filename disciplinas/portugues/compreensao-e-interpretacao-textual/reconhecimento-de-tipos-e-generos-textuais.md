@@ -133,7 +133,10 @@
   - Fala;
   - Desenhos (placas de trânsito);
   - Gestos (libras). 
-* Os principais formas de texto em concursos são: prosa, versos e verbo-visuais.
+* As principais formas de texto em concursos são: 
+  - Prosa;
+  - Versos;
+  - Verbo-visuais.
 
 #### Textos em prosa
 * São textos que reproduzem a maneira natural de falar, sem métrica ou rima.
@@ -142,7 +145,7 @@
 #### Textos em versos
 * Texto formado por estrofes centralizado na folha. Os principais textos em verso são poemas e letras de música.
 
-**Observação:** Poema é o texto escrito em versos, que tem como objetivo refletir o momento o impacto dos fatos e a criação de imagens que traduzem esses impacto. Já a poesia é uma abordagem mais lírica sobre um assunto, com linguagem mais conotativa e pode aparecer tanto em poemas quanto e textos em prosa.
+**Observação:** Poema é o texto escrito em versos, que tem como objetivo refletir no momento o impacto dos fatos e a criação de imagens que traduzem esse impacto. Já a poesia é uma abordagem mais lírica sobre um assunto, com linguagem mais conotativa e pode aparecer tanto em poemas quanto em textos em prosa.
 
 #### Textos verbo-visuais
 * São textos que se definem pela associação de códigos verbais e códigos não verbais, com o objetivo de chamar a atenção para determinado assunto.
@@ -153,6 +156,6 @@
 * Exemplos:
   - Charges (usadas para realizar crítica);
   - Cartuns (fazer rir);
-  - Tirinhas de quadrinhos;
+  - Tirinhas de quadrinhos (contar histórias);
   - Infográficos (fornecer informações);
   - Fôlderes (realizar anúncios).
