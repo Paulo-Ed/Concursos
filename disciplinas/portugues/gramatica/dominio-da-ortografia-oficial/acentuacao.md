@@ -46,8 +46,8 @@ Ex: fé
 Ex: só  
 Ex: pá
 
-#### Ditongos abertos -eu, -ei e -oi em posição oxítona
-* Palavras oxítonas que terminam em  ditongo aberto **-eu**, **-ei** e **-oi** recebem acento.
+#### Oxítonas terminadas em ditongo aberto -ei, -eu e -oi 
+* Palavras oxítonas que terminam em  ditongo aberto **-ei**, **-eu** e **-oi** recebem acento.
 
 Ex: chapéu => cha-péu  
 Ex: corrói => cor-rói
@@ -86,7 +86,7 @@ Ex: voo
 Ex: veem  
 Ex: enjoo
 
-#### Hiatos com segunda vogal -i e -u seguidos de -m, -n, -nh, -r e -z
+#### Hiatos com segunda vogal -i e -u seguidos de -m, -n, -nh, -r e -z não são acentuadas
 * Não são acentuados hiatos com segunda vogal **-i** e **-u** em que o hiato forma uma sílaba em que é seguido por **-m**, **-n**, **-nh**, **-r** e **-z**.
 
 Ex: juiz => ju-iz  
