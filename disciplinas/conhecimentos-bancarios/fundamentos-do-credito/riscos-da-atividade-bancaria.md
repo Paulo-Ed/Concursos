@@ -4,7 +4,7 @@
 
 ## RISCO DE CRÉDITO
 * É o risco que o banco tem de não receber o valor que foi emprestado (capital + juros).
-* A análise do risco de crédito, avalia o potencial de retorno do valor emprestado e também a possibilide de perdas e prejuízos no caso do não pagamento do empréstimo.
+* A análise do risco de crédito, avalia o potencial de retorno do valor emprestado e também a possibilidade de perdas e prejuízos no caso do não pagamento do empréstimo.
 * Derivam do risco de crédito, o risco de inadimplência e o risco de ruína das garantias oferecidas.
 * Variáveis relacionadas ao risco de crédito nas operações bancárias:
   - Volume (quanto maior, maior o risco);
@@ -16,7 +16,7 @@
 
 #### Risco de inadimplência
 * É a incapacidade financeira do tomador do empréstimo de pagar o empréstimo. Após 90 dias de atraso o banco considera que não vai mais receber.
-* Para cobrir a dívida o banco cobre o valor retirando (a partir dos seus lucros) de uma reserva específica para casos de não pagamento, o que diminui seu lucro.
+* Para solver a dívida o banco cobre o valor retirando (a partir dos seus lucros) de uma reserva específica para casos de não pagamento, o que diminui seu lucro.
 
 #### Risco de degradação de garantias
 * É quando uma garantia ofertada no contrato do empréstimo, tem seu valor reduzido ou mesmo perdido, o que aumenta o risco de o tomador não poder pagar a dívida em caso de inadimplência.
@@ -29,11 +29,11 @@
   - Variação do preço de ações;
   - Variação cambial;
   - Variação no preço de commodities.
-* Os riscos de mercados são o princial tipo de risco ao qual o BACEN atua para mitigar.
+* Os riscos de mercado são o principal tipo de risco ao qual o BACEN atua para mitigar.
 
 ## RISCO DE LIQUIDEZ
 * É o risco ligado a capacidade da instituição não conseguir pagar as suas dívidas. 
-* Esse risco decorre não conseguir cumprir obrigações esperadas e inesperadas, correntes e futuras sem que afete no funcionamento das operações diárias. Também podem ser decorrente da não capacidade de vender títulos de sua carteira o que a impossibilita de gerar receitas.
+* Esse risco decorre da instituição financeira não conseguir cumprir obrigações esperadas e inesperadas, correntes e futuras sem que isso afete o funcionamento das operações diárias. Também podem ser decorrente da não capacidade da venda de títulos da carteira, o que a impossibilita a geração de receitas.
 
 ## RISCO OPERACIONAL
 * É o risco que envolve um erro ou falha na instituição. São erros relacionados as atividades operacionais.
@@ -49,12 +49,12 @@
   - Falhas em prazos.
 
 ## RISCO SISTÊMICO
-* São riscos não diversificáveis, ou seja, são riscos que envolvem todos os mercados e não é possível reduzi-lo variando a aplicação dos recursos da instituição em áreas difetentes, pois todas estão sendo impactadas.
+* São riscos não diversificáveis, ou seja, são riscos que envolvem todos os mercados e não é possível reduzi-lo variando a aplicação dos recursos da instituição em áreas diferentes, pois todas estão sendo impactadas.
 * São riscos sistêmicos:
   - Guerras;
   - Crises econômicas;
   - Desastres e enventos inesperados.
 
 ## RISCO NÃO SISTÊMICO
-* São riscos que envolvem o preço de ativos de determinada empresa ou setor da economia. São riscos diversificáveis, ou seja, podem ser reduzidos, diversificando a aplicação de recursos em várias áreas diferentes do mercado.
+* São riscos que envolvem o preço de ativos de determinada empresa ou setor da economia. São riscos diversificáveis, ou seja, podem ser reduzidos, diversificando a aplicação de recursos em várias áreas diferentes no mercado.
 * Os riscos de crédito, mercado, operacional e de liquidez são riscos específicos e portanto não sistêmicos (diversificáveis).
