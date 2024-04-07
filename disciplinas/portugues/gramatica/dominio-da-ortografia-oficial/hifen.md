@@ -12,7 +12,7 @@
 
 > ### Regras de uso do hífen com prefixo
 
-#### Prefixo sucedido por palavra iniciada com h
+#### Prefixo sucedido por palavra iniciada com h possuem hífen
 * Prefixos sucedidos por palavra que inicia com a letra **h** sempre se usa o hífen.
 
 Ex: super-homem  
@@ -20,7 +20,7 @@ Ex: anti-histamínico
 
 **Observação:** A palavra **sub-humano** é uma exceção, pois também admite a forma **subumano**.
 
-#### Prefixo terminado em vogal e sucedido por palavra iniciada com a mesma em vogal
+#### Prefixo terminado em vogal e sucedido por palavra iniciada com a mesma em vogal possuem hífen
 * Prefixos que terminem em vogal e são sucedidos por uma palavra que inicie com a mesma vogal recebem hífen. 
 * Se a vogal for diferente a palavra é unida e não tem hífen.
 
@@ -77,20 +77,20 @@ Ex: pontapé
 Ex: fim de semana  
 Ex: dia a dia
 
-**Observação:** As palavras **água-de-colônia**, **cor-de-rosa**, **mais-que-perfeito**,**pé-de-meia**, **gota-d’água**, além de nomes de **espécies de plantas e de animais** são exceções que possuem hífen.
+**Observação:** As palavras **água-de-colônia**, **cor-de-rosa**, **mais-que-perfeito**, **pé-de-meia**, **gota-d’água**, além de nomes de **espécies de plantas e de animais** são exceções que possuem hífen.
 
-#### Palavras mal e bem
-* Palavras compostas iniciadas com a palavra **mal** possuem hífen se a palavra que a sucede iniciar com vogal, **h** ou **l**.
+#### Palavras compostas em que a primeira palavra é bem ou mal
 * Palavras compostas iniciadas com a palavra **bem** sempre recebem hífen.
+* Palavras compostas iniciadas com a palavra **mal** possuem hífen se a palavra que a sucede iniciar com vogal, **h** ou **l**.
 
-Ex: mal-estar  
-Ex: mal-humorado  
 Ex: bem-vindo  
 Ex: bem-aventurado  
+Ex: mal-estar  
+Ex: mal-humorado 
 
-**Observação:** Existem palavras podem ter ou não o hífen como: **benfazer** ou **bem-fazer**, **benquerer** ou **bem-querer** e **bendizer** ou **bem-dizer**.
+**Observação:** Existem palavras que podem ter ou não o hífen como: **benfazer** ou **bem-fazer**, **benquerer** ou **bem-querer** e **bendizer** ou **bem-dizer**.
 
-#### Palavras não e quase
+#### Palavras compostas em que a primeira palavra é não ou quase não possuem hífen
 * Palavras compostas iniciadas com as palavras **não** ou **quase** não possuem hífen.
 
 Ex: quase crime  
