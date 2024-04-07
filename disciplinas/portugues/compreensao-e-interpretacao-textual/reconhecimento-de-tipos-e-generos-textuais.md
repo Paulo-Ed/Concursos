@@ -32,8 +32,8 @@
 
 ***DICA:*** Existe uma relação de predominância em textos formados por vários tipos textuais.
 
-1. Dissertação (Contendo os três tem maior predominância)
-2. Narração (Contendo dois tem maior predominância)
+1. Dissertação > narração > descrição (Contendo os três tem maior predominância)
+2. Narração > descrição (Contendo os dois tem maior predominância)
 3. Descrição (menor predominância)
 
 ## GÊNEROS TEXTUAIS
