@@ -12,8 +12,8 @@
   - Jornalístico;
   - Literário;
   - Publicitário.
-* Em provas os discursos mais comuns são do universo jornalístico e literário, também os publicitários e jurídicos, sendo menos comum os didáticos e científicos.
-* No universo jornalístico são comuns textos narrativos e dissertativos. Já no universo literário os mais frequentes são narrativos, com a possibilide de fragmentos descritivos. 
+* Em provas os discursos mais comuns são do universo jornalístico e literário, também são comuns os textos publicitários e jurídicos, sendo menos comum os didáticos e científicos.
+* No universo jornalístico são comuns textos narrativos e dissertativos. Já no universo literário os mais frequentes são narrativos, com a possibilidade de fragmentos descritivos. 
 * No universo acadêmico são mais frequentes os textos dissertativos expositivos.
 
 #### Discurso jornalístico
