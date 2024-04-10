@@ -4,7 +4,7 @@
 
 ## DEFINIÇÃO
 * É uma operação de crédito contratada (pré-aprovada) e vinculada a uma conta de depósito a vista. 
-* Seu nome técnico é crédito rotativo, pois o valor vai diminuindo conforme usado e reestabelecido após ser pago. Além disso seu uso é livre em qualquer tipo de operação. O nome cheque especial foi definido como uma forma de associar a antiga modalidade de cheque (título de crédito) que os bancos ofertavam para complementar os valores depositados em conta, aumentando o saldo disponível para pagamento via cheque.
+* Seu nome técnico é crédito rotativo, pois o valor vai diminuindo conforme usado e é reestabelecido após ser pago. Além disso seu uso é livre em qualquer tipo de operação. O nome cheque especial foi definido como uma forma de associar a antiga modalidade de cheque (título de crédito) que os bancos ofertavam para complementar os valores depositados em conta, aumentando o saldo disponível para pagamento via cheque.
 * O objetivo de uso do cheque especial é disponibilizar crédito rápido para o cliente cobrir gastos das mais diversas formas.
 
 #### Características
