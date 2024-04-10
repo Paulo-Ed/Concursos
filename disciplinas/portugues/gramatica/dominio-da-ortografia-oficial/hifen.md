@@ -12,7 +12,7 @@
 
 > ### Regras de uso do hífen com prefixo
 
-#### Prefixo sucedido por palavra iniciada com h possuem hífen
+#### Prefixo sucedido por palavra iniciada com h possue hífen
 * Prefixos sucedidos por palavra que inicia com a letra **h** sempre se usa o hífen.
 
 Ex: super-homem  
@@ -20,7 +20,7 @@ Ex: anti-histamínico
 
 **Observação:** A palavra **sub-humano** é uma exceção, pois também admite a forma **subumano**.
 
-#### Prefixo terminado em vogal e sucedido por palavra iniciada com a mesma em vogal possuem hífen
+#### Prefixo terminado em vogal e sucedido por palavra iniciada com a mesma vogal possue hífen
 * Prefixos que terminem em vogal e são sucedidos por uma palavra que inicie com a mesma vogal recebem hífen. 
 * Se a vogal for diferente a palavra é unida e não tem hífen.
 
