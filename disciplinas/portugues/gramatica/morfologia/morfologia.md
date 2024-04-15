@@ -99,9 +99,6 @@
 |                |                        |                  |                | Cada                  |
 |                |                        |                  |                | Algo                  |
 
-
-
-
 #### Preposições
 
 | PREPOSIÇÕES                        |
