@@ -52,3 +52,27 @@
 | Preposição  | Locução prepositiva |
 | Conjunção   | Locução conjuntiva  |
 | Interjeição | Locução interjetiva |
+
+> ### Tabela de classes gramaticais fechadas
+
+#### Artigos
+
+| DEFINIDOS | INDEFINIDOS |
+| --------- | ----------- |         
+| O(s)      | Um          |                                
+| A(s)      | Uma         |                    
+|           | Uns         | 
+|           | Umas        |
+
+#### Pronomes
+
+#### Preposições
+
+| PREPOSIÇÕES                        |
+| ---------------------------------- |     
+| A, ante, após, até                 |
+| Com, contra, de, desde             |
+| Em, entre, para, per, perante, por |
+| Sem, sob, sobre, trás              |
+
+#### Conjunções
