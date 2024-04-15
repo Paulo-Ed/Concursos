@@ -21,7 +21,7 @@ Ex: O carro velho.
 ***DICA:*** O que determina a classe de uma palavra é o seu contexto, pois por exemplo, uma mesma palavra pode ser um pronome ou conjunção e também pode ser um substantivo.
 
 > ### Artigo
-* O artigo tem a função de determinar o substantivo.
+* O artigo tem a função de determinar o substantivo. Ele sempre vem antes do substantivo, nunca aparecendo após o substantivo.
 
 Ex: Os outros acordos.
 
