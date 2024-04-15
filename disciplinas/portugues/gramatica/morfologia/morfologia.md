@@ -17,7 +17,7 @@
   - Interjeição.
 * As classes gramaticais são classificadas em grupos a partir de suas relações.
 * Existem classes de palavras em que novas palavras podem ser incorporadas com o tempo, essas são chamadas de classes gramaticais abertas. As classes que possuem um conjunto fechado de palavras, ou seja, não permitem novas palavras são chamadas de classes gramaticais fechadas.
-* Também existem classes de palavras que podem ser combinadas para formar novas palavras, essas são chamadas de locuções.
+* Também existem classes de palavras em que se pode combinar duas ou mais palavras para formar uma nova palavra, essas são chamadas de locuções.
 
 > ### Classificação das classes gramaticais
 
