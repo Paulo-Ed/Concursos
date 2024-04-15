@@ -12,8 +12,8 @@
 
 Ex: O carro velho.
 
-1. o = artigo
-2. carro = substantivo
+1. carro = substantivo
+2. o = artigo
 3. velho = adjetivo
 
 **Observação:** O grau (aumentativo e diminutivo) não faz parte da estruturação do grupo dos nomes.
@@ -25,9 +25,9 @@ Ex: O carro velho.
 
 Ex: Os outros acordos.
 
-1. os = artigo
-2. outros = pronome indefinido adjetivo
-3. acordos = substantivo
+1. acordos = substantivo
+2. os = artigo
+3. outros = pronome indefinido adjetivo
 
 > ### Adjetivo
 * O adjetivo tem função de caracterizar o substantivo.
@@ -39,9 +39,9 @@ Ex: Os outros acordos.
 
 Ex: Os nefastos perigos radioativos.
 
-1. os = artigo
-2. nefastos = adjetivo
-3. perigos = substantivo
+1. perigos = substantivo
+2. os = artigo
+3. nefastos = adjetivo
 4. radioativos = adjetivo
 
 > ### Numeral
@@ -50,15 +50,15 @@ Ex: Os nefastos perigos radioativos.
 
 Ex: Dois rapazes saíram.
 
-1. Dois = numeral adjetivo
+1. saíram = verbo
 2. rapazes = substantivo
-3. saíram = verbo
+3. dois = numeral adjetivo
 
 Ex: O três saiu.
 
-1. o = artigo
+1. saiu = verbo
 2. três = numeral substantivo
-3. saiu = verbo
+3. o = artigo
 
 > ### Pronome
 * O pronome tem função de acompanhar ou substituir o substantivo.
@@ -67,6 +67,6 @@ Ex: O três saiu.
 
 Ex: As minhas fotos.
 
-1. as = artigo
-2. minhas = pronome possessivo adjetivo
-3. fotos = substantivo
+1. fotos = substantivo
+2. as = artigo
+3. minhas = pronome possessivo adjetivo
