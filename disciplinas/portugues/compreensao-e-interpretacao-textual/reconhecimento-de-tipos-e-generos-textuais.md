@@ -140,7 +140,8 @@
 
 #### Textos em prosa
 * São textos que reproduzem a maneira natural de falar, sem métrica ou rima.
-* É escrito em linhas que formam parágrafos.
+* É escrito em linhas que formam parágrafos. Esses são a unidade do texto em prosa.
+* Os parágrafos são formados por períodos. Período é o espaço dentro do parágrafo que começa com uma letra maiúscula e termina na pontuação.
 
 #### Textos em versos
 * Texto formado por estrofes centralizado na folha. Os principais textos em verso são poemas e letras de música.
