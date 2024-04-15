@@ -24,7 +24,6 @@ Ex: O rapaz correu.
 2. rapaz = substantivo
 3. o = artigo
 
-
 > ### Advérbio
 * O advérbio é uma classe de palavras utilizada para indicar circunstâncias. O advérbio apresenta uma circunstância que é aplicada ao verbo, ou seja se refere ao verbo.
 * Advérbios também podem oferecer informações sobre adjetivos e outros advérbios.
