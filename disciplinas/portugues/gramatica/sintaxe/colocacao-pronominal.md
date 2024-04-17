@@ -3,7 +3,7 @@
 <br>
 
 ## DEFINIÇÃO
-* A colocação pronominal são um conjunto de regras que determinam a posição adequada dos pronome oblíquo átono em relação ao verbo. O Pronome pode estar inserido antes do verbo (próclise), no meio do verbo (mesóclise) o cortando ou após o verbo (ênclise) sendo ligado a ele por hífen.
+* A colocação pronominal são um conjunto de regras que determinam a posição adequada do pronome oblíquo átono em relação ao verbo. O Pronome pode estar inserido antes do verbo (próclise), no meio do verbo (mesóclise) o cortando ou após o verbo (ênclise) sendo ligado a ele por hífen.
 
 > ### Próclise
 * A próclise é a ocorrência do pronome oblíquo antes do verbo. Em geral a justificativa é porque alguma palavra antes do verbo atrai o pronome para perto dela, a condicionando a ficar antes do verbo (palavras atrativas).
