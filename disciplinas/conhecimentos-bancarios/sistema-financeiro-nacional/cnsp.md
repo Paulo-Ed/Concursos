@@ -14,4 +14,4 @@
   - 1 representante do Ministério da Previdência Social;
   - 1 representante do Banco Central do Brasil;
   - 1 representante da Comissão de Valores Mobiliários.
-* Na ausência do Presidente do Conselho, o Superintendente da SUSEP atua como presidente. Já em relação demais membros, são substítuidos por seus respectivos suplentes.
+* Na ausência do Presidente do Conselho, o Superintendente da SUSEP atua como presidente. Já em relação aos demais membros, são substítuidos por seus respectivos suplentes.
