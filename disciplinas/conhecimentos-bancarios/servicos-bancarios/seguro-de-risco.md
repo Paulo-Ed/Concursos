@@ -34,7 +34,7 @@ segurado e graças ao pagamento antecipado de uma quantia (prêmio), receber uma
   - Seguro de garantia estendida.
 * Para arcar com os riscos, as seguradoras constituem um fundo de reserva técnica que garanta o pagamento de sinistros. Por isso, as seguradoras são grandes investidores institucionais do mercado financeiro, visto que aplicam os recursos dos fundos. As aplicações das seguradoras estão sujeitas as normas do CMN sobre a aplicação dos recursos de suas reservas técnicas.
 
-> ### Termos importantes no mercado de seguros: 
+> ### Termos importantes no mercado de seguros
 
 #### Apólice de seguro
 * É o contrato de seguro, de natureza bilateral, que gera direitos e obrigações de ambas as partes. A apólice de seguros define qual o bem coberto pelo seguro, a importância segurada, a localização do bem segurado (se for o caso) e o período de vigência do seguro.
@@ -65,3 +65,21 @@ e demais encargos.
 * A franquia não é cobrada em casos de perda total e/ou danos a terceiros, assim como na utilização de guincho, carro reserva e demais produtos assistenciais oferecidos pelas seguradoras. 
 * A franquia é a parte do dano que não é coberto pela seguradora.
 * É um processo típico dos contratos de seguros de veículos.
+
+#### Seguro
+* Seguro é todo contrato pelo qual uma das partes (o segurador) se obriga a indenizar a outra parte (o segurado) na ocorrência de determinado sinistro, em troca do recebimento antecipado de uma quantia chamada prêmio.
+
+#### Cosseguro
+* O cosseguro é uma operação de seguro em que duas ou mais sociedades seguradoras, com a anuência (aceitação) do segurado, distribuem, entre si, percentualmente, os riscos de determinada apólice.
+* No cosseguro, há uma divisão ou redistribuição de riscos. Não há solidariedade entre uma e outra (cada uma só cobre a sua parte).
+* No cosseguro, há uma pessoa que procura uma seguradora A e uma seguradora B (duas seguradoras colegas e distintas) e nelas acontece a operação chamada de cosseguro. É um tipo de seguro.
+
+#### Resseguro
+* É a operação de transferência dos riscos de uma seguradora para um ressegurador, ou seja, é o seguro das seguradoras. 
+* A seguradora transfere parte ou a totalidade do risco para uma resseguradora (instituição especialista em seguros para seguradoras) por meio do pagamento antecipado de uma quantia. 
+* A contratação de um resseguro não necessita da anuência do segurado. Porém, na ocasião da seguradora não arcar com a indenização, a resseguradora fica responsável por cobrir totalmente o risco.
+* O resseguro é uma transferência de risco para proteger a seguradora de eventual insuficiência financeira. No resseguro, a seguradora transfere parte do seu risco para uma resseguradora, realizando um seguro para si mesma, por receio de não dar conta de arcar com os riscos envolvendo as apólices de seguros (é um tipo específico de seguro das seguradoras).
+* No resseguro existe a solidariedade entre seguradora e resseguradora, ao contrário do cosseguro. 
+
+#### Retrocessão
+* É a operação de transferência dos riscos de uma resseguradora para seguradores ou resseguradores. É a situação na qual a resseguradora também faz um seguro para o resseguro.
