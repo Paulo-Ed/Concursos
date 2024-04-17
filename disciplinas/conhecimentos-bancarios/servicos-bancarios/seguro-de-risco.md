@@ -58,7 +58,7 @@ e demais encargos.
 * É a ocorrência do risco coberto, durante o período de vigência do plano de seguro.
 
 #### Indenização
-É o valor a ser pago pela sociedade seguradora na ocorrência do evento coberto, limitado ao valor do capital segurado da cobertura contratada. 
+* É o valor a ser pago pela sociedade seguradora na ocorrência do evento coberto, limitado ao valor do capital segurado da cobertura contratada. 
 
 #### Franquia
 * É o valor em dinheiro que o segurado é responsável em casos de sinistro com indenização parcial. Esse valor é a parcela da apólice que o segurado deve arcar em caso de sinistro parcial. 
@@ -83,3 +83,75 @@ e demais encargos.
 
 #### Retrocessão
 * É a operação de transferência dos riscos de uma resseguradora para seguradores ou resseguradores. É a situação na qual a resseguradora também faz um seguro para o resseguro.
+
+## TIPOS DE SEGUROS DE RISCO
+* Existem seguros de risco nas modalidades de: seguro de danos, seguro de pessoas além de seguros específicos.
+
+> ### Seguro de danos
+
+#### DPVAT
+* É o seguro obrigatório de danos pessoais causados por veículos automotores de vias terrestres (DPVAT), ou por sua carga, a pessoas transportadas ou não (pedestres). É um seguro obrigatório para os proprietários de veículos motores terrestres. 
+* Seu objetivo é amparar todas as vítimas de acidentes de trânsito em todo o território nacional, independentemente de culpa pelo acidente, até mesmo a pessoa causadora do acidente é 
+amparada. 
+* O DPVAT tem cobertura em acidentes de trânsito, causados por veículos ou por suas cargas, que ocasionem:
+  - Morte;
+  - Invalidez permanente; 
+  - Despesas de Assistência Médica e Suplementares.
+* O DPVAT tem uma cobertura ampla. 
+
+#### DPEM 
+* O DPEM (Danos Pessoais causados por Embarcações) tem por finalidade dar cobertura aos danos pessoais causados por embarcações ou por suas cargas às pessoas embarcadas, transportadas ou não transportadas, inclusive os proprietários, tripulantes e condutores das embarcações, independentemente de a embarcação estar ou não em operação. 
+* Este é um seguro obrigatório para todos os proprietários, ou armadores, de embarcações. Um caso comum e coberto pelo DPEM é o escalpelamento, quando um acidente com uma embarcação causa a perda de couro cabeludo de uma pessoa.
+ 
+#### Seguro de responsabilidade civil
+* Neste seguro, a Sociedade Seguradora garante ao segurado, quando ele for responsabilizado por danos causados a terceiros, o reembolso das indenizações que ele seja obrigado a pagar, a título de reparação, por sentença judicial transitada em julgado ou por acordo com os terceiros prejudicados, com a anuência da seguradora. 
+
+#### Seguro rural
+* O seguro rural é um dos mais importantes instrumentos de política agrícola pois permite ao produtor proteger-se contra perdas, em especial as decorrentes de fenômenos climáticos adversos. Esse seguro não cobre apenas a atividade agrícola, mas também a atividade pecuária, o patrimônio do produtor rural, seus produtos, o crédito para comercialização desses produtos, além do seguro de vida dos produtores. 
+* O objetivo maior desse tipo de seguro é oferecer coberturas que, ao mesmo tempo, atendam ao produtor e à sua produção, à sua família, à geração de garantias a seus financiadores, investidores, parceiros de negócios, todos interessados na maior diluição possível dos riscos, pela combinação dos diversos ramos de seguro. 
+* Para obter o crédito rural é necessário contratar uma garantia e o seguro rural é uma dessas possibilidades de garantia. 
+
+#### Seguro compreensivo
+* É a união de várias coberturas em uma só apólice, com cláusulas menos restritivas e de mais fácil compreensão pelos segurados.
+* Esse tipo de seguro abrange uma ampla gama de coberturas e garantias acessórias em um só contrato, permitindo ao segurado a escolha das mais adequadas às suas necessidades, 
+resultando na montagem de um seguro personalizado. 
+* Por exemplo, um só seguro que dê cobertura para desemprego e para danos climáticos à sua propriedade.
+
+#### Seguro de transportes
+* O seguro de transportes garante ao segurado uma indenização pelos prejuízos causados aos bens segurados durante o seu transporte em viagens aquaviárias, terrestres e aéreas, em percursos nacionais e internacionais. A cobertura pode ser estendida durante a permanência das mercadorias em armazéns. 
+
+#### Seguro de crédito
+* É uma modalidade de seguro que tem por objetivo ressarcir o segurado, nas operações de crédito realizadas com clientes domiciliados no país, das perdas líquidas definitivas causadas por devedor insolvente. 
+* Por exemplo, o banco empresta dinheiro a várias pessoas. Porém, temendo que seus clientes não o paguem de volta, ele faz 
+um seguro. 
+* Este seguro é destinado, em especial, às instituições financeiras que realizam operações de crédito. 
+
+#### Seguro de garantia estendida
+* Tem por objetivo fornecer ao segurado a extensão e/ou complementação da garantia legal ou da garantia original de fábrica,estabelecida no contrato de compra e venda de bens de consumo duráveis. 
+
+#### Seguro aluguel
+* Ao alugar um imóvel, na falta de um fiador, é possível contratar um seguro aluguel, no qual a pessoa paga um valor para que a seguradora se torne a sua fiadora. 
+* Geralmente, as seguradoras cobram o valor de três parcelas do aluguel com antecedência, contudo, este dinheiro não retorna ao contratante, pois é o prêmio que está pagando pelo seguro.
+
+#### Microsseguro 
+* É um seguro destinado às necessidades específicas de famílias de baixa renda e de microempreendedores. Entre os microsseguros mais comuns, estão as proteções 
+de vida, de acidentes pessoais, de assistência funerária e prestamista.
+
+#### Seguro popular
+* São seguros de produtos massificados e de pequenos valores, destinado a todos os tipos de consumidores
+
+> ### Seguro de pessoas
+* Estes seguros têm por objetivo garantir o pagamento de uma indenização ao segurado ou aos seus beneficiários, observadas as condições contratuais e as garantias contratadas. 
+* Os seguros de pessoas podem ser contratados de forma individual ou coletiva. Nos seguros coletivos, os segurados aderem a uma apólice contratada por um estipulante, que tem 
+poderes de representação dos segurados perante a seguradora, nos termos da regulamentação vigente. 
+* Exemplos de suguros de pessoas:
+  - Seguro de vida;
+  - Seguro funeral;
+  - Seguro de acidentes pessoais;
+  - Seguro educacional;
+  - Seguro viagem;
+  - Seguro prestamista;
+  - Seguro de diária por internação hospitalar;
+  - Seguro desemprego (perda de renda);
+  - Seguro de diária de incapacidade temporária;
+  - Seguro de perda de certificado de habilitação de voo.
