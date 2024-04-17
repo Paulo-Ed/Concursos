@@ -4,7 +4,7 @@
 
 ## DEFINIÇÃO
 * A crase é uma fusão entre dois elementos de sonoridade semelhante.
-* A fusão que origina a crase sempre começa com um **a** considerado preposição, ou seja, para que se tenha crase precisa-se da ocorrência de uma preposição. A preposição pode ocorrer pela necessidade da regência, ou pela formação de locuções (adjunção).
+* A fusão que origina a crase sempre começa com um **a** considerado preposição, ou seja, para que se tenha crase precisa-se da ocorrência de uma preposição. A preposição pode ocorrer pela necessidade da regência (relação entre a palavra e seus complementos), ou pela formação de locuções (adjunção).
 * Representação:
   - a + a = à
 * A fusão da preposição **a** pode ocorrer em os elementos:
