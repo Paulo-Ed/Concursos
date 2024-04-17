@@ -12,7 +12,7 @@
   - Resseguradoras;
   - Corretoras de seguro.
 > ### Seguros de acumulação
-* São seguros em que a pessoa deposita o dinheiro e após determinado período recebe o valor corrigido por um indexador de juros.
+* São seguros em que a pessoa vai acumulando o dinheiro e após determinado período recebe o valor corrigido por um indexador de juros.
 * Instituições que trabalham com seguros de acumulação:
   - Sociedades de capitalização;
   - Entidades abertas de previdência complementar;
