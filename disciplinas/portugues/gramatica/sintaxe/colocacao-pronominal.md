@@ -24,9 +24,9 @@
 | Preposição *em* + *verbo no gerúndio*                                       |
 
 Ex: Nada **te** assusta mais.  
-Ex: Sempre se quer mais.  
-Ex: Tudo nos ajudou.  
-Ex: Em se tratando de Cesgranrio.
+Ex: Sempre **se** quer mais.  
+Ex: Tudo **nos** ajudou.  
+Ex: Em **se** tratando de Cesgranrio.
 
 #### Regra de próclise proibida
 * A próclise é proibida no início das orações.
@@ -47,7 +47,7 @@ Ex: Convém dar-**me** uma resposta agora.
 * A mesóclise ocorre quando o pronome aparece no meio do verbo, cortando a palavra. O pronome é ligado ao verbo por hífen nesse caso (tanto antes quanto depois, já que está no meio da palavra). A mesóclise é muito rara, sendo uma ocorrência que vem caindo em desuso.
 
 Ex: Combinamos que, na próxima reunião, discutir-**se**-ão os assuntos.  
-Ex: Informar-nos-emos a respeito dessa questão para debatermos melhor no futuro.  
+Ex: Informar-**nos**-emos a respeito dessa questão para debatermos melhor no futuro.  
 
 > ### Ênclise
 * A ênclise ocorre quando o pronome aparece após o verbo, sendo ligado por hífen. Assim como no caso da mesóclise, a ênclise também ocorre quando não houver justificativa para uso da próclise, sendo usada em todas as outras conjugações verbais que não pedem o uso da mesóclise.
@@ -64,5 +64,5 @@ Ex: Essa música exige muita potência vocal. Cantá-la não é para qualquer um
 **Observação:** Para locuções verbais, se o verbo for *verbo auxiliar + verbo principal no infinitivo ou gerúndio* a ocorrência da colocação pronominal poderá ser de próclise e ênclise  voltado para o verbo auxiliar, ou de ênclise para o verbo principal.. Se o verbo for *verbo auxiliar + verbo principal no particípio* a ocorrência da colocação pronominal ocorrerá em relação ao verbo auxiliar.
 
 Ex: Ela **me** estava irritando demais!  
-Ex: Estava irritando-**me** demais!
+Ex: Estava irritando-**me** demais!  
 Ex: Ela **me** havia alertado sobre isso.  
