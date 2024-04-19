@@ -28,8 +28,11 @@ Ex: Eu saiu às doze e meia.
 Ex: À medida que chove o céu escurece.  
 Ex: Vou à padaria.
 
-***DICA:*** TERMINAR verbos de destino
-***DICA:*** TERMINAR cachorro
+***DICA:*** TERMINAR verbos de destino  
+***DICA:*** Para descobrir se há crase antes de uma palavra feminina, troca-se ela pela palavra **cachorro**, se a flexão ficar **ao** então tem crase, se ficar **o** não tem crase.  
+
+Ex: viu a tia. => vio o cachorro (sem crase)  
+Ex: fiel à técnica de sempre. => fiel ao cachorro de sempre (tem crase).  
 
 #### Crase proibida
 * Não se usa crase antes de palavras masculinas.
