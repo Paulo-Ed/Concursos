@@ -4,7 +4,7 @@
 
 ## DEFINIÇÃO
 * É um conselho que julga, em grau de recursos, punições disciplinares aplicadas pelo BACEN, CVM e pelo Coaf (relacionados aos crimes de lavagem de dinheiro), sempre em caráter administrativo.
-* O CRSFN atua, quando por exemplo o BACEN aplica uma punição a uma instituição financeira que após recorrer ao próprio BACEN, continua com a punição, então essa instiuição pode recorrer ao CRSFN para solicitar uma reconsideração da sua penalidade.
+* O CRSFN atua, quando por exemplo o BACEN aplica uma punição a uma instituição financeira que após recorrer ao próprio BACEN, continua com a punição, então essa instituição pode recorrer ao CRSFN para solicitar uma reconsideração da sua penalidade.
 
 > ### Organização
 * É um orgão paritário formado por oito conselheiros titulares e seus respectivos suplentes, que possuam reconhecida capacidade técnica e notório conhecimento nas matérias de competência do conselho.
