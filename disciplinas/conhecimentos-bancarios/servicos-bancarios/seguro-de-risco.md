@@ -84,7 +84,7 @@ e demais encargos.
 #### Retrocessão
 * É a operação de transferência dos riscos de uma resseguradora para seguradores ou resseguradores. É a situação na qual a resseguradora também faz um seguro para o resseguro.
 
-## TIPOS DE SEGUROS DE RISCO
+## MODALIDADES DE SEGURO DE RISCO
 * Existem seguros de risco nas modalidades de: seguro de danos, seguro de pessoas além de seguros específicos.
 
 > ### Seguro de danos
