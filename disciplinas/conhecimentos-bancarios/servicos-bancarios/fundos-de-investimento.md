@@ -33,3 +33,5 @@ relacionados à operação do fundo.
 * Fundos abertos requerem autorização da CVM para funcionar.
 * A distribuição das cotas necessita de registro prévio na CVM. 
 * As cotas de fundo fechado podem ser transferidas, mediante termo de cessão e transferência, ou por meio de negociação em mercado.
+
+FALTA MODALIDADES 1 E 2 E ATUALIZAÇÕES
