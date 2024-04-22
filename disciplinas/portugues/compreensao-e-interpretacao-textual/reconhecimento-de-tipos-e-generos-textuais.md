@@ -1,5 +1,7 @@
 # Reconhecimento de Tipos e Gêneros Textuais
 
+<br>
+
 ## COMPREENSÃO
 * A compreensão textual é a definição do que está escrito. Para uma boa compreensão é fundamental se ater unicamente ao texto, se desprendendo de qualquer julgamento ou inferência.
 * Em resumo compreender é decifrar o que o autor escreveu.
