@@ -20,3 +20,5 @@ Ex: O carro bateu na parede
 1. verbo = bateu
 2. O que bateu na parede? => o carro
 3. sujeito = carro
+
+TERMINAR
