@@ -20,15 +20,22 @@
 * A crase é obrigatória antes da locução *à moda de* mesmo que subentendido.
 * A crase é obrigatória na indicação de horas exatas.
 * A crase é obrigatória antes de locuções femininas.
+* A crase é obrigatória após verbos que indicam destino (ir, vir, voltar).
 
-Ex: Fomos à praça.
+Ex: Fomos à praça.  
 Ex: Refere-se àquilo que aconteceu ontem na rua.  
 Ex: Dribla à (moda de) Pelé.  
 Ex: Eu saiu às doze e meia.  
 Ex: À medida que chove o céu escurece.  
 Ex: Vou à padaria.
 
-***DICA:*** TERMINAR verbos de destino  
+***DICA:*** Para descobri se há crase após um verbo de destino, coloca-se a palavra após a crase na seguinte frase e verifica qual mantém o sentido: 
+1. vai a ... , volta da ... (tem crase)
+2. vai a ... , volta de ... (não tem crase).
+
+Ex: Fui à rua => vai à rua, volta da rua.  
+Ex: Foi a Roma => vai a Roma, volta de Roma.  
+
 ***DICA:*** Para descobrir se há crase antes de uma palavra feminina, troca-se ela pela palavra **cachorro**, se a flexão ficar **ao** então tem crase, se ficar **o** não tem crase.  
 
 Ex: viu a tia. => vio o cachorro (sem crase)  
