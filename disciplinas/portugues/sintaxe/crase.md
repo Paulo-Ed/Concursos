@@ -15,19 +15,25 @@
 > ### Regras de uso da crase
 
 #### Crase obrigatória
-* A crase é obrigatória antes de palavras femininas.
-* A crase é obrigatória antes dos pronomes demonstrativos: aquela, aquele, aquilo.  
-* A crase é obrigatória antes da locução *à moda de* mesmo que subentendido.
-* A crase é obrigatória na indicação de horas exatas.
-* A crase é obrigatória antes de locuções femininas.
-* A crase é obrigatória após verbos que indicam destino (ir, vir, voltar).
+* Antes de palavras femininas.
+* Antes dos pronomes demonstrativos: aquela, aquele, aquilo.  
+* Antes da locução **à moda de** mesmo que subentendido.
+* Na indicação de horas exatas.
+* Antes de locuções femininas.
+* Após verbos que indicam destino (ir, vir, voltar).
+* Antes da palavra **casa** quando for uma casa específica.
+* Antes da palavra **terra** (com exceção do contrário de estar a bordo).
+* Antes da palavra **distância** quando for informada a medida da distância.
 
 Ex: Fomos à praça.  
 Ex: Refere-se àquilo que aconteceu ontem na rua.  
 Ex: Dribla à (moda de) Pelé.  
 Ex: Eu saiu às doze e meia.  
 Ex: À medida que chove o céu escurece.  
-Ex: Vou à padaria.
+Ex: Vou à padaria.  
+Ex: Vou à casa dos meus pais.  
+Ex: Retornarei à terra onde nasci.  
+Ex: Nos vimos tudo à distância de 100 metros.
 
 ***DICA:*** Para descobri se há crase após um verbo de destino, coloca-se a palavra após a crase na seguinte frase e verifica qual mantém o sentido: 
 1. vai a ... , volta da ... (tem crase)
