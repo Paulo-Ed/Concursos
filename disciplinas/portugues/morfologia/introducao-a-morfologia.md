@@ -109,3 +109,5 @@
 | Sem, sob, sobre, trás              |
 
 #### Conjunções
+
+ADICIONAR CONJUNÇÕES
