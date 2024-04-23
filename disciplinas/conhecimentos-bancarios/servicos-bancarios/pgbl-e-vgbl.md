@@ -10,7 +10,7 @@
 * É permitida a portabilidade de um plano (do mesmo tipo) de uma instituição para outra.
 
 #### Lei n.º 14.803/2023
-* A lei determinou que participantes de planos de benefício previdênciário a partir de 01/01/2005 podem migrar o tipo de plano (PGBL e VGBL) e escolher a opção de regime de tributação, que irá ser cobrado sobre os valores pagos acumulados nos planos de previdência complementar aberta e fechada.
+* A lei determinou que participantes de planos de benefício previdênciário a partir de 01/01/2005 podem escolher a opção de regime de tributação, que irá ser cobrado sobre os valores pagos acumulados nos planos de previdência complementar aberta e fechada.
 * A forma de tributação do PGBL e do VGBL são diferentes, mas a escolha do regime de tributação é a mesma e está disponível para ambos.
 
 #### Características PGBL

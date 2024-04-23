@@ -15,4 +15,4 @@
 | **RENDIMENTO**         | Não há remuneração mínima             | Não há remuneração mínima                                          |
 | **APLICAÇÃO**          | Valor mensal definido pelo investidor | Trabalhador define e a empresa a complementa com até o mesmo valor |
 | **PARTICIPANTES**      | Participação livre                    | Funcionários da empresa                                            |
-| **PORTABILIDADE**      | Permitida inclusive de PGBL para VGBL | Permitida                                                          |
+| **PORTABILIDADE**      | Permitida para mesma modalidade       | Permitida para mesma modalidade                                    |
