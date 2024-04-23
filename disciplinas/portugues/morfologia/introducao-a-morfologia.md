@@ -108,6 +108,27 @@
 | Em, entre, para, per, perante, por |
 | Sem, sob, sobre, trás              |
 
-#### Conjunções
+#### Conjunções coordenativas
 
-ADICIONAR CONJUNÇÕES
+| TIPOS        | CONJUNÇÕES                                                               |
+| ------------ | ------------------------------------------------------------------------ |    
+| Aditivas     | e, nem, também, bem como, não só...mas também                            |
+| Adversativas | mas, porém, contudo, todavia, entretanto, no entanto, não obstante       |
+| Alternativas | ou, ou...ou, já...já, ora...ora, quer...quer, seja...seja                |
+| Conclusivas  | logo, pois, portanto, assim, por isso, por consequência, por conseguinte |
+| Explicativas | que, porque, porquanto, pois, isto é                                     |
+
+#### Conjunções subordinativas
+
+| TIPOS                                                  | CONJUNÇÕES                                                                                               |
+| ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |    
+| Integrantes (introduzem orações substantivas)          | que, se, como                                                                                            |
+| Adverbiais causais (expressam causa)                   | porque, que, porquanto, visto que, uma vez que, já que, pois que, como                                   |
+| Adverbiais consecutivas (expressam consequência)       | que, tanto que, tão que, tal que, tamanho que, de forma que, de modo que, de sorte que, de tal forma que |
+| Adverbiais finais (expressam finalidade)               | a fim de que, para que, que                                                                              |
+| Adverbiais temporais (expressam tempo)                 | quando, enquanto, agora que, logo que, desde que, assim que, tanto que, apenas                           |
+| Adverbiais condicionais (expressam condição)           | se, caso, desde, salvo se, desde que, exceto se, contando que                                            |
+| Adverbiais concessivas (expressam contraste)           | embora, conquanto, ainda que, mesmo que, se bem que, posto que                                           |
+| Adverbiais comparativas (expressam comparação)         | como, assim como, tal, qual, tanto como                                                                  |
+| Adverbiais conformativas (expressam conformidade)      | conforme, como, consoante, segundo                                                                       |
+| Adverbiais proporcionais (expressam proporcionalidade) | à proporção que, à medida que, ao passo que, quanto mais...mais                                          |
