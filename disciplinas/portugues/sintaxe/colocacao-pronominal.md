@@ -54,10 +54,12 @@ Ex: Informar-**nos**-emos a respeito dessa questão para debatermos melhor no fu
 
 #### Regra de ênclise
 * É usada quando o verbo está no imperativo afirmativo.
+* É usada quando o verbo inicia a frase.
 * Para verbos terminados em **-m** o adiciona-se a letra **-n** ao pronome. 
 * Para verbos terminados em **-r**, acentua-se a vogal tônica e adiciona-se a letra **-l** ao pronome. 
 
 Ex: Traga-**me** um copo.  
+Ex: Chegou-**se** cedo hoje.  
 Ex: Tirem-**no** daqui imediatamente!  
 Ex: Essa música exige muita potência vocal. Cantá-la não é para qualquer um.
 
