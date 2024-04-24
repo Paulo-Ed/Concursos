@@ -32,7 +32,7 @@ Anotações do estudo para concursos.
 > ### Conhecimentos Bancários
 
 #### Parte 1 - Sistema Financeiro Nacional
-  - [Introdução ao Sistema Financeiro Nacional](./disciplinas/conhecimentos-bancarios/sistema-financeiro-nacional/introducao-ao-sistema-financeiro-nacional.md)
+  - [Sistema Financeiro Nacional](./disciplinas/conhecimentos-bancarios/sistema-financeiro-nacional/sistema-financeiro-nacional.md)
   - [Conselho Monetário Nacional](./disciplinas/conhecimentos-bancarios/sistema-financeiro-nacional/cmn.md)
   - [Banco Central do Brasil](./disciplinas/conhecimentos-bancarios/sistema-financeiro-nacional/bacen.md)
   - [Comitê de Política Monetária](./disciplinas/conhecimentos-bancarios/sistema-financeiro-nacional/copom.md)
