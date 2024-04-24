@@ -10,21 +10,21 @@ Anotações do estudo para concursos.
   - [Discurso](./disciplinas/portugues/compreensao-e-interpretacao-textual/discurso.md)
 
 #### Parte 2 - Ortografia
-  - [Introdução à Ortografia](./disciplinas/portugues/ortografia/introducao-a-ortografia.md)
+  - [Ortografia](./disciplinas/portugues/ortografia/ortografia.md)
   - [Sílabas](./disciplinas/portugues/ortografia/silabas.md)
   - [Tonicidade](./disciplinas/portugues/ortografia/tonicidade.md)
   - [Acentuação](./disciplinas/portugues/ortografia/acentuacao.md)
   - [Hífen](./disciplinas/portugues/ortografia/hifen.md)
 
 #### Parte 3 - Morfologia
-  - [Introdução à Morfologia](./disciplinas/portugues/morfologia/introducao-a-morfologia.md)
+  - [Morfologia](./disciplinas/portugues/morfologia/morfologia.md)
   - [Grupo dos Nomes](./disciplinas/portugues/morfologia/grupo-dos-nomes.md)
   - [Grupo dos Verbos](./disciplinas/portugues/morfologia/grupo-dos-verbos.md)
   - [Grupo dos Conectores](./disciplinas/portugues/morfologia/grupo-dos-conectores.md)
   - [Grupo das Emoções](./disciplinas/portugues/morfologia/grupo-das-emocoes.md)
 
 #### Parte 4 - Sintaxe
-  - [Introdução à Sintaxe](./disciplinas/portugues/sintaxe/introducao-a-sintaxe.md)
+  - [Sintaxe](./disciplinas/portugues/sintaxe/sintaxe.md)
   - [Sujeito](./disciplinas/portugues/sintaxe/sujeito.md)
   - [Crase](./disciplinas/portugues/sintaxe/crase.md)
   - [Colocação Pronominal](./disciplinas/portugues/sintaxe/colocacao-pronominal.md)

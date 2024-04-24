@@ -1,4 +1,4 @@
-## Introdução à Sintaxe
+# Sintaxe
 
 <br>
 
