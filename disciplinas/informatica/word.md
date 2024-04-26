@@ -6,7 +6,7 @@
 * Editor de texto da microsoft.
 
 #### Características
-* Formatos: .XML, .DOCX, .DOC, .DOCM, .DOT, DOTX, .ODT, .RTF, .XML, .HTML, .PDF.
+* Formatos: .XML.DOCX, .DOC, .DOCM, .DOT, DOTX, .ODT, .RTF, .XML, .HTML, .PDF.
 * Exporta e edita pdf.
 * É um software proprietário.
 * É pago.
