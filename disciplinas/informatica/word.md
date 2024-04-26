@@ -44,30 +44,13 @@
 * Para realizar a mala direta, é necessário trabalhar com a guia correspondências e seus recursos de mesclagem. 
 
 > ### Guia revisão
-* A guia de Revisão é onde estão localizadas as ferramentas destinadas a revisar e
-aprimorar um texto. Por meio dessas ferramentas, é possível corrigir erros ortográficos
-e gramaticais, bem como melhorar a estrutura e concisão do texto. No Editor, disponível
-também na guia Página Inicial, são oferecidas análises mais detalhadas, incluindo verificação de plágio e sugestões de sinônimos para enriquecer o vocabulário. Além disso,
-o Editor auxilia na contagem de palavras e na garantia da acessibilidade do texto, por
-exemplo, através da leitura em voz alta para facilitar a compreensão.
-Outras funcionalidades presentes na guia Página Inicial incluem o Dicionário de Sinônimos, que ajuda a evitar redundâncias no texto, e a ferramenta de contagem de palavras. A acessibilidade é promovida com recursos como o leitor de tela para usuários com
-dificuldades visuais. Além disso, é possível trabalhar com diferentes idiomas, incluindo
-tradução de textos. Comentários também são uma ferramenta importante para revisão,
-permitindo que se façam observações e sugestões diretamente no texto.
-O Controle de Alterações é uma funcionalidade frequentemente utilizada em colaborações, especialmente quando documentos são compartilhados no OneDrive. Ao compartilhar um documento, este é armazenado no OneDrive, permitindo o controle das
-alterações realizadas por diferentes colaboradores ao longo do tempo, sendo possível
-enviar convites para outras pessoas colaborarem no documento. Se essas pessoas possuírem autorização de edição, elas poderão fazer modificações no documento. 
-Ao ativar a ferramenta de Controle de Alterações, todas as edições feitas pelas pessoas são registradas. Um painel ao lado esquerdo mostra quem fez as alterações, juntamente com o horário e a data. No próprio texto, as alterações são identificadas: uma
-palavra em vermelho e com um traço indica que foi removida, enquanto uma palavra em
-vermelho e sublinhada indica uma adição. Dessa forma, pode-se gerenciar essas alterações conforme necessário.
+* A guia de Revisão é onde estão localizadas as ferramentas destinadas a revisar e aprimorar um texto. Por meio dessas ferramentas, é possível corrigir erros ortográficos
+e gramaticais, bem como melhorar a estrutura e concisão do texto. 
 
 > ### Guia exibir
-A lógica por trás dessa guia é simples: se algo está sendo exibido, pressupõe-se que
-pode ser ocultado, e o que foi ocultado pode ser exibido novamente. Essa guia trata da
-manipulação da visibilidade de elementos, geralmente relacionados às próprias ferramentas do programa.
-Essa guia possui as macros que são ferramentas de automação no Microsoft Office,
-permitindo gravar e executar comandos em documentos. Embora úteis, sua inclusão na
-guia em questão parece fora de contexto.
+* A lógica por trás dessa guia é simples: se algo está sendo exibido, pressupõe-se que pode ser ocultado, e o que foi ocultado pode ser exibido novamente. 
+* Essa guia trata da manipulação da visibilidade de elementos, geralmente relacionados às próprias ferramentas do programa.
+* Essa guia possui as macros que são ferramentas de automação no Microsoft Office, permitindo gravar e executar comandos em documentos.
 
 > ### Resumo
 
