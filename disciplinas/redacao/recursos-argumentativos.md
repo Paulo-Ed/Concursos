@@ -1,4 +1,7 @@
-## Recursos Argumentativos
+# Recursos Argumentativos
+
+## DEFINIÇÃO
+* São formas de fundamentação da elaboração de um posicionamento no texto.
 
 > ### Citações
 

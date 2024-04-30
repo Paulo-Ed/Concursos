@@ -1,6 +1,6 @@
 # Dissertação Argumentativa
 
-## ELEMENTOS DA DISSERTAÇÃO 
+## DEFINIÇÃO
 * A dissertação argumentativa sempre trata de um problema.
 * Elementos de um Problema:
   - Todo problema tem vítimas.

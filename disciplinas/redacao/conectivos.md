@@ -1,6 +1,6 @@
-## Coesão e Coerência Textual
+# Conectivos
 
-## CONECTIVOS
+## DEFINIÇÃO
 * São palavras ou expressões que ligam frases, orações e parágrafos, permitindo a conexão de ideias e uma sequência coerente to texto.
 
 > ### Conectivos para a introdução
