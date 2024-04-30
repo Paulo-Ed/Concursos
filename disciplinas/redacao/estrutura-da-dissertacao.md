@@ -8,7 +8,7 @@
   - Todo problema tem causas.
   - Todo problema tem consequências.
 
-## ESTRUTURA
+## ESTRUTURA DA REDAÇÃO
 
 > ### Introdução
 
