@@ -1,14 +1,14 @@
-# Estrutura da Dissertação Argumentativa
+# Dissertação Argumentativa
 
-## ELEMENTOS DA REDAÇÃO
-* A redação sempre trata de um problema.
+## ELEMENTOS DA DISSERTAÇÃO 
+* A dissertação argumentativa sempre trata de um problema.
 * Elementos de um Problema:
   - Todo problema tem vítimas.
   - Todo problema tem responsáveis.
   - Todo problema tem causas.
   - Todo problema tem consequências.
 
-## ESTRUTURA DA REDAÇÃO
+## ESTRUTURA DA DISSERTAÇÃO
 
 > ### Introdução
 
