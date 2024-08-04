@@ -99,4 +99,4 @@ Ex ruir = > ru-ir
 Ex: pólen => polens  
 Ex: hífen => hifens  
 
-**Observação:** A palavra **armazém** é uma exceção que no plural continua acentuada como **armazéns**.
+**Observação:** A palavra **armazém** continua acentuada como **armazéns** por ser oxítona e não paroxítona.
